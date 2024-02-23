@@ -1,0 +1,20 @@
+name: UI checks - Loki imageshots
+
+on: push
+
+jobs:
+  test:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚀 Prepare Repository
+        uses: actions/checkout@v3
+
+      - name: 🧩 Install Dependencies
+        run: npm ci
+
+      - name: 🏗️ Build Storybook
+        run: npm run story:build --quiet
+
+      - name: 📸 Run Imageshots
+        run: npm run test:ui:ci
