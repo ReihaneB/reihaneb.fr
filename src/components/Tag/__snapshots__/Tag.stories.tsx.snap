@@ -78,3 +78,24 @@ exports[`Components/Tag WithIcon smoke-test 1`] = `
   </div>
 </main>
 `;
+
+exports[`Components/Tag WithIcon smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+       data-testid="tag-component"
+       tabindex="-1"
+  >
+    <svg xmlns="http://www.w3.org/2000/svg"
+         viewbox="285.064 203.084 6.85 14"
+         class="src-components-Tag-Tag-module__icon--kRFOB"
+    >
+      <path d="M9.3 7 4.6 1.7c-.3-.4-.3-1 0-1.4s.9-.4 1.2 0l5.2 6c.3.4.3 1 0 1.4l-5.2 6c-.3.4-.9.4-1.2 0s-.3-1 0-1.4z"
+            transform="translate(280.689 203.084)"
+            style="fill-rule: evenodd; clip-rule: evenodd;"
+      >
+      </path>
+    </svg>
+    Tag content
+  </div>
+</main>
+`;
