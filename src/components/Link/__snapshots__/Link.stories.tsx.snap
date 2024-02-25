@@ -6,7 +6,7 @@ exports[`Components/Link Active smoke-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -17,7 +17,7 @@ exports[`Components/Link AutoFocus play-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -28,7 +28,7 @@ exports[`Components/Link ClickMultipleTimes play-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -39,7 +39,7 @@ exports[`Components/Link Focus smoke-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -50,7 +50,7 @@ exports[`Components/Link FocusOnClick play-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -61,7 +61,7 @@ exports[`Components/Link FocusOnTab play-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -72,7 +72,7 @@ exports[`Components/Link Hover smoke-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -119,7 +119,7 @@ exports[`Components/Link Playground smoke-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -130,7 +130,7 @@ exports[`Components/Link PressEnter play-test 1`] = `
      data-testid="link-component"
      href="/"
   >
-    Click me
+    Click on the link
   </a>
 </main>
 `;
@@ -151,7 +151,7 @@ exports[`Components/Link WithIcon smoke-test 1`] = `
       >
       </path>
     </svg>
-    Click me
+    Click on the link
   </a>
 </main>
 `;
