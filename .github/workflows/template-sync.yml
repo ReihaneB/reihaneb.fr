@@ -1,0 +1,24 @@
+name: Template repository sync
+
+on:
+  schedule:
+  - cron:  "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: 🚀 Prepare Repository
+        uses: actions/checkout@v4
+
+      - name: 🔄 Sync Repository
+        uses: AndreasAugustin/actions-template-sync@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          source_repo_path: <ReihaneB/front-end-basics>
+          upstream_branch: <development>
