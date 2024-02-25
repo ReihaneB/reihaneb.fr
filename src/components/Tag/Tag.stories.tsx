@@ -2,6 +2,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { expect, userEvent, waitFor, within } from '@storybook/test';
 
 import { lokiPlayDecorator } from '@/testUtils/loki/play-decorator';
+import IconArrow from '@/styles/icons/arrows/arrow.svg';
 
 import Tag from './Tag';
 
@@ -25,6 +26,13 @@ export const Playground: Story = {
   },
 };
 
+export const WithIcon: Story = {
+  args: {
+    ...defaultArgs,
+    Icon: IconArrow,
+  },
+};
+
 export function LongText() {
   return (
     <div className={styles.container}>
@@ -36,6 +44,18 @@ export function LongText() {
 }
 
 LongText.storyName = 'Long text';
+
+export function LongTextWithIcon() {
+  return (
+    <div className={styles.container}>
+      <Tag Icon={IconArrow}>
+        This is a very long text that should be going to the next line
+      </Tag>
+    </div>
+  );
+}
+
+LongTextWithIcon.storyName = 'Long text with icon';
 
 export const NotFocusTab: Story = {
   args: {

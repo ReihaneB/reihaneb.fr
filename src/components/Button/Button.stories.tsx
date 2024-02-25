@@ -32,6 +32,33 @@ export const Playground: Story = {
   },
 };
 
+export const Hover: Story = {
+  args: {
+    ...defaultArgs,
+  },
+  parameters: {
+    pseudo: { hover: true },
+  },
+};
+
+export const Active: Story = {
+  args: {
+    ...defaultArgs,
+  },
+  parameters: {
+    pseudo: { active: true },
+  },
+};
+
+export const Focus: Story = {
+  args: {
+    ...defaultArgs,
+  },
+  parameters: {
+    pseudo: { focusVisible: true },
+  },
+};
+
 export const Disabled: Story = {
   args: {
     ...defaultArgs,
