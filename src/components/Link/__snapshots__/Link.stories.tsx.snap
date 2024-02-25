@@ -1,20 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Components/Link Active smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
-     href="/"
-  >
-    Click on the link
-  </a>
-</main>
-`;
-
 exports[`Components/Link AutoFocus play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -24,8 +12,7 @@ exports[`Components/Link AutoFocus play-test 1`] = `
 
 exports[`Components/Link ClickMultipleTimes play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -33,21 +20,19 @@ exports[`Components/Link ClickMultipleTimes play-test 1`] = `
 </main>
 `;
 
-exports[`Components/Link Focus smoke-test 1`] = `
+exports[`Components/Link CorrectHref play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
-     href="/"
+  <a data-testid="link-component"
+     href="/link"
   >
-    Click on the link
+    /link
   </a>
 </main>
 `;
 
 exports[`Components/Link FocusOnClick play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -57,19 +42,7 @@ exports[`Components/Link FocusOnClick play-test 1`] = `
 
 exports[`Components/Link FocusOnTab play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
-     href="/"
-  >
-    Click on the link
-  </a>
-</main>
-`;
-
-exports[`Components/Link Hover smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -80,33 +53,9 @@ exports[`Components/Link Hover smoke-test 1`] = `
 exports[`Components/Link LongText smoke-test 1`] = `
 <main class="inter-normal">
   <div class="src-components-Link-Link-stories-module__container--Kpt8t">
-    <a class="src-components-Link-Link-module__root--ggyqZ"
-       data-testid="link-component"
+    <a data-testid="link-component"
        href="/"
     >
-      This is a very long text that should be going to the next line
-    </a>
-  </div>
-</main>
-`;
-
-exports[`Components/Link LongTextWithIcon smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-components-Link-Link-stories-module__container--Kpt8t">
-    <a class="src-components-Link-Link-module__root--ggyqZ"
-       data-testid="link-component"
-       href="/"
-    >
-      <svg xmlns="http://www.w3.org/2000/svg"
-           viewbox="285.064 203.084 6.85 14"
-           class="src-components-Link-Link-module__icon--B0cve"
-      >
-        <path d="M9.3 7 4.6 1.7c-.3-.4-.3-1 0-1.4s.9-.4 1.2 0l5.2 6c.3.4.3 1 0 1.4l-5.2 6c-.3.4-.9.4-1.2 0s-.3-1 0-1.4z"
-              transform="translate(280.689 203.084)"
-              style="fill-rule: evenodd; clip-rule: evenodd;"
-        >
-        </path>
-      </svg>
       This is a very long text that should be going to the next line
     </a>
   </div>
@@ -115,8 +64,7 @@ exports[`Components/Link LongTextWithIcon smoke-test 1`] = `
 
 exports[`Components/Link Playground smoke-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -126,31 +74,9 @@ exports[`Components/Link Playground smoke-test 1`] = `
 
 exports[`Components/Link PressEnter play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
-    Click on the link
-  </a>
-</main>
-`;
-
-exports[`Components/Link WithIcon smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ"
-     data-testid="link-component"
-     href="/"
-  >
-    <svg xmlns="http://www.w3.org/2000/svg"
-         viewbox="285.064 203.084 6.85 14"
-         class="src-components-Link-Link-module__icon--B0cve"
-    >
-      <path d="M9.3 7 4.6 1.7c-.3-.4-.3-1 0-1.4s.9-.4 1.2 0l5.2 6c.3.4.3 1 0 1.4l-5.2 6c-.3.4-.9.4-1.2 0s-.3-1 0-1.4z"
-            transform="translate(280.689 203.084)"
-            style="fill-rule: evenodd; clip-rule: evenodd;"
-      >
-      </path>
-    </svg>
     Click on the link
   </a>
 </main>
