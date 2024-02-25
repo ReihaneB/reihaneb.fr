@@ -2,7 +2,6 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { expect, userEvent, waitFor, within } from '@storybook/test';
 
 import { lokiPlayDecorator } from '@/testUtils/loki/play-decorator';
-import IconArrow from '@/styles/icons/arrows/arrow.svg';
 
 import Link from './Link';
 
@@ -29,40 +28,6 @@ export const Playground: Story = {
   },
 };
 
-export const Hover: Story = {
-  args: {
-    ...defaultArgs,
-  },
-  parameters: {
-    pseudo: { hover: true },
-  },
-};
-
-export const Active: Story = {
-  args: {
-    ...defaultArgs,
-  },
-  parameters: {
-    pseudo: { active: true },
-  },
-};
-
-export const Focus: Story = {
-  args: {
-    ...defaultArgs,
-  },
-  parameters: {
-    pseudo: { focusVisible: true },
-  },
-};
-
-export const WithIcon: Story = {
-  args: {
-    ...defaultArgs,
-    Icon: IconArrow,
-  },
-};
-
 export const AutoFocus: Story = {
   args: {
     ...defaultArgs,
@@ -73,6 +38,25 @@ export const AutoFocus: Story = {
       const canvas = within(canvasElement);
 
       await waitFor(() => expect(canvas.getByTestId('link-component')).toHaveFocus());
+    }
+  ),
+};
+
+export const CorrectHref: Story = {
+  name: 'Correct href',
+  args: {
+    ...defaultArgs,
+    children: '/link',
+    to: '/link',
+  },
+  play: lokiPlayDecorator(
+    async ({ args, canvasElement }) => {
+      const canvas = within(canvasElement);
+
+      expect(args.to).toBe('/link');
+      expect(canvas.getByTestId('link-component')).toHaveAttribute('href', '/link');
+
+      // TODO: Except Actions when it will be implemented with Storybook Interaction
     }
   ),
 };
@@ -158,18 +142,3 @@ export function LongText() {
 }
 
 LongText.storyName = 'Long text';
-
-export function LongTextWithIcon() {
-  return (
-    <div className={styles.container}>
-      <Link
-        to="/"
-        Icon={IconArrow}
-      >
-        This is a very long text that should be going to the next line
-      </Link>
-    </div>
-  );
-}
-
-LongTextWithIcon.storyName = 'Long text with icon';
