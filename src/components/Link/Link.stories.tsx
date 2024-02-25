@@ -18,7 +18,7 @@ type Story = StoryObj<typeof Link>;
 
 const defaultArgs = {
   to: '/',
-  children: 'Click me',
+  children: 'Click on the link',
   autoFocus: false,
   forwardedRef: null,
 };
