@@ -3,7 +3,6 @@ import { memo } from 'react';
 import { useClickable } from '@/hooks/useClickable/useClickable';
 import { useFocusable } from '@/hooks/useFocusable/useFocusable';
 
-import styles from './Button.module.css';
 import type { ButtonProps } from './Button.d';
 
 function Button({
@@ -26,7 +25,6 @@ function Button({
   return (
     <button
       type="button"
-      className={styles.rootStyle}
       ref={elementRef}
       disabled={disabled}
       data-testid="button-component"
