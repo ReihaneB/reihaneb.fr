@@ -17,7 +17,7 @@ export default meta;
 type Story = StoryObj<typeof Tag>;
 
 const defaultArgs = {
-  children: 'Click me',
+  children: 'Tag content',
 };
 
 export const Playground: Story = {
