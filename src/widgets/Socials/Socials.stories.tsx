@@ -60,12 +60,6 @@ export const WithIcons: Story = {
   },
 };
 
-export const Empty: Story = {
-  args: {
-    socials: [],
-  },
-};
-
 export const Single: Story = {
   args: {
     socials: [
