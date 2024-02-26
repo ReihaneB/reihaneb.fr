@@ -1,0 +1,27 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  color: var(--grey);
+}
+
+.logo {
+  font-weight: 500;
+  font-size: 32px;
+  margin-bottom: 32px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.logo:hover {
+  transform: scale(0.95);
+}
+
+.logo:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 4px var(--focus-blue);
+  border-radius: 4px;
+}
