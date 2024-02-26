@@ -2,11 +2,11 @@ export interface FetchParams {
   method: string;
   path?: string;
   tag: string;
+  params?: string;
   headers?: Record<string, string>;
   payload?: Record<string, unknown>;
   state?: 'static' | 'dynamic';
   responseType?: 'json' | 'text' | 'blob';
-  timeout?: number;
 }
 
 export interface FetchResponse {
