@@ -1,0 +1,179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/MainStack _1Element play-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Postgres
+      </div>
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Widgets/MainStack _2Elements play-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Postgres
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Express
+      </div>
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Widgets/MainStack _3Elements play-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Postgres
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Express
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Next
+      </div>
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Widgets/MainStack _4Elements play-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Postgres
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Express
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Next
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        React
+      </div>
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Widgets/MainStack MoreThan4Elements play-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Postgres
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Express
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Next
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        React
+      </div>
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Widgets/MainStack Playground smoke-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Next
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Express
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        Postgres
+      </div>
+    </li>
+  </ul>
+</main>
+`;
