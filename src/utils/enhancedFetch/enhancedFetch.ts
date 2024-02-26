@@ -4,6 +4,7 @@ async function enhancedFetch({
   method,
   path = '',
   tag,
+  params = '',
   headers = {},
   payload,
   state = 'static',
@@ -14,6 +15,7 @@ async function enhancedFetch({
     withCredentials: true,
     headers: {
       'Content-Type': 'application/json',
+      Authorization: `Bearer ${process.env.API_TOKEN}`,
       ...headers,
     },
     next: {
@@ -23,8 +25,12 @@ async function enhancedFetch({
     body: payload ? JSON.stringify(payload) : undefined,
   };
 
+  const slug = '/api';
+
+  const parameters = params || '?populate=deep';
+
   try {
-    const result = await fetch(`${process.env.API_URL}${path}`, options);
+    const result = await fetch(`${process.env.API_URL}${slug}${path}${parameters}`, options);
 
     let body;
     switch (responseType) {
