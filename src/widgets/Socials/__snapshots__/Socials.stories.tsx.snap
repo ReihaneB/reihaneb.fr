@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/Socials Empty smoke-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
+  </ul>
+</main>
+`;
+
+exports[`Widgets/Socials Multiple smoke-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://facebook.com"
+      >
+        <img alt="Icône de lien vers https://facebook.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Facebook
+      </a>
+    </li>
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://twitter.com"
+      >
+        <img alt="Icône de lien vers https://twitter.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Twitter
+      </a>
+    </li>
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://instagram.com"
+      >
+        <img alt="Icône de lien vers https://instagram.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Instagram
+      </a>
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Widgets/Socials Playground smoke-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://facebook.com"
+      >
+        <img alt="Icône de lien vers https://facebook.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Facebook
+      </a>
+    </li>
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://twitter.com"
+      >
+        <img alt="Icône de lien vers https://twitter.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Twitter
+      </a>
+    </li>
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://instagram.com"
+      >
+        <img alt="Icône de lien vers https://instagram.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Instagram
+      </a>
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Widgets/Socials Single smoke-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://facebook.com"
+      >
+        <img alt="Icône de lien vers https://facebook.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Facebook
+      </a>
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Widgets/Socials WithIcons smoke-test 1`] = `
+<main class="inter-normal">
+  <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://facebook.com"
+      >
+        <img alt="Icône de lien vers https://facebook.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Facebook
+      </a>
+    </li>
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://twitter.com"
+      >
+        <img alt="Icône de lien vers https://twitter.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Twitter
+      </a>
+    </li>
+    <li>
+      <a class="src-components-Link-Link-module__root--ggyqZ"
+         data-testid="link-component"
+         href="https://instagram.com"
+      >
+        <img alt="Icône de lien vers https://instagram.com"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Link-Link-module__icon--B0cve"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
+        >
+        Instagram
+      </a>
+    </li>
+  </ul>
+</main>
+`;
