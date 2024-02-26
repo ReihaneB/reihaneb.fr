@@ -1,12 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Widgets/Socials Empty smoke-test 1`] = `
-<main class="inter-normal">
-  <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
-  </ul>
-</main>
-`;
-
 exports[`Widgets/Socials Multiple smoke-test 1`] = `
 <main class="inter-normal">
   <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
