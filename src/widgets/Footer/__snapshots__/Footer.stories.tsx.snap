@@ -13,7 +13,7 @@ exports[`Widgets/Footer Multiple smoke-test 1`] = `
     </a>
     <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
       <li>
-        <a class="src-components-Link-Link-module__root--ggyqZ"
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
            data-testid="link-component"
            href="https://facebook.com"
         >
@@ -32,7 +32,7 @@ exports[`Widgets/Footer Multiple smoke-test 1`] = `
         </a>
       </li>
       <li>
-        <a class="src-components-Link-Link-module__root--ggyqZ"
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
            data-testid="link-component"
            href="https://twitter.com"
         >
@@ -51,7 +51,7 @@ exports[`Widgets/Footer Multiple smoke-test 1`] = `
         </a>
       </li>
       <li>
-        <a class="src-components-Link-Link-module__root--ggyqZ"
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
            data-testid="link-component"
            href="https://instagram.com"
         >
@@ -87,7 +87,7 @@ exports[`Widgets/Footer Playground smoke-test 1`] = `
     </a>
     <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
       <li>
-        <a class="src-components-Link-Link-module__root--ggyqZ"
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
            data-testid="link-component"
            href="https://facebook.com"
         >
@@ -106,7 +106,7 @@ exports[`Widgets/Footer Playground smoke-test 1`] = `
         </a>
       </li>
       <li>
-        <a class="src-components-Link-Link-module__root--ggyqZ"
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
            data-testid="link-component"
            href="https://twitter.com"
         >
@@ -125,7 +125,7 @@ exports[`Widgets/Footer Playground smoke-test 1`] = `
         </a>
       </li>
       <li>
-        <a class="src-components-Link-Link-module__root--ggyqZ"
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
            data-testid="link-component"
            href="https://instagram.com"
         >
@@ -161,7 +161,7 @@ exports[`Widgets/Footer Single smoke-test 1`] = `
     </a>
     <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
       <li>
-        <a class="src-components-Link-Link-module__root--ggyqZ"
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
            data-testid="link-component"
            href="https://facebook.com"
         >
