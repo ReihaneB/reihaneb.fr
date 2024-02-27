@@ -1,0 +1,47 @@
+.root {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: auto 1fr;
+  grid-template-areas:
+    "title title"
+    "stack link"
+    "image image";
+  
+  @media (width <= 768px) {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "stack"
+      "image"
+      "link";
+  }
+}
+
+.titleContainer {
+  grid-area: title;
+}
+
+.stackContainer {
+  grid-area: stack;
+}
+
+.linkContainer {
+  grid-area: link;
+
+  white-space: nowrap;
+  justify-self: end;
+
+  @media (width <= 768px) {
+    justify-self: center;
+  }
+}
+
+.imageContainer {
+  grid-area: image;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+}
