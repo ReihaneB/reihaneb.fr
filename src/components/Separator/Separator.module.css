@@ -1,0 +1,16 @@
+.root {
+  border: none;
+  border-top: 1px solid var(--grey);
+  color: var(--grey);
+  overflow: visible;
+  text-align: center;
+}
+
+.root::before {
+  background: var(--background);
+  content: var(--separator-text);
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  top: -10px;
+}
