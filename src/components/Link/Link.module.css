@@ -1,8 +1,6 @@
 .root {
   display: inline-flex;
   align-items: center;
-  background-color: var(--blue-light);
-  color: var(--blue);
   padding: 12px 16px;
   text-align: center;
   text-decoration: none;
@@ -11,10 +9,6 @@
   transition: transform 0.2s cubic-bezier(0, 1.88, 0.82, 1.77);
   user-select: none;
   -webkit-touch-callout: none;
-}
-
-.root:hover {
-  background-color: var(--blue-lighter);
 }
 
 .root:focus-visible {
@@ -28,4 +22,24 @@
 
 .icon {
   margin-right: 8px;
+}
+
+.primary {
+  background-color: var(--blue-light);
+  color: var(--blue);
+}
+
+.primary:hover {
+  background-color: var(--blue-lighter);
+}
+
+.secondary {
+  background-color: var(--blue);
+  background-image: linear-gradient(to right, var(--cyan), rgba(255,255,255,0));
+  transition: background-color 0.4s;
+  color: var(--white);
+}
+
+.secondary:hover {
+  background-color: var(--cyan);
 }

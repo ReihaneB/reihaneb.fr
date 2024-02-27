@@ -29,9 +29,34 @@ export const Playground: Story = {
   },
 };
 
-export const Hover: Story = {
+export const Primary: Story = {
   args: {
     ...defaultArgs,
+  },
+};
+
+export const PrimaryHover: Story = {
+  name: 'Primary - Hover',
+  args: {
+    ...defaultArgs,
+  },
+  parameters: {
+    pseudo: { hover: true },
+  },
+};
+
+export const Secondary: Story = {
+  args: {
+    ...defaultArgs,
+    color: 'secondary',
+  },
+};
+
+export const SecondaryHover: Story = {
+  name: 'Secondary - Hover',
+  args: {
+    ...defaultArgs,
+    color: 'secondary',
   },
   parameters: {
     pseudo: { hover: true },
