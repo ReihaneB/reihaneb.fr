@@ -3,6 +3,7 @@
 import { memo } from 'react';
 import NextLink from 'next/link';
 import Image from 'next/image';
+import classNames from 'classnames';
 
 import { useFocusable } from '@/hooks/useFocusable/useFocusable';
 
@@ -11,6 +12,7 @@ import type { LinkProps } from './Link.d';
 
 function Link({
   to,
+  color = 'primary',
   children,
   Icon = null,
   autoFocus = false,
@@ -22,7 +24,12 @@ function Link({
   return (
     <NextLink
       href={to}
-      className={styles.root}
+      className={
+        classNames(styles.root, {
+          [styles.primary]: color === 'primary',
+          [styles.secondary]: color === 'secondary',
+        })
+      }
       ref={elementRef}
       data-testid="link-component"
       {...rest}
