@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Separator NotFocusTab play-test 1`] = `
+<main class="inter-normal">
+  <hr class="src-components-Separator-Separator-module__root--N5eOl"
+      data-testid="separator-component"
+      style="--separator-text: &quot;Seperator content&quot;;"
+  >
+</main>
+`;
+
+exports[`Components/Separator Playground smoke-test 1`] = `
+<main class="inter-normal">
+  <hr class="src-components-Separator-Separator-module__root--N5eOl"
+      data-testid="separator-component"
+      style="--separator-text: &quot;Seperator content&quot;;"
+  >
+</main>
+`;
+
+exports[`Components/Separator WithoutChildren smoke-test 1`] = `
+<main class="inter-normal">
+  <hr class="src-components-Separator-Separator-module__root--N5eOl"
+      data-testid="separator-component"
+  >
+</main>
+`;
