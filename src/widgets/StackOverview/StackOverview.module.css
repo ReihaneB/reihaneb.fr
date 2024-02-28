@@ -1,0 +1,9 @@
+.name {
+  margin-bottom: 32px;
+}
+
+.stackCategory {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 64px;
+}
