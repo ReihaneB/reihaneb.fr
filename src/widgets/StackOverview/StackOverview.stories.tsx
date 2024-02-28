@@ -50,11 +50,9 @@ const createCategories = (nbCategories: number) => {
 };
 
 const defaultArgs = {
-  stackOverview: {
-    id: 1,
-    name: 'Front-end',
-    stackCategory: createCategories(2),
-  },
+  id: 1,
+  name: 'Front-end',
+  stackCategory: createCategories(2),
 };
 
 export const Playground: Story = {
@@ -65,92 +63,76 @@ export const Playground: Story = {
 
 export const WithLongName: Story = {
   args: {
-    stackOverview: {
-      ...defaultArgs.stackOverview,
-      name: 'Duis adipisicing ipsum in exercitation ut tempor voluptate eiusmod adipisicing.',
-    },
+    ...defaultArgs,
+    name: 'Duis adipisicing ipsum in exercitation ut tempor voluptate eiusmod adipisicing.',
   },
 };
 
 export const CategoryLonger: Story = {
   name: 'Category name is longer than tag width',
   args: {
-    stackOverview: {
-      ...defaultArgs.stackOverview,
-      stackCategory: [
-        {
-          id: 1,
-          name: 'Quis est dolore magna fugiat laborum eiusmod in exercitation labore consectetur sit fugiat.',
-          tags: [
-            {
-              id: 1,
-              label: 'React',
-              icon: IconArrow,
-            },
-          ],
-        },
-        createCategories(1)[0],
-      ],
-    },
+    ...defaultArgs,
+    stackCategory: [
+      {
+        id: 1,
+        name: 'Quis est dolore magna fugiat laborum eiusmod in exercitation labore consectetur sit fugiat.',
+        tags: [
+          {
+            id: 1,
+            label: 'React',
+            icon: IconArrow,
+          },
+        ],
+      },
+      createCategories(1)[0],
+    ],
   },
 };
 
 export const _1Category: Story = {
   name: 'One category',
   args: {
-    stackOverview: {
-      ...defaultArgs.stackOverview,
-      stackCategory: createCategories(1),
-    },
+    ...defaultArgs,
+    stackCategory: createCategories(1),
   },
 };
 
 export const _2Categories: Story = {
   name: 'Two categories',
   args: {
-    stackOverview: {
-      ...defaultArgs.stackOverview,
-      stackCategory: createCategories(2),
-    },
+    ...defaultArgs,
+    stackCategory: createCategories(2),
   },
 };
 
 export const _3Categories: Story = {
   name: 'Three categories',
   args: {
-    stackOverview: {
-      ...defaultArgs.stackOverview,
-      stackCategory: createCategories(3),
-    },
+    ...defaultArgs,
+    stackCategory: createCategories(3),
   },
 };
 
 export const _4Categories: Story = {
   name: 'Four categories',
   args: {
-    stackOverview: {
-      ...defaultArgs.stackOverview,
-      stackCategory: createCategories(4),
-    },
+    ...defaultArgs,
+    stackCategory: createCategories(4),
   },
 };
 
 export const _5Categories: Story = {
   name: 'Five categories',
   args: {
-    stackOverview: {
-      ...defaultArgs.stackOverview,
-      stackCategory: createCategories(5),
-    },
+    ...defaultArgs,
+    stackCategory: createCategories(5),
   },
 };
 
 export const _10Categories: Story = {
   name: 'Ten categories',
   args: {
-    stackOverview: {
-      ...defaultArgs.stackOverview,
-      stackCategory: createCategories(10),
-    },
+    ...defaultArgs,
+    stackCategory: createCategories(10),
   },
 };
