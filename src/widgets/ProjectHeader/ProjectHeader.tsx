@@ -1,7 +1,7 @@
-import Image from 'next/image';
 import NextLink from 'next/link';
 
 import Link from '@/components/Link/Link';
+import Image from '@/components/Image/Image';
 
 import MainStack from '../MainStack/MainStack';
 
@@ -39,7 +39,6 @@ function ProjectHeader({
       >
         <Image
           src={project.image.url}
-          className={styles.image}
           alt={project.image.alt}
           width={0}
           height={0}
