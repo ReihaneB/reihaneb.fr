@@ -4,23 +4,25 @@ import type { StackOverviewProps } from './StackOverview.d';
 import styles from './StackOverview.module.css';
 
 function StackOverview({
-  stackOverview,
+  name,
+  stackCategory,
 }: StackOverviewProps) {
   return (
-    <div>
+    <>
       <h2 className={styles.name}>
-        {stackOverview.name}
+        {name}
       </h2>
       <ul className={styles.stackCategory}>
-        {stackOverview.stackCategory.map(stackCategory => (
-          <li key={stackCategory.id}>
+        {stackCategory.map(({ id, name: categoryName, tags }) => (
+          <li key={id}>
             <StackCategory
-              stackCategory={stackCategory}
+              name={categoryName}
+              tags={tags}
             />
           </li>
         ))}
       </ul>
-    </div>
+    </>
   );
 }
 
