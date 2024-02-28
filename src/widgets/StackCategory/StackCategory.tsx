@@ -4,18 +4,19 @@ import type { StackCategoryProps } from './StackCategory.d';
 import styles from './StackCategory.module.css';
 
 function StackCategory({
-  stackCategory,
+  name,
+  tags,
 }: StackCategoryProps) {
   return (
     <>
       <h3 className={styles.name}>
-        {stackCategory.name}
+        {name}
       </h3>
       <ul className={styles.tags}>
-        {stackCategory.tags.map(tag => (
-          <li key={tag.id}>
-            <Tag Icon={tag.icon}>
-              {tag.label}
+        {tags.map(({ id, label, icon }) => (
+          <li key={id}>
+            <Tag Icon={icon}>
+              {label}
             </Tag>
           </li>
         ))}
