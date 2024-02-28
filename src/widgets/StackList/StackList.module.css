@@ -1,0 +1,17 @@
+.separatorContainer {
+  margin-bottom: 128px;
+
+  @media (width <= 768px) {
+    margin-bottom: 96px;
+  }
+
+  @media (width <= 375px) {
+    margin-bottom: 64px;
+  }
+}
+
+.stackList {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
