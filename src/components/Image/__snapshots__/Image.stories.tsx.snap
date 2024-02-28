@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Image _4x3Image smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-components-Image-Image-stories-module__root--zG_pN">
+    <img alt="Placeholder image"
+         loading="lazy"
+         width="0"
+         height="0"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Image-Image-module__image--gXjYq"
+         srcset="https://via.placeholder.com/800x600?w=16&amp;q=75 1x"
+         src="https://via.placeholder.com/800x600?w=16&amp;q=75"
+         style="color: transparent;"
+    >
+  </div>
+</main>
+`;
+
+exports[`Components/Image _16x9Image smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-components-Image-Image-stories-module__root--zG_pN">
+    <img alt="Placeholder image"
+         loading="lazy"
+         width="0"
+         height="0"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Image-Image-module__image--gXjYq"
+         srcset="https://via.placeholder.com/1280x720?w=16&amp;q=75 1x"
+         src="https://via.placeholder.com/1280x720?w=16&amp;q=75"
+         style="color: transparent;"
+    >
+  </div>
+</main>
+`;
+
+exports[`Components/Image Playground smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-components-Image-Image-stories-module__root--zG_pN">
+    <img alt="Placeholder image"
+         loading="lazy"
+         width="0"
+         height="0"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Image-Image-module__image--gXjYq"
+         srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+         src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+         style="color: transparent;"
+    >
+  </div>
+</main>
+`;
+
+exports[`Components/Image SquareImage smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-components-Image-Image-stories-module__root--zG_pN">
+    <img alt="Placeholder image"
+         loading="lazy"
+         width="0"
+         height="0"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Image-Image-module__image--gXjYq"
+         srcset="https://via.placeholder.com/1080x1080?w=16&amp;q=75 1x"
+         src="https://via.placeholder.com/1080x1080?w=16&amp;q=75"
+         style="color: transparent;"
+    >
+  </div>
+</main>
+`;
