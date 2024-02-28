@@ -1,3 +1,3 @@
 export interface SeparatorProps {
-  text?: string | null;
+  text?: string | number | null;
 }
