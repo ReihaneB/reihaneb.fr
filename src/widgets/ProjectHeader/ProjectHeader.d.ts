@@ -1,6 +1,7 @@
 import type { Stack } from '@/widgets/MainStack/MainStack.d';
 
-interface Project {
+export interface Project {
+  id: number;
   title: string;
   jobTitle: string;
   stack: Stack[];

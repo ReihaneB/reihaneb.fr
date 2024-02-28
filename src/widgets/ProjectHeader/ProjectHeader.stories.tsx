@@ -21,6 +21,7 @@ type Story = StoryObj<typeof ProjectHeader>;
 
 const defaultArgs = {
   project: {
+    id: 1,
     title: 'Project Title',
     jobTitle: 'Job Title',
     url: '/',
