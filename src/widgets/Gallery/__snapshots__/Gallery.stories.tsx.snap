@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/Gallery _4x3Image smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-Gallery-Gallery-stories-module__root--O0_jV">
+    <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+      Gallery
+    </h2>
+    <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/800x600?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/800x600?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+    </ul>
+  </div>
+</main>
+`;
+
+exports[`Widgets/Gallery _16x9Image smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-Gallery-Gallery-stories-module__root--O0_jV">
+    <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+      Gallery
+    </h2>
+    <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1280x720?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1280x720?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+    </ul>
+  </div>
+</main>
+`;
+
+exports[`Widgets/Gallery LongName smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-Gallery-Gallery-stories-module__root--O0_jV">
+    <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+      Gallery with a really long name that should not be truncated
+    </h2>
+    <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+    </ul>
+  </div>
+</main>
+`;
+
+exports[`Widgets/Gallery MultipleFormats smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-Gallery-Gallery-stories-module__root--O0_jV">
+    <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+      Gallery
+    </h2>
+    <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1080x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1080x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/800x600?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/800x600?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1280x720?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1280x720?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+    </ul>
+  </div>
+</main>
+`;
+
+exports[`Widgets/Gallery MultipleImages smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-Gallery-Gallery-stories-module__root--O0_jV">
+    <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+      Gallery
+    </h2>
+    <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+    </ul>
+  </div>
+</main>
+`;
+
+exports[`Widgets/Gallery Playground smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-Gallery-Gallery-stories-module__root--O0_jV">
+    <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+      Gallery
+    </h2>
+    <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+    </ul>
+  </div>
+</main>
+`;
+
+exports[`Widgets/Gallery SingleImage smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-Gallery-Gallery-stories-module__root--O0_jV">
+    <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+      Gallery
+    </h2>
+    <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+    </ul>
+  </div>
+</main>
+`;
+
+exports[`Widgets/Gallery SquareImage smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-Gallery-Gallery-stories-module__root--O0_jV">
+    <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+      Gallery
+    </h2>
+    <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+      <li>
+        <img alt="Placeholder image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="https://via.placeholder.com/1080x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1080x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </li>
+    </ul>
+  </div>
+</main>
+`;
