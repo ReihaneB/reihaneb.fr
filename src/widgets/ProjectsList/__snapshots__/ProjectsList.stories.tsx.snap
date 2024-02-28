@@ -1,0 +1,2035 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;2&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;3&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;2&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/800x600?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/800x600?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;3&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1000x1000?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1000x1000?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          A very long project title thaht should not be truncated
+        </h2>
+        <p>
+          A very long job title that should not be truncated
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              A very long stack name that should not be truncated
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;2&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          A very long project title thaht should not be truncated
+        </h2>
+        <p>
+          A very long job title that should not be truncated
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              A very long stack name that should not be truncated
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;3&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          A very long project title thaht should not be truncated
+        </h2>
+        <p>
+          A very long job title that should not be truncated
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              A very long stack name that should not be truncated
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          A very long job title that should not be truncated
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;2&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          A very long job title that should not be truncated
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;3&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          A very long job title that should not be truncated
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              A very long stack name that should not be truncated
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;2&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              A very long stack name that should not be truncated
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;3&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              A very long stack name that should not be truncated
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          A very long project title that should not be truncated
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;2&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          A very long project title that should not be truncated
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;3&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          A very long project title that should not be truncated
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;2&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;3&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList SingleProject smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList SingleProjectWithLongData smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          A very long project title thaht should not be truncated
+        </h2>
+        <p>
+          A very long job title that should not be truncated
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              A very long stack name that should not be truncated
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList SingleProjectWithLongJobTitle smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          A very long job title that should not be truncated
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList SingleProjectWithLongStackName smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          Project Title
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              A very long stack name that should not be truncated
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ProjectsList SingleProjectWithLongTitle smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-stories-module__root--gkIK4">
+    <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
+      <hr class="src-components-Separator-Separator-module__root--N5eOl"
+          data-testid="separator-component"
+          style="--separator-text: &quot;1&quot;;"
+      >
+    </div>
+    <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__titleContainer--eg7T9">
+        <h2>
+          A very long project title that should not be truncated
+        </h2>
+        <p>
+          Job Title
+        </p>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__stackContainer--WS2tI">
+        <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              React
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              TypeScript
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Next.js
+            </div>
+          </li>
+          <li>
+            <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+                 data-testid="tag-component"
+                 tabindex="-1"
+            >
+              Tailwind CSS
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+           data-testid="link-component"
+           href="/"
+        >
+          Voir le projet
+        </a>
+      </div>
+      <a class="src-widgets-ProjectHeader-ProjectHeader-module__imageContainer--hhsDI"
+         href="/"
+      >
+        <img alt="Project Image"
+             fetchpriority="high"
+             width="0"
+             height="0"
+             decoding="async"
+             data-nimg="1"
+             class="src-widgets-ProjectHeader-ProjectHeader-module__image--BDZ5_"
+             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
+             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             style="color: transparent;"
+        >
+      </a>
+    </div>
+  </div>
+</main>
+`;
