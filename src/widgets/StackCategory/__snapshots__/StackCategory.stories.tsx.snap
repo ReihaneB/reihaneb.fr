@@ -2,397 +2,391 @@
 
 exports[`Widgets/StackCategory Playground smoke-test 1`] = `
 <main class="inter-normal">
-  <div>
-    <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-      Librairie
-    </h3>
-    <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+  <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
+    Librairie
+  </h3>
+  <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de React"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de React"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          React
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        React
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Redux"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Redux"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Redux
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Redux
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Jest"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Jest"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Jest
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Jest
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Next.js"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Next.js"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Next.js
-        </div>
-      </li>
-    </ul>
-  </div>
+        Next.js
+      </div>
+    </li>
+  </ul>
 </main>
 `;
 
 exports[`Widgets/StackCategory WithLongName smoke-test 1`] = `
 <main class="inter-normal">
-  <div>
-    <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-      Duis adipisicing ipsum in exercitation ut tempor voluptate eiusmod adipisicing.
-    </h3>
-    <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+  <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
+    Duis adipisicing ipsum in exercitation ut tempor voluptate eiusmod adipisicing.
+  </h3>
+  <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de React"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de React"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          React
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        React
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Redux"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Redux"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Redux
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Redux
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Jest"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Jest"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Jest
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Jest
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Next.js"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Next.js"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Next.js
-        </div>
-      </li>
-    </ul>
-  </div>
+        Next.js
+      </div>
+    </li>
+  </ul>
 </main>
 `;
 
 exports[`Widgets/StackCategory WithLongTags smoke-test 1`] = `
 <main class="inter-normal">
-  <div>
-    <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-      Librairie
-    </h3>
-    <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+  <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
+    Librairie
+  </h3>
+  <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de React"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de React"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          React
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        React
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Redux"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Redux"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Redux
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Redux
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Jest"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Jest"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Jest
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Jest
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Enzyme"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Enzyme"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Enzyme
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Enzyme
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Webpack"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Webpack"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Webpack
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Webpack
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Babel"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Babel"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Babel
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Babel
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de ESLint"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de ESLint"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          ESLint
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        ESLint
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Prettier"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Prettier"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Prettier
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Prettier
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de TypeScript"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de TypeScript"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          TypeScript
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        TypeScript
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Jest"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Jest"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Jest
-        </div>
-      </li>
-      <li>
-        <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-             data-testid="tag-component"
-             tabindex="-1"
+        Jest
+      </div>
+    </li>
+    <li>
+      <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+           data-testid="tag-component"
+           tabindex="-1"
+      >
+        <img alt="Icône de Enzyme"
+             loading="lazy"
+             width="12"
+             height="12"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Tag-Tag-module__icon--kRFOB"
+             srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+             src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+             style="color: transparent;"
         >
-          <img alt="Icône de Enzyme"
-               loading="lazy"
-               width="12"
-               height="12"
-               decoding="async"
-               data-nimg="1"
-               class="src-components-Tag-Tag-module__icon--kRFOB"
-               srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-               src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-               style="color: transparent;"
-          >
-          Enzyme
-        </div>
-      </li>
-    </ul>
-  </div>
+        Enzyme
+      </div>
+    </li>
+  </ul>
 </main>
 `;

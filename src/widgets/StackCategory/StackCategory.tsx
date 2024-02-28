@@ -7,7 +7,7 @@ function StackCategory({
   stackCategory,
 }: StackCategoryProps) {
   return (
-    <div>
+    <>
       <h3 className={styles.name}>
         {stackCategory.name}
       </h3>
@@ -20,7 +20,7 @@ function StackCategory({
           </li>
         ))}
       </ul>
-    </div>
+    </>
   );
 }
 
