@@ -5,13 +5,13 @@ exports[`Components/Image _4x3Image smoke-test 1`] = `
   <div class="src-components-Image-Image-stories-module__root--zG_pN">
     <img alt="Placeholder image"
          loading="lazy"
-         width="0"
-         height="0"
+         width="800"
+         height="600"
          decoding="async"
          data-nimg="1"
          class="src-components-Image-Image-module__image--gXjYq"
-         srcset="https://via.placeholder.com/800x600?w=16&amp;q=75 1x"
-         src="https://via.placeholder.com/800x600?w=16&amp;q=75"
+         srcset="/static/media/4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/4x3.58bee57f.png?w=1920&amp;q=75 2x"
+         src="/static/media/4x3.58bee57f.png?w=1920&amp;q=75"
          style="color: transparent;"
     >
   </div>
@@ -23,13 +23,13 @@ exports[`Components/Image _16x9Image smoke-test 1`] = `
   <div class="src-components-Image-Image-stories-module__root--zG_pN">
     <img alt="Placeholder image"
          loading="lazy"
-         width="0"
-         height="0"
+         width="1920"
+         height="1080"
          decoding="async"
          data-nimg="1"
          class="src-components-Image-Image-module__image--gXjYq"
-         srcset="https://via.placeholder.com/1280x720?w=16&amp;q=75 1x"
-         src="https://via.placeholder.com/1280x720?w=16&amp;q=75"
+         srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+         src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
          style="color: transparent;"
     >
   </div>
@@ -41,13 +41,13 @@ exports[`Components/Image Playground smoke-test 1`] = `
   <div class="src-components-Image-Image-stories-module__root--zG_pN">
     <img alt="Placeholder image"
          loading="lazy"
-         width="0"
-         height="0"
+         width="1920"
+         height="1080"
          decoding="async"
          data-nimg="1"
          class="src-components-Image-Image-module__image--gXjYq"
-         srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
-         src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+         srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+         src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
          style="color: transparent;"
     >
   </div>
@@ -59,13 +59,13 @@ exports[`Components/Image SquareImage smoke-test 1`] = `
   <div class="src-components-Image-Image-stories-module__root--zG_pN">
     <img alt="Placeholder image"
          loading="lazy"
-         width="0"
-         height="0"
+         width="1080"
+         height="1080"
          decoding="async"
          data-nimg="1"
          class="src-components-Image-Image-module__image--gXjYq"
-         srcset="https://via.placeholder.com/1080x1080?w=16&amp;q=75 1x"
-         src="https://via.placeholder.com/1080x1080?w=16&amp;q=75"
+         srcset="/static/media/1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+         src="/static/media/1x1.ea48a62d.png?w=3840&amp;q=75"
          style="color: transparent;"
     >
   </div>

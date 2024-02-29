@@ -1,5 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
+import _16x9 from '@/styles/assets/placeholder/16x9.png';
+
 import GalleryList from './GalleryList';
 
 import styles from './GalleryList.stories.module.css';
@@ -37,7 +39,7 @@ const createImages = (nbImages: number) => {
   for (let i = 0; i < nbImages; i++) {
     images.push({
       id: (i + 1).toString(),
-      src: 'https://via.placeholder.com/1920x1080',
+      src: _16x9,
       alt: 'Placeholder image',
     });
   }

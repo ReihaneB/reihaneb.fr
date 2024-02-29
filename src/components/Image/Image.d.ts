@@ -1,7 +1,7 @@
-import { ImageProps as NextImageProps } from 'next/image';
+import { ImageProps as NextImageProps, StaticImageData } from 'next/image';
 
 export interface ImageProps extends NextImageProps {
   id?: string | undefined;
-  src: string;
+  src: StaticImageData;
   alt: string;
 }
