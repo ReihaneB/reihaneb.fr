@@ -1,5 +1,9 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
+import Square from '@/styles/assets/placeholder/1x1.png';
+import _4x3 from '@/styles/assets/placeholder/4x3.png';
+import _16x9 from '@/styles/assets/placeholder/16x9.png';
+
 import Gallery from './Gallery';
 
 import styles from './Gallery.stories.module.css';
@@ -24,7 +28,7 @@ const defaultArgs = {
   images: [
     {
       id: 1,
-      src: 'https://via.placeholder.com/1920x1080',
+      src: _16x9,
       alt: 'Placeholder image',
     },
   ],
@@ -42,7 +46,7 @@ export const SquareImage: Story = {
     images: [
       {
         id: 1,
-        src: 'https://via.placeholder.com/1080x1080',
+        src: Square,
         alt: 'Placeholder image',
       },
     ],
@@ -55,7 +59,7 @@ export const _4x3Image: Story = {
     images: [
       {
         id: 1,
-        src: 'https://via.placeholder.com/800x600',
+        src: _4x3,
         alt: 'Placeholder image',
       },
     ],
@@ -68,7 +72,7 @@ export const _16x9Image: Story = {
     images: [
       {
         id: 1,
-        src: 'https://via.placeholder.com/1280x720',
+        src: _16x9,
         alt: 'Placeholder image',
       },
     ],
@@ -81,7 +85,7 @@ export const SingleImage: Story = {
     images: [
       {
         id: 1,
-        src: 'https://via.placeholder.com/1920x1080',
+        src: _16x9,
         alt: 'Placeholder image',
       },
     ],
@@ -94,17 +98,17 @@ export const MultipleImages: Story = {
     images: [
       {
         id: 1,
-        src: 'https://via.placeholder.com/1920x1080',
+        src: _16x9,
         alt: 'Placeholder image',
       },
       {
         id: 2,
-        src: 'https://via.placeholder.com/1920x1080',
+        src: _16x9,
         alt: 'Placeholder image',
       },
       {
         id: 3,
-        src: 'https://via.placeholder.com/1920x1080',
+        src: _16x9,
         alt: 'Placeholder image',
       },
     ],
@@ -125,17 +129,17 @@ export const MultipleFormats: Story = {
     images: [
       {
         id: 1,
-        src: 'https://via.placeholder.com/1080x1080',
+        src: Square,
         alt: 'Placeholder image',
       },
       {
         id: 2,
-        src: 'https://via.placeholder.com/800x600',
+        src: _4x3,
         alt: 'Placeholder image',
       },
       {
         id: 3,
-        src: 'https://via.placeholder.com/1280x720',
+        src: _16x9,
         alt: 'Placeholder image',
       },
     ],

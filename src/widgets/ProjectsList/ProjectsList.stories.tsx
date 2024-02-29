@@ -1,5 +1,9 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
+import Square from '@/styles/assets/placeholder/1x1.png';
+import _4x3 from '@/styles/assets/placeholder/4x3.png';
+import _16x9 from '@/styles/assets/placeholder/16x9.png';
+
 import ProjectsList from './ProjectsList';
 
 import styles from './ProjectsList.stories.module.css';
@@ -44,7 +48,7 @@ const defaultArgs = {
       },
       ],
       image: {
-        url: 'https://via.placeholder.com/1920x1080',
+        url: _16x9,
         alt: 'Project Image',
       },
     },
@@ -71,7 +75,7 @@ const defaultArgs = {
       },
       ],
       image: {
-        url: 'https://via.placeholder.com/1920x1080',
+        url: _16x9,
         alt: 'Project Image',
       },
     },
@@ -98,7 +102,7 @@ const defaultArgs = {
       },
       ],
       image: {
-        url: 'https://via.placeholder.com/1920x1080',
+        url: _16x9,
         alt: 'Project Image',
       },
     },
@@ -285,21 +289,21 @@ export const MultipleProjectsDifferentImages: Story = {
       {
         ...defaultArgs.projects[0],
         image: {
-          url: 'https://via.placeholder.com/1920x1080',
+          url: _16x9,
           alt: 'Project Image',
         },
       },
       {
         ...defaultArgs.projects[1],
         image: {
-          url: 'https://via.placeholder.com/800x600',
+          url: _4x3,
           alt: 'Project Image',
         },
       },
       {
         ...defaultArgs.projects[2],
         image: {
-          url: 'https://via.placeholder.com/1000x1000',
+          url: Square,
           alt: 'Project Image',
         },
       },
