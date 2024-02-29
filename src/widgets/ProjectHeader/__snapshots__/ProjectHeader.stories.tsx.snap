@@ -61,13 +61,13 @@ exports[`Widgets/ProjectHeader _4x3Image smoke-test 1`] = `
       >
         <img alt="Project Image"
              fetchpriority="high"
-             width="0"
-             height="0"
+             width="800"
+             height="600"
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="https://via.placeholder.com/800x600?w=16&amp;q=75 1x"
-             src="https://via.placeholder.com/800x600?w=16&amp;q=75"
+             srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
+             src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -137,13 +137,13 @@ exports[`Widgets/ProjectHeader _16x9Image smoke-test 1`] = `
       >
         <img alt="Project Image"
              fetchpriority="high"
-             width="0"
-             height="0"
+             width="1920"
+             height="1080"
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
-             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -213,13 +213,13 @@ exports[`Widgets/ProjectHeader LongData smoke-test 1`] = `
       >
         <img alt="Project Image"
              fetchpriority="high"
-             width="0"
-             height="0"
+             width="1920"
+             height="1080"
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
-             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -289,13 +289,13 @@ exports[`Widgets/ProjectHeader LongJobTitle smoke-test 1`] = `
       >
         <img alt="Project Image"
              fetchpriority="high"
-             width="0"
-             height="0"
+             width="1920"
+             height="1080"
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
-             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -365,13 +365,13 @@ exports[`Widgets/ProjectHeader LongStackName smoke-test 1`] = `
       >
         <img alt="Project Image"
              fetchpriority="high"
-             width="0"
-             height="0"
+             width="1920"
+             height="1080"
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
-             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -441,13 +441,13 @@ exports[`Widgets/ProjectHeader LongTitle smoke-test 1`] = `
       >
         <img alt="Project Image"
              fetchpriority="high"
-             width="0"
-             height="0"
+             width="1920"
+             height="1080"
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
-             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -517,13 +517,13 @@ exports[`Widgets/ProjectHeader Playground smoke-test 1`] = `
       >
         <img alt="Project Image"
              fetchpriority="high"
-             width="0"
-             height="0"
+             width="1920"
+             height="1080"
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="https://via.placeholder.com/1920x1080?w=16&amp;q=75 1x"
-             src="https://via.placeholder.com/1920x1080?w=16&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -593,13 +593,13 @@ exports[`Widgets/ProjectHeader SquareImage smoke-test 1`] = `
       >
         <img alt="Project Image"
              fetchpriority="high"
-             width="0"
-             height="0"
+             width="1080"
+             height="1080"
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="https://via.placeholder.com/500x500?w=16&amp;q=75 1x"
-             src="https://via.placeholder.com/500x500?w=16&amp;q=75"
+             srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
