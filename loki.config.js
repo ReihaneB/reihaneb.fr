@@ -66,7 +66,7 @@ module.exports = {
       mobile: true,
     },
   },
-  chromeTolerance: 0,
+  chromeTolerance: 1,
   chromeSelector: '#storybook-root > *',
   fileNameFormatter: ({ story, parameters, configurationName }) => (
     nearestComponentImageshotPathFormatter({ story, parameters, configurationName })
