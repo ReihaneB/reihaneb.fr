@@ -72,8 +72,8 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -147,8 +147,8 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -222,8 +222,8 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -304,8 +304,8 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -379,8 +379,8 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/4x3.58bee57f.png?w=1920&amp;q=75 2x"
-             src="/static/media/4x3.58bee57f.png?w=1920&amp;q=75"
+             srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
+             src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -454,8 +454,8 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-             src="/static/media/1x1.ea48a62d.png?w=3840&amp;q=75"
+             srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -536,8 +536,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -611,8 +611,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -686,8 +686,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -768,8 +768,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -843,8 +843,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -918,8 +918,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1000,8 +1000,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1075,8 +1075,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1150,8 +1150,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1232,8 +1232,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1307,8 +1307,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1382,8 +1382,8 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1464,8 +1464,8 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1539,8 +1539,8 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1614,8 +1614,8 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1696,8 +1696,8 @@ exports[`Widgets/ProjectsList SingleProject smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1778,8 +1778,8 @@ exports[`Widgets/ProjectsList SingleProjectWithLongData smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1860,8 +1860,8 @@ exports[`Widgets/ProjectsList SingleProjectWithLongJobTitle smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -1942,8 +1942,8 @@ exports[`Widgets/ProjectsList SingleProjectWithLongStackName smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>
@@ -2024,8 +2024,8 @@ exports[`Widgets/ProjectsList SingleProjectWithLongTitle smoke-test 1`] = `
              decoding="async"
              data-nimg="1"
              class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/16x9.d50e36d3.png?w=3840&amp;q=75"
+             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
              style="color: transparent;"
         >
       </a>

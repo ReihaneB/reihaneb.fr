@@ -1,10 +1,11 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import Square from '@/styles/assets/placeholder/1x1.png';
-import _4x3 from '@/styles/assets/placeholder/4x3.png';
-import _16x9 from '@/styles/assets/placeholder/16x9.png';
+import _16x9 from '@/styles/assets/placeholder/_16x9.png';
+import _4x3 from '@/styles/assets/placeholder/_4x3.png';
+import _1x1 from '@/styles/assets/placeholder/_1x1.png';
 
 import Gallery from './Gallery';
+
 
 import styles from './Gallery.stories.module.css';
 
@@ -46,7 +47,7 @@ export const SquareImage: Story = {
     images: [
       {
         id: 1,
-        src: Square,
+        src: _1x1,
         alt: 'Placeholder image',
       },
     ],
@@ -129,7 +130,7 @@ export const MultipleFormats: Story = {
     images: [
       {
         id: 1,
-        src: Square,
+        src: _1x1,
         alt: 'Placeholder image',
       },
       {

@@ -1,8 +1,8 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import Square from '@/styles/assets/placeholder/1x1.png';
-import _4x3 from '@/styles/assets/placeholder/4x3.png';
-import _16x9 from '@/styles/assets/placeholder/16x9.png';
+import _16x9 from '@/styles/assets/placeholder/_16x9.png';
+import _4x3 from '@/styles/assets/placeholder/_4x3.png';
+import _1x1 from '@/styles/assets/placeholder/_1x1.png';
 
 import Image from './Image';
 
@@ -38,7 +38,7 @@ export const Playground: Story = {
 export const SquareImage: Story = {
   args: {
     ...defaultArgs,
-    src: Square,
+    src: _1x1,
   },
 };
 
