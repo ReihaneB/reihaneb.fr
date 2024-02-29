@@ -4,12 +4,14 @@ import styles from './Image.module.css';
 import type { ImageProps } from './Image.d';
 
 function Image({
+  id,
   src,
   alt,
   ...rest
 }: ImageProps) {
   return (
     <NextImage
+      id={id}
       src={src}
       alt={alt}
       className={styles.image}

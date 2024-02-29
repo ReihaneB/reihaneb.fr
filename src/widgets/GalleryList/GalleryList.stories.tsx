@@ -36,7 +36,7 @@ const createImages = (nbImages: number) => {
   const images = [];
   for (let i = 0; i < nbImages; i++) {
     images.push({
-      id: i + 1,
+      id: (i + 1).toString(),
       src: 'https://via.placeholder.com/1920x1080',
       alt: 'Placeholder image',
     });
