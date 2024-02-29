@@ -1,0 +1,37 @@
+.separatorContainer {
+  margin-bottom: 128px;
+
+  &:not(:first-child) {
+    margin-top: 128px;
+  }
+
+  @media (width <= 768px) {
+    margin-bottom: 96px;
+
+    &:not(:first-child) {
+      margin-top: 96px;
+    }
+  }
+
+  @media (width <= 375px) {
+    margin-bottom: 64px;
+
+    &:not(:first-child) {
+      margin-top: 64px;
+    }
+  }
+}
+
+.galleryList {
+  display: flex;
+  flex-direction: column;
+  gap: 96px;
+
+  @media (width <= 768px) {
+    gap: 64px;
+  }
+
+  @media (width <= 375px) {
+    gap: 32px;
+  }
+}
