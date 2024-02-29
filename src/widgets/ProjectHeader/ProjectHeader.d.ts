@@ -1,3 +1,5 @@
+import { StaticImageData } from 'next/image';
+
 import type { Stack } from '@/widgets/MainStack/MainStack.d';
 
 export interface Project {
@@ -7,7 +9,7 @@ export interface Project {
   stack: Stack[];
   url: string;
   image: {
-    url: string;
+    url: StaticImageData;
     alt: string;
   };
 }
