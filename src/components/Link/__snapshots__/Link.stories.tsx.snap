@@ -1,20 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Components/Link Active smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
-     href="/"
-  >
-    Click on the link
-  </a>
-</main>
-`;
-
 exports[`Components/Link AutoFocus play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -24,8 +12,7 @@ exports[`Components/Link AutoFocus play-test 1`] = `
 
 exports[`Components/Link ClickMultipleTimes play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -33,21 +20,19 @@ exports[`Components/Link ClickMultipleTimes play-test 1`] = `
 </main>
 `;
 
-exports[`Components/Link Focus smoke-test 1`] = `
+exports[`Components/Link CorrectHref play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
-     href="/"
+  <a data-testid="link-component"
+     href="/link"
   >
-    Click on the link
+    /link
   </a>
 </main>
 `;
 
 exports[`Components/Link FocusOnClick play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -57,8 +42,7 @@ exports[`Components/Link FocusOnClick play-test 1`] = `
 
 exports[`Components/Link FocusOnTab play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -69,34 +53,9 @@ exports[`Components/Link FocusOnTab play-test 1`] = `
 exports[`Components/Link LongText smoke-test 1`] = `
 <main class="inter-normal">
   <div class="src-components-Link-Link-stories-module__container--Kpt8t">
-    <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-       data-testid="link-component"
+    <a data-testid="link-component"
        href="/"
     >
-      This is a very long text that should be going to the next line
-    </a>
-  </div>
-</main>
-`;
-
-exports[`Components/Link LongTextWithIcon smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-components-Link-Link-stories-module__container--Kpt8t">
-    <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-       data-testid="link-component"
-       href="/"
-    >
-      <img alt="Icône de lien vers /"
-           loading="lazy"
-           width="12"
-           height="12"
-           decoding="async"
-           data-nimg="1"
-           class="src-components-Link-Link-module__icon--B0cve"
-           srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-           src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-           style="color: transparent;"
-      >
       This is a very long text that should be going to the next line
     </a>
   </div>
@@ -105,8 +64,7 @@ exports[`Components/Link LongTextWithIcon smoke-test 1`] = `
 
 exports[`Components/Link Playground smoke-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
     Click on the link
@@ -116,76 +74,9 @@ exports[`Components/Link Playground smoke-test 1`] = `
 
 exports[`Components/Link PressEnter play-test 1`] = `
 <main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
+  <a data-testid="link-component"
      href="/"
   >
-    Click on the link
-  </a>
-</main>
-`;
-
-exports[`Components/Link Primary smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
-     href="/"
-  >
-    Click on the link
-  </a>
-</main>
-`;
-
-exports[`Components/Link PrimaryHover smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
-     href="/"
-  >
-    Click on the link
-  </a>
-</main>
-`;
-
-exports[`Components/Link Secondary smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
-     data-testid="link-component"
-     href="/"
-  >
-    Click on the link
-  </a>
-</main>
-`;
-
-exports[`Components/Link SecondaryHover smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
-     data-testid="link-component"
-     href="/"
-  >
-    Click on the link
-  </a>
-</main>
-`;
-
-exports[`Components/Link WithIcon smoke-test 1`] = `
-<main class="inter-normal">
-  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-     data-testid="link-component"
-     href="/"
-  >
-    <img alt="Icône de lien vers /"
-         loading="lazy"
-         width="12"
-         height="12"
-         decoding="async"
-         data-nimg="1"
-         class="src-components-Link-Link-module__icon--B0cve"
-         srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-         src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-         style="color: transparent;"
-    >
     Click on the link
   </a>
 </main>

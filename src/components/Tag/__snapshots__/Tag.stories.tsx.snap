@@ -3,34 +3,9 @@
 exports[`Components/Tag LongText smoke-test 1`] = `
 <main class="inter-normal">
   <div class="src-components-Tag-Tag-stories-module__container--aL11d">
-    <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-         data-testid="tag-component"
+    <div data-testid="tag-component"
          tabindex="-1"
     >
-      This is a very long text that should be going to the next line
-    </div>
-  </div>
-</main>
-`;
-
-exports[`Components/Tag LongTextWithIcon smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-components-Tag-Tag-stories-module__container--aL11d">
-    <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-         data-testid="tag-component"
-         tabindex="-1"
-    >
-      <img alt="Icône de This is a very long text that should be going to the next line"
-           loading="lazy"
-           width="12"
-           height="12"
-           decoding="async"
-           data-nimg="1"
-           class="src-components-Tag-Tag-module__icon--kRFOB"
-           srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-           src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-           style="color: transparent;"
-      >
       This is a very long text that should be going to the next line
     </div>
   </div>
@@ -39,8 +14,7 @@ exports[`Components/Tag LongTextWithIcon smoke-test 1`] = `
 
 exports[`Components/Tag NotFocusTab play-test 1`] = `
 <main class="inter-normal">
-  <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-       data-testid="tag-component"
+  <div data-testid="tag-component"
        tabindex="-1"
   >
     Tag content
@@ -50,32 +24,9 @@ exports[`Components/Tag NotFocusTab play-test 1`] = `
 
 exports[`Components/Tag Playground smoke-test 1`] = `
 <main class="inter-normal">
-  <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-       data-testid="tag-component"
+  <div data-testid="tag-component"
        tabindex="-1"
   >
-    Tag content
-  </div>
-</main>
-`;
-
-exports[`Components/Tag WithIcon smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-       data-testid="tag-component"
-       tabindex="-1"
-  >
-    <img alt="Icône de Tag content"
-         loading="lazy"
-         width="12"
-         height="12"
-         decoding="async"
-         data-nimg="1"
-         class="src-components-Tag-Tag-module__icon--kRFOB"
-         srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-         src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-         style="color: transparent;"
-    >
     Tag content
   </div>
 </main>
