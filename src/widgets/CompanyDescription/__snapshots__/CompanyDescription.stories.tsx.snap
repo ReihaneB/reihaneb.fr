@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/CompanyDescription LongDescription smoke-test 1`] = `
+<main class="inter-normal">
+  <div>
+    <h2 class="src-widgets-CompanyDescription-CompanyDescription-module__title--hrKK8">
+      Contexte
+    </h2>
+    <p>
+      Non reprehenderit irure ex occaecat duis nulla officia dolore magna Lorem duis. Dolore culpa aute aliquip sint eu irure aute mollit aliqua. Officia dolore et laboris proident esse deserunt irure minim magna ad ut sint. Incididunt elit Lorem qui cillum dolore duis labore laborum consequat minim. Veniam excepteur incididunt ad labore. Sint pariatur irure consequat id esse anim esse qui. Est adipisicing sit irure aliqua sint culpa nostrud ut laboris reprehenderit Lorem pariatur eiusmod cillum. Cillum magna mollit minim non proident dolor mollit aliquip eu voluptate duis aliquip voluptate. Officia reprehenderit officia amet anim. Magna officia quis aliqua officia anim pariatur officia sit esse laborum. Cupidatat cupidatat id incididunt officia et id cillum. Sint reprehenderit consectetur aute do enim do exercitation ex adipisicing ipsum proident magna consequat. Culpa dolore commodo ullamco occaecat aute cillum cupidatat ad ipsum sint non ea laboris magna.
+    </p>
+  </div>
+</main>
+`;
+
+exports[`Widgets/CompanyDescription Playground smoke-test 1`] = `
+<main class="inter-normal">
+  <div>
+    <h2 class="src-widgets-CompanyDescription-CompanyDescription-module__title--hrKK8">
+      Contexte
+    </h2>
+    <p>
+      Dolore aliquip dolor consectetur esse eu non.
+    </p>
+  </div>
+</main>
+`;
+
+exports[`Widgets/CompanyDescription ShortDescription smoke-test 1`] = `
+<main class="inter-normal">
+  <div>
+    <h2 class="src-widgets-CompanyDescription-CompanyDescription-module__title--hrKK8">
+      Contexte
+    </h2>
+    <p>
+      Dolor qui amet Lorem aliquip elit sit anim. Adipisicing cupidatat cillum mollit sunt cupidatat cupidatat voluptate ex laborum aute irure. Dolore sit cillum anim eiusmod sit quis dolore id id cupidatat laborum culpa.
+    </p>
+  </div>
+</main>
+`;
