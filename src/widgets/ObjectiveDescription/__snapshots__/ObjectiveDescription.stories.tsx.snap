@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/ObjectiveDescription LongDescription smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__root--yDE6T">
+    <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__header--WmvFD">
+      <img alt="Un icône de cible pour exprimer l'objectif du projet."
+           loading="lazy"
+           width="24"
+           height="24"
+           decoding="async"
+           data-nimg="1"
+           class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__icon--ynsEP"
+           srcset="/static/media/goal.9261bfa0.svg?w=32&amp;q=75 1x, /static/media/goal.9261bfa0.svg?w=48&amp;q=75 2x"
+           src="/static/media/goal.9261bfa0.svg?w=48&amp;q=75"
+           style="color: transparent;"
+      >
+      <h2>
+        L'objectif
+      </h2>
+    </div>
+    <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__content--P025e">
+      <h3 class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__title--ORMcl">
+        Nisi labore cupidatat esse Lorem dolore quis anim occaecat non culpa.
+      </h3>
+      <p>
+        Non reprehenderit irure ex occaecat duis nulla officia dolore magna Lorem duis. Dolore culpa aute aliquip sint eu irure aute mollit aliqua. Officia dolore et laboris proident esse deserunt irure minim magna ad ut sint. Incididunt elit Lorem qui cillum dolore duis labore laborum consequat minim. Veniam excepteur incididunt ad labore. Sint pariatur irure consequat id esse anim esse qui. Est adipisicing sit irure aliqua sint culpa nostrud ut laboris reprehenderit Lorem pariatur eiusmod cillum. Cillum magna mollit minim non proident dolor mollit aliquip eu voluptate duis aliquip voluptate. Officia reprehenderit officia amet anim. Magna officia quis aliqua officia anim pariatur officia sit esse laborum. Cupidatat cupidatat id incididunt officia et id cillum. Sint reprehenderit consectetur aute do enim do exercitation ex adipisicing ipsum proident magna consequat. Culpa dolore commodo ullamco occaecat aute cillum cupidatat ad ipsum sint non ea laboris magna.
+      </p>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ObjectiveDescription Playground smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__root--yDE6T">
+    <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__header--WmvFD">
+      <img alt="Un icône de cible pour exprimer l'objectif du projet."
+           loading="lazy"
+           width="24"
+           height="24"
+           decoding="async"
+           data-nimg="1"
+           class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__icon--ynsEP"
+           srcset="/static/media/goal.9261bfa0.svg?w=32&amp;q=75 1x, /static/media/goal.9261bfa0.svg?w=48&amp;q=75 2x"
+           src="/static/media/goal.9261bfa0.svg?w=48&amp;q=75"
+           style="color: transparent;"
+      >
+      <h2>
+        L'objectif
+      </h2>
+    </div>
+    <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__content--P025e">
+      <h3 class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__title--ORMcl">
+        Dolore aliquip dolor consectetur esse eu non. Adipisicing cupidatat cillum mollit sunt cupidatat cupidatat voluptate ex laborum aute irure.
+      </h3>
+      <p>
+        Aliqua sint amet reprehenderit commodo. Nisi duis esse incididunt non ad eiusmod labore sunt enim sunt. Anim est nisi veniam veniam ipsum mollit dolor. Labore ad sunt excepteur sunt velit id cillum eiusmod ut cupidatat adipisicing. Tempor ex anim mollit elit adipisicing reprehenderit eiusmod sunt. Ipsum minim deserunt ea culpa aute fugiat ut quis ullamco proident non pariatur et ex.
+      </p>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ObjectiveDescription ShortDescription smoke-test 1`] = `
+<main class="inter-normal">
+  <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__root--yDE6T">
+    <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__header--WmvFD">
+      <img alt="Un icône de cible pour exprimer l'objectif du projet."
+           loading="lazy"
+           width="24"
+           height="24"
+           decoding="async"
+           data-nimg="1"
+           class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__icon--ynsEP"
+           srcset="/static/media/goal.9261bfa0.svg?w=32&amp;q=75 1x, /static/media/goal.9261bfa0.svg?w=48&amp;q=75 2x"
+           src="/static/media/goal.9261bfa0.svg?w=48&amp;q=75"
+           style="color: transparent;"
+      >
+      <h2>
+        L'objectif
+      </h2>
+    </div>
+    <div class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__content--P025e">
+      <h3 class="src-widgets-ObjectiveDescription-ObjectiveDescription-module__title--ORMcl">
+        Ut ut ipsum dolor quis id sit fugiat cupidatat sit Lorem laborum ut. Eiusmod proident laborum est mollit in cillum id do proident cupidatat anim enim. Elit ut anim eu reprehenderit. Consequat commodo irure adipisicing in in quis.
+      </h3>
+      <p>
+        Dolor qui amet Lorem aliquip elit sit anim. Adipisicing cupidatat cillum mollit sunt cupidatat cupidatat voluptate ex laborum aute irure. Dolore sit cillum anim eiusmod sit quis dolore id id cupidatat laborum culpa.
+      </p>
+    </div>
+  </div>
+</main>
+`;
