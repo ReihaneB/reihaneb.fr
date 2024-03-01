@@ -12,47 +12,48 @@ const meta: Meta<typeof StackOverview> = {
 export default meta;
 type Story = StoryObj<typeof StackOverview>;
 
-const numberOfTags = [
-  2,
-  3,
-  6,
-  1,
-  4,
-  5,
-  10,
-  9,
-];
-
-const generateRandomly = (array: number[], index: number) => array[index % array.length];
-
-const createTags = (nbTags: number) => {
-  const tags = [];
-  for (let i = 0; i < nbTags; i++) {
-    tags.push({
-      id: i + 1,
-      label: `Tag ${i}`,
-      icon: IconArrow,
-    });
-  }
-  return tags;
-};
-
-const createCategories = (nbCategories: number) => {
-  const categories = [];
-  for (let i = 0; i < nbCategories; i++) {
-    categories.push({
-      id: i + 1,
-      name: `Librairie ${i}`,
-      tags: createTags(generateRandomly(numberOfTags, i)),
-    });
-  }
-  return categories;
-};
-
 const defaultArgs = {
   id: 1,
   name: 'Front-end',
-  stackCategory: createCategories(2),
+  stackCategory: [
+    {
+      id: 1,
+      name: 'Librairie 1',
+      tags: [
+        {
+          id: 1,
+          label: 'React',
+          icon: IconArrow,
+        },
+        {
+          id: 2,
+          label: 'TypeScript',
+          icon: IconArrow,
+        },
+      ],
+    },
+    {
+      id: 2,
+      name: 'Librairie 2',
+      tags: [
+        {
+          id: 3,
+          label: 'Redux',
+          icon: IconArrow,
+        },
+        {
+          id: 4,
+          label: 'Jest',
+          icon: IconArrow,
+        },
+        {
+          id: 5,
+          label: 'Testing Library',
+          icon: IconArrow,
+        },
+      ],
+    },
+  ],
 };
 
 export const Playground: Story = {
@@ -84,7 +85,17 @@ export const CategoryLonger: Story = {
           },
         ],
       },
-      createCategories(1)[0],
+      {
+        id: 2,
+        name: 'Librairie 2',
+        tags: [
+          {
+            id: 3,
+            label: 'Redux',
+            icon: IconArrow,
+          },
+        ],
+      },
     ],
   },
 };
@@ -93,7 +104,39 @@ export const _1Category: Story = {
   name: 'One category',
   args: {
     ...defaultArgs,
-    stackCategory: createCategories(1),
+    stackCategory: [
+      {
+        id: 1,
+        name: 'Librairie 1',
+        tags: [
+          {
+            id: 1,
+            label: 'React',
+            icon: IconArrow,
+          },
+          {
+            id: 2,
+            label: 'TypeScript',
+            icon: IconArrow,
+          },
+          {
+            id: 3,
+            label: 'Redux',
+            icon: IconArrow,
+          },
+          {
+            id: 4,
+            label: 'Jest',
+            icon: IconArrow,
+          },
+          {
+            id: 5,
+            label: 'Testing Library',
+            icon: IconArrow,
+          },
+        ],
+      },
+    ],
   },
 };
 
@@ -101,7 +144,45 @@ export const _2Categories: Story = {
   name: 'Two categories',
   args: {
     ...defaultArgs,
-    stackCategory: createCategories(2),
+    stackCategory: [
+      {
+        id: 1,
+        name: 'Librairie 1',
+        tags: [
+          {
+            id: 1,
+            label: 'React',
+            icon: IconArrow,
+          },
+          {
+            id: 2,
+            label: 'TypeScript',
+            icon: IconArrow,
+          },
+        ],
+      },
+      {
+        id: 2,
+        name: 'Librairie 2',
+        tags: [
+          {
+            id: 3,
+            label: 'Redux',
+            icon: IconArrow,
+          },
+          {
+            id: 4,
+            label: 'Jest',
+            icon: IconArrow,
+          },
+          {
+            id: 5,
+            label: 'Testing Library',
+            icon: IconArrow,
+          },
+        ],
+      },
+    ],
   },
 };
 
@@ -109,7 +190,61 @@ export const _3Categories: Story = {
   name: 'Three categories',
   args: {
     ...defaultArgs,
-    stackCategory: createCategories(3),
+    stackCategory: [
+      {
+        id: 1,
+        name: 'Librairie 1',
+        tags: [
+          {
+            id: 1,
+            label: 'React',
+            icon: IconArrow,
+          },
+          {
+            id: 2,
+            label: 'TypeScript',
+            icon: IconArrow,
+          },
+        ],
+      },
+      {
+        id: 2,
+        name: 'Librairie 2',
+        tags: [
+          {
+            id: 3,
+            label: 'Redux',
+            icon: IconArrow,
+          },
+          {
+            id: 4,
+            label: 'Jest',
+            icon: IconArrow,
+          },
+          {
+            id: 5,
+            label: 'Testing Library',
+            icon: IconArrow,
+          },
+        ],
+      },
+      {
+        id: 3,
+        name: 'Librairie 3',
+        tags: [
+          {
+            id: 6,
+            label: 'React Native',
+            icon: IconArrow,
+          },
+          {
+            id: 7,
+            label: 'Expo',
+            icon: IconArrow,
+          },
+        ],
+      },
+    ],
   },
 };
 
@@ -117,22 +252,76 @@ export const _4Categories: Story = {
   name: 'Four categories',
   args: {
     ...defaultArgs,
-    stackCategory: createCategories(4),
-  },
-};
-
-export const _5Categories: Story = {
-  name: 'Five categories',
-  args: {
-    ...defaultArgs,
-    stackCategory: createCategories(5),
-  },
-};
-
-export const _10Categories: Story = {
-  name: 'Ten categories',
-  args: {
-    ...defaultArgs,
-    stackCategory: createCategories(10),
+    stackCategory: [
+      {
+        id: 1,
+        name: 'Librairie 1',
+        tags: [
+          {
+            id: 1,
+            label: 'React',
+            icon: IconArrow,
+          },
+          {
+            id: 2,
+            label: 'TypeScript',
+            icon: IconArrow,
+          },
+        ],
+      },
+      {
+        id: 2,
+        name: 'Librairie 2',
+        tags: [
+          {
+            id: 3,
+            label: 'Redux',
+            icon: IconArrow,
+          },
+          {
+            id: 4,
+            label: 'Jest',
+            icon: IconArrow,
+          },
+          {
+            id: 5,
+            label: 'Testing Library',
+            icon: IconArrow,
+          },
+        ],
+      },
+      {
+        id: 3,
+        name: 'Librairie 3',
+        tags: [
+          {
+            id: 6,
+            label: 'React Native',
+            icon: IconArrow,
+          },
+          {
+            id: 7,
+            label: 'Expo',
+            icon: IconArrow,
+          },
+        ],
+      },
+      {
+        id: 4,
+        name: 'Librairie 4',
+        tags: [
+          {
+            id: 8,
+            label: 'Next.js',
+            icon: IconArrow,
+          },
+          {
+            id: 9,
+            label: 'Gatsby',
+            icon: IconArrow,
+          },
+        ],
+      },
+    ],
   },
 };

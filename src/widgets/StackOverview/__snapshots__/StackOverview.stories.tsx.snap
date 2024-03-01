@@ -8,7 +8,7 @@ exports[`Widgets/StackOverview _1Category smoke-test 1`] = `
   <ul class="src-widgets-StackOverview-StackOverview-module__stackCategory--zHtd8">
     <li>
       <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
+        Librairie 1
       </h3>
       <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
         <li>
@@ -16,7 +16,7 @@ exports[`Widgets/StackOverview _1Category smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de React"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -27,7 +27,7 @@ exports[`Widgets/StackOverview _1Category smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            React
           </div>
         </li>
         <li>
@@ -35,7 +35,7 @@ exports[`Widgets/StackOverview _1Category smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de TypeScript"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -46,7 +46,64 @@ exports[`Widgets/StackOverview _1Category smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
+            TypeScript
+          </div>
+        </li>
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Redux"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Redux
+          </div>
+        </li>
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Jest"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Jest
+          </div>
+        </li>
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Testing Library"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Testing Library
           </div>
         </li>
       </ul>
@@ -63,51 +120,6 @@ exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
   <ul class="src-widgets-StackOverview-StackOverview-module__stackCategory--zHtd8">
     <li>
       <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
         Librairie 1
       </h3>
       <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
@@ -116,7 +128,7 @@ exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de React"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -127,7 +139,7 @@ exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            React
           </div>
         </li>
         <li>
@@ -135,7 +147,7 @@ exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de TypeScript"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -146,7 +158,33 @@ exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
+            TypeScript
+          </div>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
+        Librairie 2
+      </h3>
+      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Redux"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Redux
           </div>
         </li>
         <li>
@@ -154,7 +192,7 @@ exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 2"
+            <img alt="Icône de Jest"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -165,7 +203,26 @@ exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 2
+            Jest
+          </div>
+        </li>
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Testing Library"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Testing Library
           </div>
         </li>
       </ul>
@@ -182,51 +239,6 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
   <ul class="src-widgets-StackOverview-StackOverview-module__stackCategory--zHtd8">
     <li>
       <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
         Librairie 1
       </h3>
       <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
@@ -235,7 +247,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de React"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -246,7 +258,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            React
           </div>
         </li>
         <li>
@@ -254,7 +266,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de TypeScript"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -265,26 +277,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
+            TypeScript
           </div>
         </li>
       </ul>
@@ -299,7 +292,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de Redux"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -310,7 +303,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            Redux
           </div>
         </li>
         <li>
@@ -318,7 +311,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de Jest"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -329,7 +322,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
+            Jest
           </div>
         </li>
         <li>
@@ -337,7 +330,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 2"
+            <img alt="Icône de Testing Library"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -348,7 +341,33 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 2
+            Testing Library
+          </div>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
+        Librairie 3
+      </h3>
+      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de React Native"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            React Native
           </div>
         </li>
         <li>
@@ -356,7 +375,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 3"
+            <img alt="Icône de Expo"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -367,45 +386,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 3
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 4"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 4
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 5"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 5
+            Expo
           </div>
         </li>
       </ul>
@@ -422,51 +403,6 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
   <ul class="src-widgets-StackOverview-StackOverview-module__stackCategory--zHtd8">
     <li>
       <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
         Librairie 1
       </h3>
       <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
@@ -475,7 +411,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de React"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -486,7 +422,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            React
           </div>
         </li>
         <li>
@@ -494,7 +430,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de TypeScript"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -505,26 +441,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
+            TypeScript
           </div>
         </li>
       </ul>
@@ -539,7 +456,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de Redux"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -550,7 +467,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            Redux
           </div>
         </li>
         <li>
@@ -558,7 +475,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de Jest"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -569,7 +486,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
+            Jest
           </div>
         </li>
         <li>
@@ -577,7 +494,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 2"
+            <img alt="Icône de Testing Library"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -588,64 +505,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 2
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 3"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 3
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 4"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 4
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 5"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 5
+            Testing Library
           </div>
         </li>
       </ul>
@@ -660,7 +520,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de React Native"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -671,43 +531,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
-          </div>
-        </li>
-      </ul>
-    </li>
-  </ul>
-</main>
-`;
-
-exports[`Widgets/StackOverview _5Categories smoke-test 1`] = `
-<main class="inter-normal">
-  <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
-    Front-end
-  </h2>
-  <ul class="src-widgets-StackOverview-StackOverview-module__stackCategory--zHtd8">
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
+            React Native
           </div>
         </li>
         <li>
@@ -715,7 +539,7 @@ exports[`Widgets/StackOverview _5Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de Expo"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -726,218 +550,7 @@ exports[`Widgets/StackOverview _5Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 1
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 2
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 3"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 3
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 4"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 4
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 5"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 5
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 3
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
+            Expo
           </div>
         </li>
       </ul>
@@ -952,7 +565,7 @@ exports[`Widgets/StackOverview _5Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de Next.js"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -963,7 +576,7 @@ exports[`Widgets/StackOverview _5Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            Next.js
           </div>
         </li>
         <li>
@@ -971,7 +584,7 @@ exports[`Widgets/StackOverview _5Categories smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de Gatsby"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -982,980 +595,7 @@ exports[`Widgets/StackOverview _5Categories smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 3"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 3
-          </div>
-        </li>
-      </ul>
-    </li>
-  </ul>
-</main>
-`;
-
-exports[`Widgets/StackOverview _10Categories smoke-test 1`] = `
-<main class="inter-normal">
-  <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
-    Front-end
-  </h2>
-  <ul class="src-widgets-StackOverview-StackOverview-module__stackCategory--zHtd8">
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 1
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 2
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 3"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 3
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 4"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 4
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 5"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 5
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 3
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 4
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 3"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 3
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 5
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 3"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 3
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 4"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 4
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 6
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 3"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 3
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 4"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 4
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 5"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 5
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 6"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 6
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 7"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 7
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 8"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 8
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 9"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 9
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 7
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 3"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 3
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 4"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 4
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 5"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 5
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 6"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 6
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 7"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 7
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 8"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 8
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 8
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 9
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 2"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 2
+            Gatsby
           </div>
         </li>
       </ul>
@@ -1998,7 +638,7 @@ exports[`Widgets/StackOverview CategoryLonger smoke-test 1`] = `
     </li>
     <li>
       <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
+        Librairie 2
       </h3>
       <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
         <li>
@@ -2006,7 +646,7 @@ exports[`Widgets/StackOverview CategoryLonger smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de Redux"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -2017,26 +657,7 @@ exports[`Widgets/StackOverview CategoryLonger smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
+            Redux
           </div>
         </li>
       </ul>
@@ -2053,51 +674,6 @@ exports[`Widgets/StackOverview Playground smoke-test 1`] = `
   <ul class="src-widgets-StackOverview-StackOverview-module__stackCategory--zHtd8">
     <li>
       <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
         Librairie 1
       </h3>
       <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
@@ -2106,7 +682,7 @@ exports[`Widgets/StackOverview Playground smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de React"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -2117,7 +693,7 @@ exports[`Widgets/StackOverview Playground smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            React
           </div>
         </li>
         <li>
@@ -2125,7 +701,7 @@ exports[`Widgets/StackOverview Playground smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de TypeScript"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -2136,7 +712,33 @@ exports[`Widgets/StackOverview Playground smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
+            TypeScript
+          </div>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
+        Librairie 2
+      </h3>
+      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Redux"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Redux
           </div>
         </li>
         <li>
@@ -2144,7 +746,7 @@ exports[`Widgets/StackOverview Playground smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 2"
+            <img alt="Icône de Jest"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -2155,7 +757,26 @@ exports[`Widgets/StackOverview Playground smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 2
+            Jest
+          </div>
+        </li>
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Testing Library"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Testing Library
           </div>
         </li>
       </ul>
@@ -2172,51 +793,6 @@ exports[`Widgets/StackOverview WithLongName smoke-test 1`] = `
   <ul class="src-widgets-StackOverview-StackOverview-module__stackCategory--zHtd8">
     <li>
       <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
-        Librairie 0
-      </h3>
-      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 0"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 0
-          </div>
-        </li>
-        <li>
-          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
-               data-testid="tag-component"
-               tabindex="-1"
-          >
-            <img alt="Icône de Tag 1"
-                 loading="lazy"
-                 width="12"
-                 height="12"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Tag-Tag-module__icon--kRFOB"
-                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                 style="color: transparent;"
-            >
-            Tag 1
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
         Librairie 1
       </h3>
       <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
@@ -2225,7 +801,7 @@ exports[`Widgets/StackOverview WithLongName smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 0"
+            <img alt="Icône de React"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -2236,7 +812,7 @@ exports[`Widgets/StackOverview WithLongName smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 0
+            React
           </div>
         </li>
         <li>
@@ -2244,7 +820,7 @@ exports[`Widgets/StackOverview WithLongName smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 1"
+            <img alt="Icône de TypeScript"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -2255,7 +831,33 @@ exports[`Widgets/StackOverview WithLongName smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 1
+            TypeScript
+          </div>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h3 class="src-widgets-StackCategory-StackCategory-module__name--XQSqW">
+        Librairie 2
+      </h3>
+      <ul class="src-widgets-StackCategory-StackCategory-module__tags--XFK0O">
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Redux"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Redux
           </div>
         </li>
         <li>
@@ -2263,7 +865,7 @@ exports[`Widgets/StackOverview WithLongName smoke-test 1`] = `
                data-testid="tag-component"
                tabindex="-1"
           >
-            <img alt="Icône de Tag 2"
+            <img alt="Icône de Jest"
                  loading="lazy"
                  width="12"
                  height="12"
@@ -2274,7 +876,26 @@ exports[`Widgets/StackOverview WithLongName smoke-test 1`] = `
                  src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
                  style="color: transparent;"
             >
-            Tag 2
+            Jest
+          </div>
+        </li>
+        <li>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            <img alt="Icône de Testing Library"
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Tag-Tag-module__icon--kRFOB"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
+            >
+            Testing Library
           </div>
         </li>
       </ul>

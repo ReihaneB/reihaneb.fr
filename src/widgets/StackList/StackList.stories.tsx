@@ -12,57 +12,52 @@ const meta: Meta<typeof StackList> = {
 export default meta;
 type Story = StoryObj<typeof StackList>;
 
-const numberOfTags = [
-  2,
-  3,
-  6,
-  1,
-  4,
-  5,
-  10,
-  9,
-];
-
-const generateRandomly = (array: number[], index: number) => array[index % array.length];
-
-const createTags = (nbTags: number) => {
-  const tags = [];
-  for (let i = 0; i < nbTags; i++) {
-    tags.push({
-      id: i + 1,
-      label: `Tag ${i}`,
-      icon: IconArrow,
-    });
-  }
-  return tags;
-};
-
-const createCategories = (nbCategories: number) => {
-  const categories = [];
-  for (let i = 0; i < nbCategories; i++) {
-    categories.push({
-      id: i + 1,
-      name: `Librairie ${i}`,
-      tags: createTags(generateRandomly(numberOfTags, i)),
-    });
-  }
-  return categories;
-};
-
-const createOverviews = (nbOverviews: number) => {
-  const overviews = [];
-  for (let i = 0; i < nbOverviews; i++) {
-    overviews.push({
-      id: i + 1,
-      name: `Stack ${i}`,
-      stackCategory: createCategories(generateRandomly(numberOfTags, i)),
-    });
-  }
-  return overviews;
-};
-
 const defaultArgs = {
-  stack: createOverviews(3),
+  stack: [
+    {
+      id: 1,
+      name: 'Front-end',
+      stackCategory: [
+        {
+          id: 1,
+          name: 'Librairie 1',
+          tags: [
+            {
+              id: 1,
+              label: 'React',
+              icon: IconArrow,
+            },
+            {
+              id: 2,
+              label: 'TypeScript',
+              icon: IconArrow,
+            },
+          ],
+        },
+        {
+          id: 2,
+          name: 'Librairie 2',
+          tags: [
+            {
+              id: 3,
+              label: 'Redux',
+              icon: IconArrow,
+            },
+            {
+              id: 4,
+              label: 'Jest',
+              icon: IconArrow,
+            },
+            {
+              id: 5,
+              label: 'Testing Library',
+              icon: IconArrow,
+            },
+          ],
+        },
+      ],
+    },
+  ],
 };
 
 export const Playground: Story = {
@@ -73,36 +68,385 @@ export const Playground: Story = {
 
 export const _1Overview: Story = {
   args: {
-    stack: createOverviews(1),
+    stack: [
+      {
+        id: 1,
+        name: 'Front-end',
+        stackCategory: [
+          {
+            id: 1,
+            name: 'Librairie 1',
+            tags: [
+              {
+                id: 1,
+                label: 'React',
+                icon: IconArrow,
+              },
+              {
+                id: 2,
+                label: 'TypeScript',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+    ],
   },
 };
 
 export const _2Overviews: Story = {
   args: {
-    stack: createOverviews(2),
+    stack: [
+      {
+        id: 1,
+        name: 'Front-end',
+        stackCategory: [
+          {
+            id: 1,
+            name: 'Librairie 1',
+            tags: [
+              {
+                id: 1,
+                label: 'React',
+                icon: IconArrow,
+              },
+              {
+                id: 2,
+                label: 'TypeScript',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 2,
+        name: 'Back-end',
+        stackCategory: [
+          {
+            id: 3,
+            name: 'Librairie 2',
+            tags: [
+              {
+                id: 3,
+                label: 'Redux',
+                icon: IconArrow,
+              },
+              {
+                id: 4,
+                label: 'Jest',
+                icon: IconArrow,
+              },
+              {
+                id: 5,
+                label: 'Testing Library',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+    ],
   },
 };
 
 export const _3Overviews: Story = {
   args: {
-    stack: createOverviews(3),
+    stack: [
+      {
+        id: 1,
+        name: 'Front-end',
+        stackCategory: [
+          {
+            id: 1,
+            name: 'Librairie 1',
+            tags: [
+              {
+                id: 1,
+                label: 'React',
+                icon: IconArrow,
+              },
+              {
+                id: 2,
+                label: 'TypeScript',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 2,
+        name: 'Back-end',
+        stackCategory: [
+          {
+            id: 3,
+            name: 'Librairie 2',
+            tags: [
+              {
+                id: 3,
+                label: 'Redux',
+                icon: IconArrow,
+              },
+              {
+                id: 4,
+                label: 'Jest',
+                icon: IconArrow,
+              },
+              {
+                id: 5,
+                label: 'Testing Library',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 3,
+        name: 'Mobile',
+        stackCategory: [
+          {
+            id: 6,
+            name: 'Librairie 3',
+            tags: [
+              {
+                id: 7,
+                label: 'React Native',
+                icon: IconArrow,
+              },
+              {
+                id: 8,
+                label: 'TypeScript',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+    ],
   },
 };
 
 export const _4Overviews: Story = {
   args: {
-    stack: createOverviews(4),
+    stack: [
+      {
+        id: 1,
+        name: 'Front-end',
+        stackCategory: [
+          {
+            id: 1,
+            name: 'Librairie 1',
+            tags: [
+              {
+                id: 1,
+                label: 'React',
+                icon: IconArrow,
+              },
+              {
+                id: 2,
+                label: 'TypeScript',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 2,
+        name: 'Back-end',
+        stackCategory: [
+          {
+            id: 3,
+            name: 'Librairie 2',
+            tags: [
+              {
+                id: 3,
+                label: 'Redux',
+                icon: IconArrow,
+              },
+              {
+                id: 4,
+                label: 'Jest',
+                icon: IconArrow,
+              },
+              {
+                id: 5,
+                label: 'Testing Library',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 3,
+        name: 'Mobile',
+        stackCategory: [
+          {
+            id: 6,
+            name: 'Librairie 3',
+            tags: [
+              {
+                id: 7,
+                label: 'React Native',
+                icon: IconArrow,
+              },
+              {
+                id: 8,
+                label: 'TypeScript',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 4,
+        name: 'DevOps',
+        stackCategory: [
+          {
+            id: 9,
+            name: 'Librairie 4',
+            tags: [
+              {
+                id: 10,
+                label: 'Docker',
+                icon: IconArrow,
+              },
+              {
+                id: 11,
+                label: 'Kubernetes',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+    ],
   },
 };
 
 export const _5Overviews: Story = {
   args: {
-    stack: createOverviews(5),
-  },
-};
-
-export const _10Overviews: Story = {
-  args: {
-    stack: createOverviews(10),
+    stack: [
+      {
+        id: 1,
+        name: 'Front-end',
+        stackCategory: [
+          {
+            id: 1,
+            name: 'Librairie 1',
+            tags: [
+              {
+                id: 1,
+                label: 'React',
+                icon: IconArrow,
+              },
+              {
+                id: 2,
+                label: 'TypeScript',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 2,
+        name: 'Back-end',
+        stackCategory: [
+          {
+            id: 3,
+            name: 'Librairie 2',
+            tags: [
+              {
+                id: 3,
+                label: 'Redux',
+                icon: IconArrow,
+              },
+              {
+                id: 4,
+                label: 'Jest',
+                icon: IconArrow,
+              },
+              {
+                id: 5,
+                label: 'Testing Library',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 3,
+        name: 'Mobile',
+        stackCategory: [
+          {
+            id: 6,
+            name: 'Librairie 3',
+            tags: [
+              {
+                id: 7,
+                label: 'React Native',
+                icon: IconArrow,
+              },
+              {
+                id: 8,
+                label: 'TypeScript',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 4,
+        name: 'DevOps',
+        stackCategory: [
+          {
+            id: 9,
+            name: 'Librairie 4',
+            tags: [
+              {
+                id: 10,
+                label: 'Docker',
+                icon: IconArrow,
+              },
+              {
+                id: 11,
+                label: 'Kubernetes',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+      {
+        id: 5,
+        name: 'Data',
+        stackCategory: [
+          {
+            id: 12,
+            name: 'Librairie 5',
+            tags: [
+              {
+                id: 13,
+                label: 'PostgreSQL',
+                icon: IconArrow,
+              },
+              {
+                id: 14,
+                label: 'MongoDB',
+                icon: IconArrow,
+              },
+            ],
+          },
+        ],
+      },
+    ],
   },
 };
