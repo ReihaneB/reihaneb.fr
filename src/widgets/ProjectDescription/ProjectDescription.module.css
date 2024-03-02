@@ -1,0 +1,34 @@
+.root {
+  display: grid;
+  gap: 32px;
+  grid-template-columns: 400px 1fr;
+  grid-template-areas:
+    "company image"
+    "objective image"
+    "objective image";
+
+  @media (width <= 957px) {
+    display: block;
+  }
+}
+
+.company {
+  grid-area: company;
+
+  @media (width <= 957px) {
+    margin-bottom: 32px;
+  }
+}
+
+.objective {
+  grid-area: objective;
+}
+
+.image {
+  grid-area: image;
+  align-self: center;
+
+  @media (width <= 957px) {
+    display: none;
+  }
+}
