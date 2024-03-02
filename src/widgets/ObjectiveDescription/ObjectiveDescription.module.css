@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: center;
   background-color: var(--blue-lighter);
-  border-radius: 32px;
+  border-radius: 16px;
   padding: 32px;
 
   @media (width <= 768px) {
