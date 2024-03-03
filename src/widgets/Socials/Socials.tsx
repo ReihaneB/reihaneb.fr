@@ -1,3 +1,5 @@
+import classNames from 'classnames';
+
 import Link from '@/components/Link/Link';
 
 import type { SocialsProps } from './Socials.d';
@@ -5,11 +7,12 @@ import styles from './Socials.module.css';
 
 function Socials({
   socials,
+  additionalClasses,
   ...rest
 }: SocialsProps) {
   return (
     <ul
-      className={styles.root}
+      className={classNames(styles.root, additionalClasses)}
       {...rest}
     >
       {socials.map(social => (
