@@ -8,4 +8,5 @@ interface LinkProps {
   Icon?: StaticImport | string | null;
   autoFocus?: boolean;
   forwardedRef?: React.RefObject<HTMLButtonElement> | null;
+  openInNewTab?: boolean;
 }

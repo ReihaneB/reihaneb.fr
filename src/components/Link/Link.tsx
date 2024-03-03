@@ -17,6 +17,7 @@ function Link({
   Icon = null,
   autoFocus = false,
   forwardedRef = null,
+  openInNewTab = false,
   ...rest
 }: LinkProps) {
   const { ref: elementRef } = useFocusable(forwardedRef, { autoFocus });
@@ -32,6 +33,8 @@ function Link({
       }
       ref={elementRef}
       data-testid="link-component"
+      target={openInNewTab ? '_blank' : '_self'}
+      rel={openInNewTab ? 'noreferrer' : undefined}
       {...rest}
     >
       {Icon && (

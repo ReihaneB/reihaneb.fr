@@ -20,6 +20,7 @@ function Socials({
           <Link
             to={social.url}
             Icon={social.icon}
+            openInNewTab
           >
             {social.name}
           </Link>
