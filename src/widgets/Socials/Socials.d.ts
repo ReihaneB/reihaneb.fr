@@ -6,6 +6,7 @@ export interface Social {
 
 export interface SocialsProps {
   socials: Social[];
+  additionalClasses?: string;
 }
 
 export interface SocialsAPIResponse {
