@@ -5,7 +5,6 @@ export const getSocials = async () => {
     method: 'GET',
     path: '/social',
     tag: 'socials',
-    state: 'dynamic',
   });
 
   return body;
