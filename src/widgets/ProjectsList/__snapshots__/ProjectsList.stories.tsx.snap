@@ -57,6 +57,7 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -132,6 +133,7 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -207,6 +209,7 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -289,6 +292,7 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -364,6 +368,7 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -439,6 +444,7 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -521,6 +527,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -596,6 +603,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -671,6 +679,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -753,6 +762,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -828,6 +838,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -903,6 +914,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -985,6 +997,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1060,6 +1073,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1135,6 +1149,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1217,6 +1232,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1292,6 +1308,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1367,6 +1384,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1449,6 +1467,7 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1524,6 +1543,7 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1599,6 +1619,7 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1681,6 +1702,7 @@ exports[`Widgets/ProjectsList SingleProject smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1763,6 +1785,7 @@ exports[`Widgets/ProjectsList SingleProjectWithLongData smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1845,6 +1868,7 @@ exports[`Widgets/ProjectsList SingleProjectWithLongJobTitle smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -1927,6 +1951,7 @@ exports[`Widgets/ProjectsList SingleProjectWithLongStackName smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
@@ -2009,6 +2034,7 @@ exports[`Widgets/ProjectsList SingleProjectWithLongTitle smoke-test 1`] = `
       <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
         <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
            data-testid="link-component"
+           target="_self"
            href="/"
         >
           Voir le projet
