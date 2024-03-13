@@ -30,6 +30,8 @@ exports[`Widgets/HeroHeader _1x1Image smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -49,6 +51,8 @@ exports[`Widgets/HeroHeader _1x1Image smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -108,6 +112,8 @@ exports[`Widgets/HeroHeader _4x3Image smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -127,6 +133,8 @@ exports[`Widgets/HeroHeader _4x3Image smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -186,6 +194,8 @@ exports[`Widgets/HeroHeader _16x9Image smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -205,6 +215,8 @@ exports[`Widgets/HeroHeader _16x9Image smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -264,6 +276,8 @@ exports[`Widgets/HeroHeader LongData smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -283,6 +297,8 @@ exports[`Widgets/HeroHeader LongData smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -342,6 +358,8 @@ exports[`Widgets/HeroHeader LongDescription smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -361,6 +379,8 @@ exports[`Widgets/HeroHeader LongDescription smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -420,6 +440,8 @@ exports[`Widgets/HeroHeader LongName smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -439,6 +461,8 @@ exports[`Widgets/HeroHeader LongName smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -498,6 +522,8 @@ exports[`Widgets/HeroHeader LongTitle smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -517,6 +543,8 @@ exports[`Widgets/HeroHeader LongTitle smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -576,6 +604,8 @@ exports[`Widgets/HeroHeader Playground smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
@@ -595,6 +625,8 @@ exports[`Widgets/HeroHeader Playground smoke-test 1`] = `
           <li>
             <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
                data-testid="link-component"
+               target="_blank"
+               rel="noreferrer"
                href
             >
               <img alt="Icône de lien vers "
