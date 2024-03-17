@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Section NotFocusTab play-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <section class="src-components-Section-Section-module__root--wtqbG"
+           id="section-id"
+  >
+    Section content
+  </section>
+</main>
+`;
+
+exports[`Components/Section Playground smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <section class="src-components-Section-Section-module__root--wtqbG"
+           id="section-id"
+  >
+    Section content
+  </section>
+</main>
+`;
+
+exports[`Components/Section SemanticSection play-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <section class="src-components-Section-Section-module__root--wtqbG"
+           id="section-id"
+  >
+    Section content
+  </section>
+</main>
+`;
