@@ -3,7 +3,7 @@ import { StaticImport } from 'next/dist/shared/lib/get-img-props';
 interface tags {
   id: number;
   label: string;
-  icon: StaticImport | null;
+  icon: StaticImport | string | null;
 }
 
 export interface StackCategoryProps {
