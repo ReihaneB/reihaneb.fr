@@ -1,390 +1,382 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Widgets/GalleryList _1Gallery smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-GalleryList-GalleryList-stories-module__root--iKss1">
-    <div class="src-widgets-GalleryList-GalleryList-module__separatorContainer--Qq3vm">
-      <hr class="src-components-Separator-Separator-module__root--N5eOl"
-          data-testid="separator-component"
-          style="--separator-text: &quot;Wireframes&quot;;"
-      >
-    </div>
-    <ul class="src-widgets-GalleryList-GalleryList-module__galleryList--UNK7W">
-      <li>
-        <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
-          Gallery 1
-        </h2>
-        <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-        </ul>
-      </li>
-    </ul>
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-GalleryList-GalleryList-module__separatorContainer--Qq3vm">
+    <hr class="src-components-Separator-Separator-module__root--N5eOl"
+        data-testid="separator-component"
+        style="--separator-text: &quot;Wireframes&quot;;"
+    >
   </div>
+  <ul class="src-widgets-GalleryList-GalleryList-module__galleryList--UNK7W">
+    <li>
+      <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+        Gallery 1
+      </h2>
+      <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+      </ul>
+    </li>
+  </ul>
 </main>
 `;
 
 exports[`Widgets/GalleryList _2Galleries smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-GalleryList-GalleryList-stories-module__root--iKss1">
-    <div class="src-widgets-GalleryList-GalleryList-module__separatorContainer--Qq3vm">
-      <hr class="src-components-Separator-Separator-module__root--N5eOl"
-          data-testid="separator-component"
-          style="--separator-text: &quot;Wireframes&quot;;"
-      >
-    </div>
-    <ul class="src-widgets-GalleryList-GalleryList-module__galleryList--UNK7W">
-      <li>
-        <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
-          Gallery 1
-        </h2>
-        <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
-          Gallery 2
-        </h2>
-        <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="800"
-                 height="600"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
-                 src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-        </ul>
-      </li>
-    </ul>
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-GalleryList-GalleryList-module__separatorContainer--Qq3vm">
+    <hr class="src-components-Separator-Separator-module__root--N5eOl"
+        data-testid="separator-component"
+        style="--separator-text: &quot;Wireframes&quot;;"
+    >
   </div>
+  <ul class="src-widgets-GalleryList-GalleryList-module__galleryList--UNK7W">
+    <li>
+      <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+        Gallery 1
+      </h2>
+      <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+        Gallery 2
+      </h2>
+      <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="800"
+               height="600"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
+               src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+      </ul>
+    </li>
+  </ul>
 </main>
 `;
 
 exports[`Widgets/GalleryList _3Galleries smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-GalleryList-GalleryList-stories-module__root--iKss1">
-    <div class="src-widgets-GalleryList-GalleryList-module__separatorContainer--Qq3vm">
-      <hr class="src-components-Separator-Separator-module__root--N5eOl"
-          data-testid="separator-component"
-          style="--separator-text: &quot;Wireframes&quot;;"
-      >
-    </div>
-    <ul class="src-widgets-GalleryList-GalleryList-module__galleryList--UNK7W">
-      <li>
-        <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
-          Gallery 1
-        </h2>
-        <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
-          Gallery 2
-        </h2>
-        <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="800"
-                 height="600"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
-                 src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
-          Gallery 3
-        </h2>
-        <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="800"
-                 height="600"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
-                 src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1080"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-        </ul>
-      </li>
-    </ul>
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-GalleryList-GalleryList-module__separatorContainer--Qq3vm">
+    <hr class="src-components-Separator-Separator-module__root--N5eOl"
+        data-testid="separator-component"
+        style="--separator-text: &quot;Wireframes&quot;;"
+    >
   </div>
+  <ul class="src-widgets-GalleryList-GalleryList-module__galleryList--UNK7W">
+    <li>
+      <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+        Gallery 1
+      </h2>
+      <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+        Gallery 2
+      </h2>
+      <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="800"
+               height="600"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
+               src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+        Gallery 3
+      </h2>
+      <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="800"
+               height="600"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
+               src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1080"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+               src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+      </ul>
+    </li>
+  </ul>
 </main>
 `;
 
 exports[`Widgets/GalleryList Playground smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-GalleryList-GalleryList-stories-module__root--iKss1">
-    <div class="src-widgets-GalleryList-GalleryList-module__separatorContainer--Qq3vm">
-      <hr class="src-components-Separator-Separator-module__root--N5eOl"
-          data-testid="separator-component"
-          style="--separator-text: &quot;Wireframes&quot;;"
-      >
-    </div>
-    <ul class="src-widgets-GalleryList-GalleryList-module__galleryList--UNK7W">
-      <li>
-        <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
-          Gallery 1
-        </h2>
-        <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1080"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-        </ul>
-      </li>
-      <li>
-        <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
-          Gallery 2
-        </h2>
-        <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="1920"
-                 height="1080"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-                 src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-          <li>
-            <img alt="Placeholder image"
-                 fetchpriority="high"
-                 width="800"
-                 height="600"
-                 decoding="async"
-                 data-nimg="1"
-                 class="src-components-Image-Image-module__image--gXjYq"
-                 srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
-                 src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
-                 style="color: transparent;"
-            >
-          </li>
-        </ul>
-      </li>
-    </ul>
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-GalleryList-GalleryList-module__separatorContainer--Qq3vm">
+    <hr class="src-components-Separator-Separator-module__root--N5eOl"
+        data-testid="separator-component"
+        style="--separator-text: &quot;Wireframes&quot;;"
+    >
   </div>
+  <ul class="src-widgets-GalleryList-GalleryList-module__galleryList--UNK7W">
+    <li>
+      <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+        Gallery 1
+      </h2>
+      <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1080"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+               src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+      </ul>
+    </li>
+    <li>
+      <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+        Gallery 2
+      </h2>
+      <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="1920"
+               height="1080"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+               src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+        <li>
+          <img alt="Placeholder image"
+               fetchpriority="high"
+               width="800"
+               height="600"
+               decoding="async"
+               data-nimg="1"
+               class="src-components-Image-Image-module__image--gXjYq"
+               srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
+               src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
+               style="color: transparent;"
+          >
+        </li>
+      </ul>
+    </li>
+  </ul>
 </main>
 `;

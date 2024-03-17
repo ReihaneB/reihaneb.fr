@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Components/Link Active smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -13,7 +13,7 @@ exports[`Components/Link Active smoke-test 1`] = `
 `;
 
 exports[`Components/Link AutoFocus play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -25,7 +25,7 @@ exports[`Components/Link AutoFocus play-test 1`] = `
 `;
 
 exports[`Components/Link ClickMultipleTimes play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -37,7 +37,7 @@ exports[`Components/Link ClickMultipleTimes play-test 1`] = `
 `;
 
 exports[`Components/Link Focus smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -49,7 +49,7 @@ exports[`Components/Link Focus smoke-test 1`] = `
 `;
 
 exports[`Components/Link FocusOnClick play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -61,7 +61,7 @@ exports[`Components/Link FocusOnClick play-test 1`] = `
 `;
 
 exports[`Components/Link FocusOnTab play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -73,7 +73,7 @@ exports[`Components/Link FocusOnTab play-test 1`] = `
 `;
 
 exports[`Components/Link LongText smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-components-Link-Link-stories-module__container--Kpt8t">
     <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
        data-testid="link-component"
@@ -87,7 +87,7 @@ exports[`Components/Link LongText smoke-test 1`] = `
 `;
 
 exports[`Components/Link LongTextWithIcon smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-components-Link-Link-stories-module__container--Kpt8t">
     <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
        data-testid="link-component"
@@ -112,7 +112,7 @@ exports[`Components/Link LongTextWithIcon smoke-test 1`] = `
 `;
 
 exports[`Components/Link Playground smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -124,7 +124,7 @@ exports[`Components/Link Playground smoke-test 1`] = `
 `;
 
 exports[`Components/Link PressEnter play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -136,7 +136,7 @@ exports[`Components/Link PressEnter play-test 1`] = `
 `;
 
 exports[`Components/Link Primary smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -148,7 +148,7 @@ exports[`Components/Link Primary smoke-test 1`] = `
 `;
 
 exports[`Components/Link PrimaryHover smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"
@@ -160,7 +160,7 @@ exports[`Components/Link PrimaryHover smoke-test 1`] = `
 `;
 
 exports[`Components/Link Secondary smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
      data-testid="link-component"
      target="_self"
@@ -172,7 +172,7 @@ exports[`Components/Link Secondary smoke-test 1`] = `
 `;
 
 exports[`Components/Link SecondaryHover smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
      data-testid="link-component"
      target="_self"
@@ -184,7 +184,7 @@ exports[`Components/Link SecondaryHover smoke-test 1`] = `
 `;
 
 exports[`Components/Link WithIcon smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
      data-testid="link-component"
      target="_self"

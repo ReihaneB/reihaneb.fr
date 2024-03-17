@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Widgets/CompanyDescription LongDescription smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <h2 class="src-widgets-CompanyDescription-CompanyDescription-module__title--hrKK8">
       Contexte
@@ -14,7 +14,7 @@ exports[`Widgets/CompanyDescription LongDescription smoke-test 1`] = `
 `;
 
 exports[`Widgets/CompanyDescription Playground smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <h2 class="src-widgets-CompanyDescription-CompanyDescription-module__title--hrKK8">
       Contexte
@@ -27,7 +27,7 @@ exports[`Widgets/CompanyDescription Playground smoke-test 1`] = `
 `;
 
 exports[`Widgets/CompanyDescription ShortDescription smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <h2 class="src-widgets-CompanyDescription-CompanyDescription-module__title--hrKK8">
       Contexte

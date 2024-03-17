@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Widgets/MainStack _1Element play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
     <li>
       <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
@@ -16,7 +16,7 @@ exports[`Widgets/MainStack _1Element play-test 1`] = `
 `;
 
 exports[`Widgets/MainStack _2Elements play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
     <li>
       <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
@@ -39,7 +39,7 @@ exports[`Widgets/MainStack _2Elements play-test 1`] = `
 `;
 
 exports[`Widgets/MainStack _3Elements play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
     <li>
       <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
@@ -70,7 +70,7 @@ exports[`Widgets/MainStack _3Elements play-test 1`] = `
 `;
 
 exports[`Widgets/MainStack _4Elements play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
     <li>
       <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
@@ -109,7 +109,7 @@ exports[`Widgets/MainStack _4Elements play-test 1`] = `
 `;
 
 exports[`Widgets/MainStack MoreThan4Elements play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
     <li>
       <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
@@ -148,7 +148,7 @@ exports[`Widgets/MainStack MoreThan4Elements play-test 1`] = `
 `;
 
 exports[`Widgets/MainStack Playground smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-MainStack-MainStack-module__root--dscGt">
     <li>
       <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"

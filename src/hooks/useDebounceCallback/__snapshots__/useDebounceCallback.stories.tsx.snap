@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Hooks/useDebounceCallback CallAfterWaitTime play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -16,7 +16,7 @@ exports[`Hooks/useDebounceCallback CallAfterWaitTime play-test 1`] = `
 `;
 
 exports[`Hooks/useDebounceCallback ClickMulipleTimes play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -31,7 +31,7 @@ exports[`Hooks/useDebounceCallback ClickMulipleTimes play-test 1`] = `
 `;
 
 exports[`Hooks/useDebounceCallback DisableDebounce play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -46,7 +46,7 @@ exports[`Hooks/useDebounceCallback DisableDebounce play-test 1`] = `
 `;
 
 exports[`Hooks/useDebounceCallback DoNotCallBeforeWaitTime play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -61,7 +61,7 @@ exports[`Hooks/useDebounceCallback DoNotCallBeforeWaitTime play-test 1`] = `
 `;
 
 exports[`Hooks/useDebounceCallback LeadingAndTrailingFalse play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -76,7 +76,7 @@ exports[`Hooks/useDebounceCallback LeadingAndTrailingFalse play-test 1`] = `
 `;
 
 exports[`Hooks/useDebounceCallback LeadingAndTrailingTrue play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -91,7 +91,7 @@ exports[`Hooks/useDebounceCallback LeadingAndTrailingTrue play-test 1`] = `
 `;
 
 exports[`Hooks/useDebounceCallback LeadingTrue play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -106,7 +106,7 @@ exports[`Hooks/useDebounceCallback LeadingTrue play-test 1`] = `
 `;
 
 exports[`Hooks/useDebounceCallback Playground smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -121,7 +121,7 @@ exports[`Hooks/useDebounceCallback Playground smoke-test 1`] = `
 `;
 
 exports[`Hooks/useDebounceCallback TrailingTrue play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"

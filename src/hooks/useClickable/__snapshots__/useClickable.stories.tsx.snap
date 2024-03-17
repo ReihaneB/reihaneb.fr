@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Hooks/useClickable ClickOnce play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -16,7 +16,7 @@ exports[`Hooks/useClickable ClickOnce play-test 1`] = `
 `;
 
 exports[`Hooks/useClickable DisableDebounce play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -31,7 +31,7 @@ exports[`Hooks/useClickable DisableDebounce play-test 1`] = `
 `;
 
 exports[`Hooks/useClickable Disabled play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -46,7 +46,7 @@ exports[`Hooks/useClickable Disabled play-test 1`] = `
 `;
 
 exports[`Hooks/useClickable MultipleClicks play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -61,7 +61,7 @@ exports[`Hooks/useClickable MultipleClicks play-test 1`] = `
 `;
 
 exports[`Hooks/useClickable Playground smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <button type="button"
             data-testid="clickable"
@@ -76,7 +76,7 @@ exports[`Hooks/useClickable Playground smoke-test 1`] = `
 `;
 
 exports[`Hooks/useClickable PressEnter play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <p>
       onMouseDown called 1 times
@@ -96,7 +96,7 @@ exports[`Hooks/useClickable PressEnter play-test 1`] = `
 `;
 
 exports[`Hooks/useClickable PressSpace play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <p>
       onMouseDown called 1 times
@@ -116,7 +116,7 @@ exports[`Hooks/useClickable PressSpace play-test 1`] = `
 `;
 
 exports[`Hooks/useClickable WithOnMouseDown play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <p>
       onMouseDown called 1 times
@@ -136,7 +136,7 @@ exports[`Hooks/useClickable WithOnMouseDown play-test 1`] = `
 `;
 
 exports[`Hooks/useClickable WithOnMouseEnter play-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div>
     <p data-testid="mouse-enter">
       onMouseEnter called 3 times
