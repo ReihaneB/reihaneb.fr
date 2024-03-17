@@ -1,8 +1,11 @@
 import type { Preview } from "@storybook/react";
+import classNames from 'classnames';
 
 import React from "react";
 import { Inter } from 'next/font/google';
 import { INITIAL_VIEWPORTS } from '@storybook/addon-viewport';
+
+import styles from './preview.module.css';
 
 import '@/styles/globals.css';
 
@@ -10,6 +13,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 const preview: Preview = {
   parameters: {
+    layout: 'fullscreen',
     viewport: {
       viewports: {
         iphone5: INITIAL_VIEWPORTS.iphone5,
@@ -46,7 +50,7 @@ const preview: Preview = {
   },
   decorators: [
     Story => (
-      <main className={inter.className}>
+      <main className={classNames(styles.root, inter.className)}>
         <Story />
       </main>
     ),
