@@ -9,10 +9,10 @@ export interface FetchParams {
   responseType?: 'json' | 'text' | 'blob';
 }
 
-export interface FetchResponse {
+export interface FetchResponse<T = unknown> {
   status: number;
   ok: boolean;
-  body: Record<string, unknown> | string | Blob;
+  body: T;
 }
 
 export interface RequestInit {

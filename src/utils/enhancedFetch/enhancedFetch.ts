@@ -1,6 +1,6 @@
 import type { FetchParams, FetchResponse, RequestInit } from './enhancedFetch.d';
 
-async function enhancedFetch({
+async function enhancedFetch<T = unknown>({
   method,
   path = '',
   tag,
@@ -9,7 +9,7 @@ async function enhancedFetch({
   payload,
   state = 'static',
   responseType = 'json',
-}: FetchParams): Promise<FetchResponse> {
+}: FetchParams): Promise<FetchResponse<T>> {
   const options: RequestInit = {
     method,
     withCredentials: true,
@@ -59,14 +59,14 @@ async function enhancedFetch({
       return {
         status: error.name === 'AbortError' ? 408 : 500,
         ok: false,
-        body: { message: errorMessage },
+        body: { message: errorMessage } as T,
       };
     }
     errorMessage = 'An unknown error occurred';
     return {
       status: 500,
       ok: false,
-      body: { message: errorMessage },
+      body: { message: errorMessage } as T,
     };
   }
 }
