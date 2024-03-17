@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Widgets/StackOverview _1Category smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
     Front-end
   </h2>
@@ -113,7 +113,7 @@ exports[`Widgets/StackOverview _1Category smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
     Front-end
   </h2>
@@ -232,7 +232,7 @@ exports[`Widgets/StackOverview _2Categories smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
     Front-end
   </h2>
@@ -396,7 +396,7 @@ exports[`Widgets/StackOverview _3Categories smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
     Front-end
   </h2>
@@ -605,7 +605,7 @@ exports[`Widgets/StackOverview _4Categories smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackOverview CategoryLonger smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
     Front-end
   </h2>
@@ -667,7 +667,7 @@ exports[`Widgets/StackOverview CategoryLonger smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackOverview Playground smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
     Front-end
   </h2>
@@ -786,7 +786,7 @@ exports[`Widgets/StackOverview Playground smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackOverview WithLongName smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <h2 class="src-widgets-StackOverview-StackOverview-module__name--c2HKe">
     Duis adipisicing ipsum in exercitation ut tempor voluptate eiusmod adipisicing.
   </h2>

@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Widgets/StackList _1Overview smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-widgets-StackList-StackList-module__separatorContainer--NrsDC">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -66,7 +66,7 @@ exports[`Widgets/StackList _1Overview smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackList _2Overviews smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-widgets-StackList-StackList-module__separatorContainer--NrsDC">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -202,7 +202,7 @@ exports[`Widgets/StackList _2Overviews smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackList _3Overviews smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-widgets-StackList-StackList-module__separatorContainer--NrsDC">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -390,7 +390,7 @@ exports[`Widgets/StackList _3Overviews smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackList _4Overviews smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-widgets-StackList-StackList-module__separatorContainer--NrsDC">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -630,7 +630,7 @@ exports[`Widgets/StackList _4Overviews smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackList _5Overviews smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-widgets-StackList-StackList-module__separatorContainer--NrsDC">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -922,7 +922,7 @@ exports[`Widgets/StackList _5Overviews smoke-test 1`] = `
 `;
 
 exports[`Widgets/StackList Playground smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-widgets-StackList-StackList-module__separatorContainer--NrsDC">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"

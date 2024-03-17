@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Widgets/Header Playground smoke-test 1`] = `
-<main class="inter-normal">
+<main class="-storybook-preview-module__root--fQckk inter-normal">
   <header class="src-widgets-Header-Header-module__root--QSOlr">
     <a class="src-widgets-Header-Header-module__logo--H2Wa7"
        href="/"

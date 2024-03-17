@@ -1,656 +1,640 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Widgets/HeroHeader _1x1Image smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-HeroHeader-HeroHeader-stories-module__root--X8E07">
-    <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
-      <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
-        <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
-          Software Engineer
-        </h1>
-        <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
-          John Doe
-        </h2>
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
-        <img alt="John Doe"
-             loading="lazy"
-             width="1080"
-             height="1080"
-             decoding="async"
-             data-nimg="1"
-             class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-             src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
-             style="color: transparent;"
-        >
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
-        <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
+    <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
+      <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
+        Software Engineer
+      </h1>
+      <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
+        John Doe
+      </h2>
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
+      <img alt="John Doe"
+           loading="lazy"
+           width="1080"
+           height="1080"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+           src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+           style="color: transparent;"
+      >
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
+      <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              GitHub
-            </a>
-          </li>
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              Twitter
-            </a>
-          </li>
-        </ul>
-        <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
-          About me
-        </h3>
-        <p>
-          I am a software engineer with a passion for web development.
-        </p>
-      </div>
+            Twitter
+          </a>
+        </li>
+      </ul>
+      <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
+        About me
+      </h3>
+      <p>
+        I am a software engineer with a passion for web development.
+      </p>
     </div>
   </div>
 </main>
 `;
 
 exports[`Widgets/HeroHeader _4x3Image smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-HeroHeader-HeroHeader-stories-module__root--X8E07">
-    <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
-      <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
-        <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
-          Software Engineer
-        </h1>
-        <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
-          John Doe
-        </h2>
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
-        <img alt="John Doe"
-             loading="lazy"
-             width="800"
-             height="600"
-             decoding="async"
-             data-nimg="1"
-             class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
-             src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
-             style="color: transparent;"
-        >
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
-        <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
+    <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
+      <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
+        Software Engineer
+      </h1>
+      <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
+        John Doe
+      </h2>
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
+      <img alt="John Doe"
+           loading="lazy"
+           width="800"
+           height="600"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_4x3.58bee57f.png?w=828&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=1920&amp;q=75 2x"
+           src="/static/media/_4x3.58bee57f.png?w=1920&amp;q=75"
+           style="color: transparent;"
+      >
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
+      <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              GitHub
-            </a>
-          </li>
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              Twitter
-            </a>
-          </li>
-        </ul>
-        <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
-          About me
-        </h3>
-        <p>
-          I am a software engineer with a passion for web development.
-        </p>
-      </div>
+            Twitter
+          </a>
+        </li>
+      </ul>
+      <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
+        About me
+      </h3>
+      <p>
+        I am a software engineer with a passion for web development.
+      </p>
     </div>
   </div>
 </main>
 `;
 
 exports[`Widgets/HeroHeader _16x9Image smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-HeroHeader-HeroHeader-stories-module__root--X8E07">
-    <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
-      <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
-        <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
-          Software Engineer
-        </h1>
-        <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
-          John Doe
-        </h2>
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
-        <img alt="John Doe"
-             loading="lazy"
-             width="1920"
-             height="1080"
-             decoding="async"
-             data-nimg="1"
-             class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
-             src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
-             style="color: transparent;"
-        >
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
-        <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
+    <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
+      <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
+        Software Engineer
+      </h1>
+      <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
+        John Doe
+      </h2>
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
+      <img alt="John Doe"
+           loading="lazy"
+           width="1920"
+           height="1080"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+           src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+           style="color: transparent;"
+      >
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
+      <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              GitHub
-            </a>
-          </li>
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              Twitter
-            </a>
-          </li>
-        </ul>
-        <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
-          About me
-        </h3>
-        <p>
-          I am a software engineer with a passion for web development.
-        </p>
-      </div>
+            Twitter
+          </a>
+        </li>
+      </ul>
+      <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
+        About me
+      </h3>
+      <p>
+        I am a software engineer with a passion for web development.
+      </p>
     </div>
   </div>
 </main>
 `;
 
 exports[`Widgets/HeroHeader LongData smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-HeroHeader-HeroHeader-stories-module__root--X8E07">
-    <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
-      <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
-        <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
-          Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
-        </h1>
-        <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
-          Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
-        </h2>
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
-        <img alt="John Doe"
-             loading="lazy"
-             width="1080"
-             height="1080"
-             decoding="async"
-             data-nimg="1"
-             class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-             src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
-             style="color: transparent;"
-        >
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
-        <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
+    <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
+      <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
+        Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
+      </h1>
+      <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
+        Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
+      </h2>
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
+      <img alt="John Doe"
+           loading="lazy"
+           width="1080"
+           height="1080"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+           src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+           style="color: transparent;"
+      >
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
+      <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              GitHub
-            </a>
-          </li>
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              Twitter
-            </a>
-          </li>
-        </ul>
-        <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
-          Velit consequat sint consectetur tempor irure eu. Anim minim aliquip mollit nisi pariatur ea do aute duis sunt exercitation laboris culpa. Excepteur ut ad est laborum et laboris. Laborum sunt ad reprehenderit sunt ullamco esse voluptate reprehenderit. Sunt anim Lorem enim nisi adipisicing aute minim voluptate nostrud labore. Ullamco eu pariatur eu esse aute occaecat ex nostrud aliqua ex nulla consequat non.
-        </h3>
-        <p>
-          Enim ea labore excepteur excepteur est nostrud aliquip veniam ullamco. Elit incididunt aute dolor officia aute veniam amet pariatur veniam laborum. Eu est tempor amet nulla non excepteur occaecat non cupidatat. Ut aliquip elit dolore culpa dolore eiusmod excepteur tempor veniam id adipisicing ipsum commodo. Dolor sit eu magna duis veniam do laboris laboris esse excepteur officia enim pariatur. Deserunt veniam aliqua in laborum. Cupidatat occaecat laboris incididunt consectetur do est eu cillum non elit fugiat qui mollit.
-        </p>
-      </div>
+            Twitter
+          </a>
+        </li>
+      </ul>
+      <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
+        Velit consequat sint consectetur tempor irure eu. Anim minim aliquip mollit nisi pariatur ea do aute duis sunt exercitation laboris culpa. Excepteur ut ad est laborum et laboris. Laborum sunt ad reprehenderit sunt ullamco esse voluptate reprehenderit. Sunt anim Lorem enim nisi adipisicing aute minim voluptate nostrud labore. Ullamco eu pariatur eu esse aute occaecat ex nostrud aliqua ex nulla consequat non.
+      </h3>
+      <p>
+        Enim ea labore excepteur excepteur est nostrud aliquip veniam ullamco. Elit incididunt aute dolor officia aute veniam amet pariatur veniam laborum. Eu est tempor amet nulla non excepteur occaecat non cupidatat. Ut aliquip elit dolore culpa dolore eiusmod excepteur tempor veniam id adipisicing ipsum commodo. Dolor sit eu magna duis veniam do laboris laboris esse excepteur officia enim pariatur. Deserunt veniam aliqua in laborum. Cupidatat occaecat laboris incididunt consectetur do est eu cillum non elit fugiat qui mollit.
+      </p>
     </div>
   </div>
 </main>
 `;
 
 exports[`Widgets/HeroHeader LongDescription smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-HeroHeader-HeroHeader-stories-module__root--X8E07">
-    <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
-      <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
-        <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
-          Software Engineer
-        </h1>
-        <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
-          John Doe
-        </h2>
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
-        <img alt="John Doe"
-             loading="lazy"
-             width="1080"
-             height="1080"
-             decoding="async"
-             data-nimg="1"
-             class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-             src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
-             style="color: transparent;"
-        >
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
-        <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
+    <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
+      <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
+        Software Engineer
+      </h1>
+      <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
+        John Doe
+      </h2>
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
+      <img alt="John Doe"
+           loading="lazy"
+           width="1080"
+           height="1080"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+           src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+           style="color: transparent;"
+      >
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
+      <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              GitHub
-            </a>
-          </li>
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              Twitter
-            </a>
-          </li>
-        </ul>
-        <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
-          Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
-        </h3>
-        <p>
-          Enim ea labore excepteur excepteur est nostrud aliquip veniam ullamco. Elit incididunt aute dolor officia aute veniam amet pariatur veniam laborum. Eu est tempor amet nulla non excepteur occaecat non cupidatat. Ut aliquip elit dolore culpa dolore eiusmod excepteur tempor veniam id adipisicing ipsum commodo. Dolor sit eu magna duis veniam do laboris laboris esse excepteur officia enim pariatur. Deserunt veniam aliqua in laborum. Cupidatat occaecat laboris incididunt consectetur do est eu cillum non elit fugiat qui mollit.
-        </p>
-      </div>
+            Twitter
+          </a>
+        </li>
+      </ul>
+      <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
+        Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
+      </h3>
+      <p>
+        Enim ea labore excepteur excepteur est nostrud aliquip veniam ullamco. Elit incididunt aute dolor officia aute veniam amet pariatur veniam laborum. Eu est tempor amet nulla non excepteur occaecat non cupidatat. Ut aliquip elit dolore culpa dolore eiusmod excepteur tempor veniam id adipisicing ipsum commodo. Dolor sit eu magna duis veniam do laboris laboris esse excepteur officia enim pariatur. Deserunt veniam aliqua in laborum. Cupidatat occaecat laboris incididunt consectetur do est eu cillum non elit fugiat qui mollit.
+      </p>
     </div>
   </div>
 </main>
 `;
 
 exports[`Widgets/HeroHeader LongName smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-HeroHeader-HeroHeader-stories-module__root--X8E07">
-    <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
-      <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
-        <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
-          Software Engineer
-        </h1>
-        <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
-          Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
-        </h2>
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
-        <img alt="John Doe"
-             loading="lazy"
-             width="1080"
-             height="1080"
-             decoding="async"
-             data-nimg="1"
-             class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-             src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
-             style="color: transparent;"
-        >
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
-        <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
+    <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
+      <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
+        Software Engineer
+      </h1>
+      <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
+        Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
+      </h2>
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
+      <img alt="John Doe"
+           loading="lazy"
+           width="1080"
+           height="1080"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+           src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+           style="color: transparent;"
+      >
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
+      <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              GitHub
-            </a>
-          </li>
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              Twitter
-            </a>
-          </li>
-        </ul>
-        <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
-          About me
-        </h3>
-        <p>
-          I am a software engineer with a passion for web development.
-        </p>
-      </div>
+            Twitter
+          </a>
+        </li>
+      </ul>
+      <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
+        About me
+      </h3>
+      <p>
+        I am a software engineer with a passion for web development.
+      </p>
     </div>
   </div>
 </main>
 `;
 
 exports[`Widgets/HeroHeader LongTitle smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-HeroHeader-HeroHeader-stories-module__root--X8E07">
-    <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
-      <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
-        <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
-          Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
-        </h1>
-        <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
-          John Doe
-        </h2>
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
-        <img alt="John Doe"
-             loading="lazy"
-             width="1080"
-             height="1080"
-             decoding="async"
-             data-nimg="1"
-             class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-             src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
-             style="color: transparent;"
-        >
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
-        <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
+    <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
+      <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
+        Magna aute ex ipsum fugiat velit sunt aliqua enim qui sint culpa sint.
+      </h1>
+      <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
+        John Doe
+      </h2>
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
+      <img alt="John Doe"
+           loading="lazy"
+           width="1080"
+           height="1080"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+           src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+           style="color: transparent;"
+      >
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
+      <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              GitHub
-            </a>
-          </li>
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              Twitter
-            </a>
-          </li>
-        </ul>
-        <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
-          About me
-        </h3>
-        <p>
-          I am a software engineer with a passion for web development.
-        </p>
-      </div>
+            Twitter
+          </a>
+        </li>
+      </ul>
+      <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
+        About me
+      </h3>
+      <p>
+        I am a software engineer with a passion for web development.
+      </p>
     </div>
   </div>
 </main>
 `;
 
 exports[`Widgets/HeroHeader Playground smoke-test 1`] = `
-<main class="inter-normal">
-  <div class="src-widgets-HeroHeader-HeroHeader-stories-module__root--X8E07">
-    <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
-      <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
-        <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
-          Software Engineer
-        </h1>
-        <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
-          John Doe
-        </h2>
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
-        <img alt="John Doe"
-             loading="lazy"
-             width="1080"
-             height="1080"
-             decoding="async"
-             data-nimg="1"
-             class="src-components-Image-Image-module__image--gXjYq"
-             srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-             src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
-             style="color: transparent;"
-        >
-      </div>
-      <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
-        <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-HeroHeader-HeroHeader-module__root--qGZju">
+    <div class="src-widgets-HeroHeader-HeroHeader-module__titleContainer--wdvsG">
+      <h1 class="src-widgets-HeroHeader-HeroHeader-module__title--i5kp2">
+        Software Engineer
+      </h1>
+      <h2 class="src-widgets-HeroHeader-HeroHeader-module__name--DMOES">
+        John Doe
+      </h2>
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__image--ChCrV">
+      <img alt="John Doe"
+           loading="lazy"
+           width="1080"
+           height="1080"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+           src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+           style="color: transparent;"
+      >
+    </div>
+    <div class="src-widgets-HeroHeader-HeroHeader-module__content--gJyc7">
+      <ul class="src-widgets-Socials-Socials-module__root--W0H9Q src-widgets-HeroHeader-HeroHeader-module__socials--N0SaE">
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              GitHub
-            </a>
-          </li>
-          <li>
-            <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
-               data-testid="link-component"
-               target="_blank"
-               rel="noreferrer"
-               href
+            GitHub
+          </a>
+        </li>
+        <li>
+          <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+             data-testid="link-component"
+             target="_blank"
+             rel="noreferrer"
+             href
+          >
+            <img alt="Icône de lien vers "
+                 loading="lazy"
+                 width="12"
+                 height="12"
+                 decoding="async"
+                 data-nimg="1"
+                 class="src-components-Link-Link-module__icon--B0cve"
+                 srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+                 src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+                 style="color: transparent;"
             >
-              <img alt="Icône de lien vers "
-                   loading="lazy"
-                   width="12"
-                   height="12"
-                   decoding="async"
-                   data-nimg="1"
-                   class="src-components-Link-Link-module__icon--B0cve"
-                   srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
-                   src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
-                   style="color: transparent;"
-              >
-              Twitter
-            </a>
-          </li>
-        </ul>
-        <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
-          About me
-        </h3>
-        <p>
-          I am a software engineer with a passion for web development.
-        </p>
-      </div>
+            Twitter
+          </a>
+        </li>
+      </ul>
+      <h3 class="src-widgets-HeroHeader-HeroHeader-module__description--BR8V_">
+        About me
+      </h3>
+      <p>
+        I am a software engineer with a passion for web development.
+      </p>
     </div>
   </div>
 </main>
