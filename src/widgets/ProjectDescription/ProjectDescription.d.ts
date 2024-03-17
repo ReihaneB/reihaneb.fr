@@ -7,3 +7,7 @@ export interface ProjectDescriptionProps {
     image: ImageProps;
   };
 }
+
+export interface ProjectDescriptionStoreProps {
+  id: string;
+}
