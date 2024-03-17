@@ -6,18 +6,9 @@ import _1x1 from '@/styles/assets/placeholder/_1x1.png';
 
 import Image from './Image';
 
-import styles from './Image.stories.module.css';
-
 const meta: Meta<typeof Image> = {
   title: 'Components/Image',
   component: Image,
-  decorators: [
-    Story => (
-      <div className={styles.root}>
-        <Story />
-      </div>
-    ),
-  ],
 };
 
 export default meta;

@@ -6,18 +6,9 @@ import _1x1 from '@/styles/assets/placeholder/_1x1.png';
 
 import ProjectHeader from './ProjectHeader';
 
-import styles from './ProjectHeader.stories.module.css';
-
 const meta: Meta<typeof ProjectHeader> = {
   title: 'Widgets/ProjectHeader',
   component: ProjectHeader,
-  decorators: [
-    Story => (
-      <div className={styles.root}>
-        <Story />
-      </div>
-    ),
-  ],
 };
 
 export default meta;

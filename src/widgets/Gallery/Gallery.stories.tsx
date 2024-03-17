@@ -6,19 +6,9 @@ import _1x1 from '@/styles/assets/placeholder/_1x1.png';
 
 import Gallery from './Gallery';
 
-
-import styles from './Gallery.stories.module.css';
-
 const meta: Meta<typeof Gallery> = {
   title: 'Widgets/Gallery',
   component: Gallery,
-  decorators: [
-    Story => (
-      <div className={styles.root}>
-        <Story />
-      </div>
-    ),
-  ],
 };
 
 export default meta;

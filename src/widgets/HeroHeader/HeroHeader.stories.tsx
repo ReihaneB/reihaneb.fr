@@ -7,18 +7,9 @@ import _4x3 from '@/styles/assets/placeholder/_4x3.png';
 
 import HeroHeader from './HeroHeader';
 
-import styles from './HeroHeader.stories.module.css';
-
 const meta: Meta<typeof HeroHeader> = {
   title: 'Widgets/HeroHeader',
   component: HeroHeader,
-  decorators: [
-    Story => (
-      <div className={styles.root}>
-        <Story />
-      </div>
-    ),
-  ],
 };
 
 export default meta;

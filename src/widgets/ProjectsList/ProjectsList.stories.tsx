@@ -6,18 +6,9 @@ import _1x1 from '@/styles/assets/placeholder/_1x1.png';
 
 import ProjectsList from './ProjectsList';
 
-import styles from './ProjectsList.stories.module.css';
-
 const meta: Meta<typeof ProjectsList> = {
   title: 'Widgets/ProjectsList',
   component: ProjectsList,
-  decorators: [
-    Story => (
-      <div className={styles.root}>
-        <Story />
-      </div>
-    ),
-  ],
 };
 
 export default meta;
