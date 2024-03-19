@@ -27,6 +27,8 @@ function ProjectDescription({
       </div>
       <div className={styles.image}>
         <Image
+          width={objective.image.width}
+          height={objective.image.height}
           src={objective.image.src}
           alt={objective.image.alt}
         />

@@ -15,6 +15,8 @@ interface ProjectResponse {
         image: {
           data: {
             attributes: {
+              width: number;
+              height: number;
               url: string;
               alternativeText: string;
             };
@@ -40,6 +42,8 @@ export const getProjectDescription = async ({ id }: IGetProjectDescription) => {
       title: project.objective.name,
       description: project.objective.description,
       image: {
+        width: project.objective.image.data.attributes.width,
+        height: project.objective.image.data.attributes.height,
         src: getStrapiMedia(project.objective.image.data.attributes.url),
         alt: project.objective.image.data.attributes.alternativeText,
       },

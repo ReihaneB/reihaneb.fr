@@ -13,9 +13,17 @@ function Gallery({
         {name}
       </h2>
       <ul className={styles.images}>
-        {images.map(({ id, src, alt }) => (
+        {images.map(({
+          id,
+          width,
+          height,
+          src,
+          alt,
+        }) => (
           <li key={id}>
             <Image
+              width={width}
+              height={height}
               src={src}
               alt={alt}
               priority
