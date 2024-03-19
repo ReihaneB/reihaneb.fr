@@ -39,7 +39,7 @@ const defaultArgs = {
       },
       ],
       image: {
-        url: _16x9,
+        src: _16x9,
         alt: 'Project Image',
       },
     },
@@ -66,7 +66,7 @@ const defaultArgs = {
       },
       ],
       image: {
-        url: _16x9,
+        src: _16x9,
         alt: 'Project Image',
       },
     },
@@ -93,7 +93,7 @@ const defaultArgs = {
       },
       ],
       image: {
-        url: _16x9,
+        src: _16x9,
         alt: 'Project Image',
       },
     },
@@ -280,21 +280,21 @@ export const MultipleProjectsDifferentImages: Story = {
       {
         ...defaultArgs.projects[0],
         image: {
-          url: _16x9,
+          src: _16x9,
           alt: 'Project Image',
         },
       },
       {
         ...defaultArgs.projects[1],
         image: {
-          url: _4x3,
+          src: _4x3,
           alt: 'Project Image',
         },
       },
       {
         ...defaultArgs.projects[2],
         image: {
-          url: _1x1,
+          src: _1x1,
           alt: 'Project Image',
         },
       },

@@ -38,7 +38,7 @@ const defaultArgs = {
     },
     ],
     image: {
-      url: _16x9,
+      src: _16x9,
       alt: 'Project Image',
     },
   },
@@ -56,7 +56,7 @@ export const SquareImage: Story = {
     project: {
       ...defaultArgs.project,
       image: {
-        url: _1x1,
+        src: _1x1,
         alt: 'Project Image',
       },
     },
@@ -69,7 +69,7 @@ export const _16x9Image: Story = {
     project: {
       ...defaultArgs.project,
       image: {
-        url: _16x9,
+        src: _16x9,
         alt: 'Project Image',
       },
     },
@@ -82,7 +82,7 @@ export const _4x3Image: Story = {
     project: {
       ...defaultArgs.project,
       image: {
-        url: _4x3,
+        src: _4x3,
         alt: 'Project Image',
       },
     },
