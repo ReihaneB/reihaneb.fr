@@ -2,6 +2,14 @@
 
 exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -235,6 +243,14 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -468,6 +484,14 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -701,6 +725,14 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -934,6 +966,14 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
 
 exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -1167,6 +1207,14 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
 
 exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -1400,6 +1448,14 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -1633,6 +1689,14 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList SingleProject smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -1714,6 +1778,14 @@ exports[`Widgets/ProjectsList SingleProject smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList SingleProjectWithLongData smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -1795,6 +1867,14 @@ exports[`Widgets/ProjectsList SingleProjectWithLongData smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList SingleProjectWithLongJobTitle smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -1876,6 +1956,14 @@ exports[`Widgets/ProjectsList SingleProjectWithLongJobTitle smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList SingleProjectWithLongStackName smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
@@ -1957,6 +2045,14 @@ exports[`Widgets/ProjectsList SingleProjectWithLongStackName smoke-test 1`] = `
 
 exports[`Widgets/ProjectsList SingleProjectWithLongTitle smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ProjectsList-ProjectsList-module__titleContainer--n42r6">
+    <h2>
+      Works
+    </h2>
+    <p class="src-widgets-ProjectsList-ProjectsList-module__description--I494A">
+      Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+    </p>
+  </div>
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
