@@ -5,7 +5,7 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -81,7 +81,7 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;2&quot;;"
+        style="--separator-text: &quot;2&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -157,7 +157,7 @@ exports[`Widgets/ProjectsList MultipleProjects smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;3&quot;;"
+        style="--separator-text: &quot;3&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -238,7 +238,7 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -314,7 +314,7 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;2&quot;;"
+        style="--separator-text: &quot;2&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -390,7 +390,7 @@ exports[`Widgets/ProjectsList MultipleProjectsDifferentImages smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;3&quot;;"
+        style="--separator-text: &quot;3&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -471,7 +471,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -547,7 +547,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;2&quot;;"
+        style="--separator-text: &quot;2&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -623,7 +623,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongData smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;3&quot;;"
+        style="--separator-text: &quot;3&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -704,7 +704,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -780,7 +780,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;2&quot;;"
+        style="--separator-text: &quot;2&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -856,7 +856,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongJobTitle smoke-test 1`] = 
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;3&quot;;"
+        style="--separator-text: &quot;3&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -937,7 +937,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1013,7 +1013,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;2&quot;;"
+        style="--separator-text: &quot;2&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1089,7 +1089,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongStackName smoke-test 1`] =
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;3&quot;;"
+        style="--separator-text: &quot;3&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1170,7 +1170,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1246,7 +1246,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;2&quot;;"
+        style="--separator-text: &quot;2&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1322,7 +1322,7 @@ exports[`Widgets/ProjectsList MultipleProjectsWithLongTitle smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;3&quot;;"
+        style="--separator-text: &quot;3&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1403,7 +1403,7 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1479,7 +1479,7 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;2&quot;;"
+        style="--separator-text: &quot;2&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1555,7 +1555,7 @@ exports[`Widgets/ProjectsList Playground smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;3&quot;;"
+        style="--separator-text: &quot;3&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1636,7 +1636,7 @@ exports[`Widgets/ProjectsList SingleProject smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1717,7 +1717,7 @@ exports[`Widgets/ProjectsList SingleProjectWithLongData smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1798,7 +1798,7 @@ exports[`Widgets/ProjectsList SingleProjectWithLongJobTitle smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1879,7 +1879,7 @@ exports[`Widgets/ProjectsList SingleProjectWithLongStackName smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
@@ -1960,7 +1960,7 @@ exports[`Widgets/ProjectsList SingleProjectWithLongTitle smoke-test 1`] = `
   <div class="src-widgets-ProjectsList-ProjectsList-module__separatorContainer--ep1u0">
     <hr class="src-components-Separator-Separator-module__root--N5eOl"
         data-testid="separator-component"
-        style="--separator-text: &quot;1&quot;;"
+        style="--separator-text: &quot;1&quot;; --separator-text-length: 1ch;"
     >
   </div>
   <div class="src-widgets-ProjectHeader-ProjectHeader-module__root--ZnpQA">
