@@ -4,6 +4,8 @@ import styles from './Image.module.css';
 import type { ImageProps } from './Image.d';
 
 function Image({
+  width = 0,
+  height = 0,
   src,
   alt,
   ...rest
@@ -13,8 +15,8 @@ function Image({
       src={src}
       alt={alt}
       className={styles.image}
-      width={0}
-      height={0}
+      width={width}
+      height={height}
       {...rest}
     />
   );

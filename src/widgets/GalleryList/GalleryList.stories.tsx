@@ -21,12 +21,12 @@ const defaultArgs = {
       name: 'Gallery 1',
       images: [
         {
-          id: '1',
+          id: 1,
           src: _1x1,
           alt: 'Placeholder image',
         },
         {
-          id: '2',
+          id: 2,
           src: _16x9,
           alt: 'Placeholder image',
         },
@@ -37,17 +37,17 @@ const defaultArgs = {
       name: 'Gallery 2',
       images: [
         {
-          id: '1',
+          id: 1,
           src: _16x9,
           alt: 'Placeholder image',
         },
         {
-          id: '2',
+          id: 2,
           src: _16x9,
           alt: 'Placeholder image',
         },
         {
-          id: '3',
+          id: 3,
           src: _4x3,
           alt: 'Placeholder image',
         },
@@ -70,12 +70,12 @@ export const _1Gallery: Story = {
         name: 'Gallery 1',
         images: [
           {
-            id: '1',
+            id: 1,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '2',
+            id: 2,
             src: _16x9,
             alt: 'Placeholder image',
           },
@@ -93,12 +93,12 @@ export const _2Galleries: Story = {
         name: 'Gallery 1',
         images: [
           {
-            id: '1',
+            id: 1,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '2',
+            id: 2,
             src: _16x9,
             alt: 'Placeholder image',
           },
@@ -109,17 +109,17 @@ export const _2Galleries: Story = {
         name: 'Gallery 2',
         images: [
           {
-            id: '1',
+            id: 1,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '2',
+            id: 2,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '3',
+            id: 3,
             src: _4x3,
             alt: 'Placeholder image',
           },
@@ -137,12 +137,12 @@ export const _3Galleries: Story = {
         name: 'Gallery 1',
         images: [
           {
-            id: '1',
+            id: 1,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '2',
+            id: 2,
             src: _16x9,
             alt: 'Placeholder image',
           },
@@ -153,17 +153,17 @@ export const _3Galleries: Story = {
         name: 'Gallery 2',
         images: [
           {
-            id: '1',
+            id: 1,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '2',
+            id: 2,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '3',
+            id: 3,
             src: _4x3,
             alt: 'Placeholder image',
           },
@@ -174,22 +174,22 @@ export const _3Galleries: Story = {
         name: 'Gallery 3',
         images: [
           {
-            id: '1',
+            id: 1,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '2',
+            id: 2,
             src: _16x9,
             alt: 'Placeholder image',
           },
           {
-            id: '3',
+            id: 3,
             src: _4x3,
             alt: 'Placeholder image',
           },
           {
-            id: '4',
+            id: 4,
             src: _1x1,
             alt: 'Placeholder image',
           },

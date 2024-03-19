@@ -16,6 +16,8 @@ interface ProjectResponse {
       featured_image: {
         data: {
           attributes: {
+            width: number;
+            height: number;
             url: string;
             alternativeText: string;
           };
@@ -40,7 +42,9 @@ export const getProjectHeader = async ({ id }: IGetProjectHeader) => {
     stack: project.main_stack,
     url: project.project_url,
     image: {
-      url: getStrapiMedia(project.featured_image.data.attributes.url),
+      width: project.featured_image.data.attributes.width,
+      height: project.featured_image.data.attributes.height,
+      src: getStrapiMedia(project.featured_image.data.attributes.url),
       alt: project.featured_image.data.attributes.alternativeText,
     },
   };

@@ -11,7 +11,7 @@ function ProjectsList({
   return projects.map(project => (
     <>
       <div className={styles.separatorContainer}>
-        <Separator text={project.id} />
+        <Separator text={project.id ? project.id.toString() : ''} />
       </div>
       <ProjectHeader
         project={project}

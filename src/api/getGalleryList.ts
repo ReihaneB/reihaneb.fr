@@ -13,7 +13,10 @@ interface ProjectResponse {
           name: string;
           images: {
               data: [{
+                id: number;
                 attributes: {
+                  width: number;
+                  height: number;
                   url: string;
                   alternativeText: string;
                 }
@@ -38,6 +41,9 @@ export const getGalleryList = async ({ id }: IGetGalleryList) => {
     id: gallery.id,
     name: gallery.name,
     images: gallery.images.data.map(image => ({
+      id: image.id,
+      width: image.attributes.width,
+      height: image.attributes.height,
       src: image.attributes.url,
       alt: image.attributes.alternativeText,
     })),

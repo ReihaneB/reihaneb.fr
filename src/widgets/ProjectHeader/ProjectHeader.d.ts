@@ -1,6 +1,5 @@
-import { StaticImageData } from 'next/image';
-
 import type { Stack } from '@/widgets/MainStack/MainStack.d';
+import { ImageProps } from '@/components/Image/Image';
 
 export interface Project {
   id?: number;
@@ -8,10 +7,7 @@ export interface Project {
   jobTitle: string;
   stack: Stack[];
   url: string;
-  image: {
-    url: StaticImageData | string;
-    alt: string;
-  };
+  image: ImageProps;
 }
 
 export interface ProjectHeaderProps {

@@ -38,10 +38,10 @@ function ProjectHeader({
         className={styles.imageContainer}
       >
         <Image
-          src={project.image.url}
+          src={project.image.src}
           alt={project.image.alt}
-          width={0}
-          height={0}
+          width={project.image.width}
+          height={project.image.height}
           priority
         />
       </NextLink>
