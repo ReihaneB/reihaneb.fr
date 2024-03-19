@@ -7,6 +7,11 @@ const nextConfig = {
         hostname: '**.reihaneb.fr',
         port: '',
       },
+      {
+        protocol: 'https',
+        hostname: 'storage.googleapis.com',
+        port: '',
+      },
     ],
   },
 };
