@@ -1,3 +1,11 @@
+.titleContainer {
+  text-align: center;
+}
+
+.description {
+  margin-top: 16px;
+}
+
 .separatorContainer {
   margin-bottom: 128px;
 
