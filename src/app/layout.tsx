@@ -6,8 +6,6 @@ import '@/styles/globals.css';
 import Header from '@/widgets/Header/Header';
 import Footer from '@/widgets/Footer/Footer';
 import { getSocials } from '@/api/getSocials';
-import { getStrapiMedia } from '@/utils/strapiMedia';
-import { SocialsAPIResponse } from '@/widgets/Socials/Socials.d';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -21,21 +19,14 @@ export default async function RootLayout({
 }: Readonly<{
   children: ReactNode;
 }>) {
-  const { data } = await getSocials() as unknown as SocialsAPIResponse;
-  const socialData = data.attributes.Socials;
-
-  const formatedSocials = socialData.map(item => ({
-    icon: getStrapiMedia(item.icon.data.attributes.url) as string,
-    name: item.name as string,
-    url: item.url as string,
-  }));
+  const socials = await getSocials();
 
   return (
     <html lang="fr">
       <body className={inter.className}>
         <Header />
         {children}
-        <Footer socials={formatedSocials} />
+        <Footer socials={socials} />
       </body>
     </html>
   );
