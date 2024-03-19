@@ -28,6 +28,8 @@ function HeroHeader({
       </div>
       <div className={styles.image}>
         <Image
+          width={image.width}
+          height={image.height}
           src={image.src}
           alt={image.alt}
         />
