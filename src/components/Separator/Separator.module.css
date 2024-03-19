@@ -1,7 +1,14 @@
 .root {
-  height: 0;
-  border: none;
-  border-top: 1px solid var(--grey);
+  --line: linear-gradient(var(--grey),var(--grey));
+  --half-line: 50%;
+  --text-width: var(--separator-text-length) / 2;
+  --text-margin: 16px;
+
+  height: 1px;
+  border:none;
+  background: var(--line) left, var(--line) right;
+  background-size: calc(var(--half-line) - var(--text-width) - var(--text-margin));
+  background-repeat:no-repeat;
   color: var(--grey);
   overflow: visible;
   text-align: center;
