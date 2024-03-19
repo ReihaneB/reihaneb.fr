@@ -8,16 +8,26 @@ import styles from './ProjectsList.module.css';
 function ProjectsList({
   projects,
 }: ProjectsListProps) {
-  return projects.map(project => (
+  return (
     <>
-      <div className={styles.separatorContainer}>
-        <Separator text={project.id ? project.id.toString() : ''} />
+      <div className={styles.titleContainer}>
+        <h2>Works</h2>
+        <p className={styles.description}>
+          Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
+        </p>
       </div>
-      <ProjectHeader
-        project={project}
-      />
+      {projects.map(project => (
+        <>
+          <div className={styles.separatorContainer}>
+            <Separator text={project.id ? project.id.toString() : ''} />
+          </div>
+          <ProjectHeader
+            project={project}
+          />
+        </>
+      ))}
     </>
-  ));
+  );
 }
 
 export default ProjectsList;
