@@ -4,7 +4,7 @@ exports[`Components/Separator NotFocusTab play-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <hr class="src-components-Separator-Separator-module__root--N5eOl"
       data-testid="separator-component"
-      style="--separator-text: &quot;Seperator content&quot;;"
+      style="--separator-text: &quot;Seperator content&quot;; --separator-text-length: 17ch;"
   >
 </main>
 `;
@@ -13,7 +13,7 @@ exports[`Components/Separator Playground smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <hr class="src-components-Separator-Separator-module__root--N5eOl"
       data-testid="separator-component"
-      style="--separator-text: &quot;Seperator content&quot;;"
+      style="--separator-text: &quot;Seperator content&quot;; --separator-text-length: 17ch;"
   >
 </main>
 `;
