@@ -8,7 +8,10 @@ function Separator({
   ...rest
 }: SeparatorProps) {
   const style = text ? (
-    { '--separator-text': `"${text}"` } as React.CSSProperties
+    {
+      '--separator-text': `"${text}"`,
+      '--separator-text-length': `${text.length}ch`,
+    } as React.CSSProperties
   ) : undefined;
 
   return (
