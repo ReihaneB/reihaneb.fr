@@ -1,8 +1,39 @@
+import { Metadata } from 'next';
+
 import Work from '@/pageComponents/Work/Work';
+import { getProjectHeader } from '@/api/getProjectHeader';
+import { getAboutMe } from '@/api/getAboutMe';
+import { getProjectDescription } from '@/api/getProjectDescription';
 
 interface WorkPageProps {
   params: {
     id: string;
+  };
+}
+
+export async function generateMetadata({ params }: WorkPageProps): Promise<Metadata> {
+  const { id } = params;
+  const about = await getAboutMe();
+  const project = await getProjectHeader({ id });
+  const projectDescription = await getProjectDescription({ id });
+
+  return {
+    title: `${project.title} • ${about.name}`,
+    description: `${projectDescription.objective.description}`,
+    openGraph: {
+      title: `${project.title} • ${about.name}`,
+      description: `${projectDescription.objective.description}`,
+      type: 'website',
+      url: `https://www.reihaneb.fr/work/${id}`,
+      images: [
+        {
+          url: project.image.src,
+          width: project.image.width,
+          height: project.image.height,
+          alt: project.image.alt,
+        },
+      ],
+    },
   };
 }
 
