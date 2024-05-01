@@ -11,7 +11,7 @@ function GalleryList({
   return (
     <>
       <div className={styles.separatorContainer}>
-        <Separator text="Wireframes" />
+        <Separator text="Projets majeurs" />
       </div>
       <ul className={styles.galleryList}>
         {galleries.map(({ id, name, images }) => (
