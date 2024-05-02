@@ -1,7 +1,13 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@reihaneb/portfolio",
+  "description": "Reihane B.'s personal portfolio and blog",
+  "author": "Reihane B.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReihaneB/portfolio"
+  },
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
