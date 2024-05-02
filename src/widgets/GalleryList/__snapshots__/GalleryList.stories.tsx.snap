@@ -92,6 +92,9 @@ exports[`Widgets/GalleryList _2Galleries smoke-test 1`] = `
       <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
         Gallery 2
       </h2>
+      <p class="src-widgets-Gallery-Gallery-module__description--cwB1k">
+        Description
+      </p>
       <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
         <li>
           <img alt="Placeholder image"
