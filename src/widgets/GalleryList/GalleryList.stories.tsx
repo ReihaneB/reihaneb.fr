@@ -107,6 +107,7 @@ export const _2Galleries: Story = {
       {
         id: 2,
         name: 'Gallery 2',
+        description: 'Description',
         images: [
           {
             id: 1,

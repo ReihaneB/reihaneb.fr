@@ -11,6 +11,7 @@ interface ProjectResponse {
         {
           id: number;
           name: string;
+          description: string;
           images: {
               data: [{
                 id: number;
@@ -40,6 +41,7 @@ export const getGalleryList = async ({ id }: IGetGalleryList) => {
   return project.project_images.map(gallery => ({
     id: gallery.id,
     name: gallery.name,
+    description: gallery.description,
     images: gallery.images.data.map(image => ({
       id: image.id,
       width: image.attributes.width,

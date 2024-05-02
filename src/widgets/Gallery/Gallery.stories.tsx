@@ -136,3 +136,10 @@ export const MultipleFormats: Story = {
     ],
   },
 };
+
+export const WithDescription: Story = {
+  args: {
+    ...defaultArgs,
+    description: 'Description of the gallery',
+  },
+};

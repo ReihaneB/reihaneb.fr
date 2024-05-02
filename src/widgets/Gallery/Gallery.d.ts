@@ -7,5 +7,6 @@ interface ImageWithId extends ImageProps {
 export interface GalleryProps {
   id?: number;
   name: string;
+  description?: string;
   images: ImageWithId[];
 }
