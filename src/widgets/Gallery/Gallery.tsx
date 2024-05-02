@@ -5,6 +5,7 @@ import styles from './Gallery.module.css';
 
 function Gallery({
   name,
+  description,
   images,
 }: GalleryProps) {
   return (
@@ -12,6 +13,11 @@ function Gallery({
       <h2 className={styles.name}>
         {name}
       </h2>
+      {description && (
+        <p className={styles.description}>
+          {description}
+        </p>
+      )}
       <ul className={styles.images}>
         {images.map(({
           id,

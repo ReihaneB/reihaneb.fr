@@ -14,11 +14,12 @@ function GalleryList({
         <Separator text="Projets majeurs" />
       </div>
       <ul className={styles.galleryList}>
-        {galleries.map(({ id, name, images }) => (
+        {galleries.map(({ id, name, description, images }) => (
           <li key={id}>
             <Gallery
               name={name}
               images={images}
+              description={description}
             />
           </li>
         ))}

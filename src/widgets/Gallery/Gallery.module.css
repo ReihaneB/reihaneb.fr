@@ -2,6 +2,10 @@
   margin-bottom: 32px;
 }
 
+.description {
+  margin-bottom: 32px;
+}
+
 .images {
   display: flex;
   flex-direction: column;
