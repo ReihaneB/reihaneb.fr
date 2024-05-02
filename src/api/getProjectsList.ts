@@ -31,6 +31,7 @@ export const getProjectsList = async () => {
     method: 'GET',
     path: `/works`,
     tag: 'projects',
+    params: '&sort[0]=id:desc',
   });
 
   const projects = body.data.map(project => ({

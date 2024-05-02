@@ -16,10 +16,10 @@ function ProjectsList({
           Vous retrouverez ici mes projets professionnels, réalisés pour des clients ou des employeurs.
         </p>
       </div>
-      {projects.map(project => (
+      {projects.map((project, idx) => (
         <>
           <div className={styles.separatorContainer}>
-            <Separator text={project.id ? project.id.toString() : ''} />
+            <Separator text={(idx + 1).toString()} />
           </div>
           <ProjectHeader
             project={project}

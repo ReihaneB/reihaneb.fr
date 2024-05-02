@@ -27,7 +27,7 @@ async function enhancedFetch<T = unknown>({
 
   const slug = '/api';
 
-  const parameters = params || '?populate=deep';
+  const parameters = `?populate=deep${params}`;
 
   try {
     const result = await fetch(`${process.env.API_URL}${slug}${path}${parameters}`, options);
