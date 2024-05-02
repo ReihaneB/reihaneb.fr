@@ -235,3 +235,29 @@ exports[`Widgets/Gallery SquareImage smoke-test 1`] = `
   </ul>
 </main>
 `;
+
+exports[`Widgets/Gallery WithDescription smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <h2 class="src-widgets-Gallery-Gallery-module__name--bagbP">
+    Gallery
+  </h2>
+  <p class="src-widgets-Gallery-Gallery-module__description--cwB1k">
+    Description of the gallery
+  </p>
+  <ul class="src-widgets-Gallery-Gallery-module__images--c5hew">
+    <li>
+      <img alt="Placeholder image"
+           fetchpriority="high"
+           width="1920"
+           height="1080"
+           decoding="async"
+           data-nimg="1"
+           class="src-components-Image-Image-module__image--gXjYq"
+           srcset="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=3840&amp;q=75 2x"
+           src="/static/media/_16x9.d50e36d3.png?w=3840&amp;q=75"
+           style="color: transparent;"
+      >
+    </li>
+  </ul>
+</main>
+`;
