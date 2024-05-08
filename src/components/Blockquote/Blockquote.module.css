@@ -1,0 +1,33 @@
+.root {
+  padding: 16px;
+  background-color: var(--grey-light);
+  display: grid;
+  gap: 16px;
+  background-size: 8px 8px;
+  border-radius: 16px;
+}
+
+.root::before{
+  --quote-height: 48px;
+  content: "";
+  margin-left: calc(var(--padding) * -1);
+  margin-top: calc(var(--padding) * -1);
+  height: var(--quote-height);
+  width: calc(var(--quote-height) * 1.1);
+  background-image:
+    radial-gradient(
+      circle at bottom right,
+      transparent calc(var(--quote-height) / 4 - 1px),
+      var(--accent-color, black) calc(var(--quote-height) / 4) calc(var(--quote-height) / 2), 
+      transparent calc(var(--quote-height) / 2 + 1px)
+    ),
+    linear-gradient(var(--accent-color, black), var(--accent-color, black));
+  background-size: calc(var(--quote-height) / 2) calc(var(--quote-height) / 2);
+  background-position: top left, bottom left;
+  background-repeat: space no-repeat
+}
+
+.text {
+  margin-left: 16px;
+  font-style: italic;
+}
