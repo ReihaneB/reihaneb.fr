@@ -2,9 +2,7 @@
   display: grid;
   gap: 16px;
   padding: revert;
-}
-
-ol,
-ul {
   list-style: revert;
 }
+
+
