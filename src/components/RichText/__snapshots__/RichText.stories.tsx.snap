@@ -167,7 +167,8 @@ exports[`Components/RichText Paragraph smoke-test 1`] = `
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula
       <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__small--nBuK2"
          data-testid="link-component"
-         target="_self"
+         target="_blank"
+         rel="noreferrer"
          href="https://liome.fr"
       >
         massa
@@ -194,7 +195,8 @@ exports[`Components/RichText Playground smoke-test 1`] = `
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula
       <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__small--nBuK2"
          data-testid="link-component"
-         target="_self"
+         target="_blank"
+         rel="noreferrer"
          href="https://liome.fr"
       >
         massa
@@ -206,13 +208,13 @@ exports[`Components/RichText Playground smoke-test 1`] = `
     </h2>
     <img alt="A placeholder image"
          fetchpriority="high"
-         width="1080"
-         height="1080"
+         width="400"
+         height="400"
          decoding="async"
          data-nimg="1"
          class="src-components-Image-Image-module__image--gXjYq"
-         srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
-         src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+         srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+         src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
          style="color: transparent;"
     >
     <h2>
