@@ -3,7 +3,7 @@ import { StaticImport } from 'next/dist/shared/lib/get-img-props';
 
 interface LinkProps {
   to: string;
-  color?: 'primary' | 'secondary';
+  color?: 'primary' | 'secondary' | 'transparent';
   children: React.ReactNode;
   Icon?: StaticImport | string | null;
   autoFocus?: boolean;

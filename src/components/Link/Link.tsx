@@ -29,6 +29,7 @@ function Link({
         classNames(styles.root, {
           [styles.primary]: color === 'primary',
           [styles.secondary]: color === 'secondary',
+          [styles.transparent]: color === 'transparent',
         })
       }
       ref={elementRef}

@@ -43,3 +43,11 @@
 .secondary:hover {
   background-color: var(--cyan);
 }
+
+.transparent {
+  background-color: var(--blue-lighter);
+  color: var(--blue);
+  padding: 0 8px;
+  border-radius: 4px;
+}
+
