@@ -63,24 +63,6 @@ export const SecondaryHover: Story = {
   },
 };
 
-export const Transparent: Story = {
-  args: {
-    ...defaultArgs,
-    color: 'transparent',
-  },
-};
-
-export const TransparentHover: Story = {
-  name: 'Transparent - Hover',
-  args: {
-    ...defaultArgs,
-    color: 'transparent',
-  },
-  parameters: {
-    pseudo: { hover: true },
-  },
-};
-
 export const Active: Story = {
   args: {
     ...defaultArgs,
@@ -99,9 +81,81 @@ export const Focus: Story = {
   },
 };
 
+export const PrimaryRounded: Story = {
+  args: {
+    ...defaultArgs,
+    rounded: true,
+  },
+};
+
+export const SecondaryRounded: Story = {
+  args: {
+    ...defaultArgs,
+    color: 'secondary',
+    rounded: true,
+  },
+};
+
+export const PrimarySmall: Story = {
+  args: {
+    ...defaultArgs,
+    size: 'small',
+  },
+};
+
+export const PrimarySmallRounded: Story = {
+  args: {
+    ...defaultArgs,
+    size: 'small',
+    rounded: true,
+  },
+};
+
+export const SecondarySmall: Story = {
+  args: {
+    ...defaultArgs,
+    color: 'secondary',
+    size: 'small',
+  },
+};
+
+export const SecondarySmallRounded: Story = {
+  args: {
+    ...defaultArgs,
+    color: 'secondary',
+    size: 'small',
+    rounded: true,
+  },
+};
+
 export const WithIcon: Story = {
   args: {
     ...defaultArgs,
+    Icon: IconArrow,
+  },
+};
+
+export const SmallWithIcon: Story = {
+  args: {
+    ...defaultArgs,
+    size: 'small',
+    Icon: IconArrow,
+  },
+};
+
+export const RoundedWithIcon: Story = {
+  args: {
+    ...defaultArgs,
+    rounded: true,
+    Icon: IconArrow,
+  },
+};
+
+export const SmallRoundedWithIcon: Story = {
+  args: {
+    ...defaultArgs,
+    size: 'small',
+    rounded: true,
     Icon: IconArrow,
   },
 };
