@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/List LongOrdered smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <ol class="src-components-List-List-module__root--Z5ozz">
+    <li>
+      No one is perfect.
+    </li>
+    <li>
+      But everyone can be better.
+    </li>
+    <li>
+      It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.
+    </li>
+    <li>
+      The only way to do great work is to love what you do.
+    </li>
+    <li>
+      The best way to predict the future is to create it.
+    </li>
+  </ol>
+</main>
+`;
+
+exports[`Components/List LongUnordered smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <ul class="src-components-List-List-module__root--Z5ozz">
+    <li>
+      No one is perfect.
+    </li>
+    <li>
+      But everyone can be better.
+    </li>
+    <li>
+      It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.
+    </li>
+    <li>
+      The only way to do great work is to love what you do.
+    </li>
+    <li>
+      The best way to predict the future is to create it.
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Components/List Nested smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <ol class="src-components-List-List-module__root--Z5ozz">
+    <li>
+      No one is perfect.
+      <ul class="src-components-List-List-module__root--Z5ozz">
+        <li>
+          But everyone can be better.
+        </li>
+        <li>
+          It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.
+        </li>
+        <li>
+          The only way to do great work is to love what you do.
+        </li>
+        <li>
+          The best way to predict the future is to create it.
+        </li>
+      </ul>
+    </li>
+    <li>
+      The only way to do great work is to love what you do.
+      <ol class="src-components-List-List-module__root--Z5ozz">
+        <li>
+          The best way to predict the future is to create it.
+        </li>
+        <li>
+          It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.
+        </li>
+        <li>
+          But everyone can be better.
+        </li>
+        <li>
+          No one is perfect.
+        </li>
+      </ol>
+    </li>
+    <li>
+      The best way to predict the future is to create it.
+    </li>
+  </ol>
+</main>
+`;
+
+exports[`Components/List Ordered smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <ol class="src-components-List-List-module__root--Z5ozz">
+    <li>
+      No one is perfect.
+    </li>
+    <li>
+      But everyone can be better.
+    </li>
+  </ol>
+</main>
+`;
+
+exports[`Components/List Playground smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <ul class="src-components-List-List-module__root--Z5ozz">
+    <li>
+      No one is perfect.
+    </li>
+    <li>
+      But everyone can be better.
+    </li>
+  </ul>
+</main>
+`;
+
+exports[`Components/List Unordered smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <ul class="src-components-List-List-module__root--Z5ozz">
+    <li>
+      No one is perfect.
+    </li>
+    <li>
+      But everyone can be better.
+    </li>
+  </ul>
+</main>
+`;
