@@ -63,6 +63,24 @@ export const SecondaryHover: Story = {
   },
 };
 
+export const Transparent: Story = {
+  args: {
+    ...defaultArgs,
+    color: 'transparent',
+  },
+};
+
+export const TransparentHover: Story = {
+  name: 'Transparent - Hover',
+  args: {
+    ...defaultArgs,
+    color: 'transparent',
+  },
+  parameters: {
+    pseudo: { hover: true },
+  },
+};
+
 export const Active: Story = {
   args: {
     ...defaultArgs,
