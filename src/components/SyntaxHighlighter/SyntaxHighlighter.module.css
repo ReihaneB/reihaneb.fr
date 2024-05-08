@@ -1,0 +1,13 @@
+.root {
+  border-radius: 16px;
+  background-color: var(--blue-lighter);
+  overflow: hidden;
+}
+
+.language {
+  padding: 8px 16px;
+  font-size: 12px;
+  background-color: var(--blue-light);
+  font-weight: 600;
+  text-transform: uppercase;
+}
