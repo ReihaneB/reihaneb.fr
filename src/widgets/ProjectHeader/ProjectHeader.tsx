@@ -28,6 +28,7 @@ function ProjectHeader({
         <Link
           to={project.url}
           color="secondary"
+          rounded
         >
           Voir le projet
         </Link>

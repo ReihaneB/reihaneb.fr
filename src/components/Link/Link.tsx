@@ -13,6 +13,8 @@ import type { LinkProps } from './Link.d';
 function Link({
   to,
   color = 'primary',
+  size = 'medium',
+  rounded = false,
   children,
   Icon = null,
   autoFocus = false,
@@ -29,7 +31,8 @@ function Link({
         classNames(styles.root, {
           [styles.primary]: color === 'primary',
           [styles.secondary]: color === 'secondary',
-          [styles.transparent]: color === 'transparent',
+          [styles.small]: size === 'small',
+          [styles.rounded]: rounded,
         })
       }
       ref={elementRef}

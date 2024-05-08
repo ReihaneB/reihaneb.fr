@@ -18,6 +18,7 @@ function Socials({
       {socials.map(social => (
         <li key={social.name}>
           <Link
+            rounded
             to={social.url}
             Icon={social.icon}
             openInNewTab
