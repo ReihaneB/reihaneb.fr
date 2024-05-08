@@ -1,0 +1,421 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/RichText Code smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <div class="src-components-SyntaxHighlighter-SyntaxHighlighter-module__root--Cc7Sr">
+      <p class="src-components-SyntaxHighlighter-SyntaxHighlighter-module__language--dWL63">
+        python
+      </p>
+      <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
+        <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+          <span class="token"
+                style="color: rgb(160, 73, 0);"
+          >
+            def
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(124, 0, 170);"
+          >
+            saluer
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            (
+          </span>
+          <span>
+            nom
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            )
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            :
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(160, 73, 0);"
+          >
+            print
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            (
+          </span>
+          <span class="token string-interpolation"
+                style="color: rgb(17, 107, 0);"
+          >
+            f"Bonjour,
+          </span>
+          <span class="token string-interpolation interpolation"
+                style="color: rgb(17, 27, 39);"
+          >
+            {
+          </span>
+          <span class="token string-interpolation interpolation">
+            nom
+          </span>
+          <span class="token string-interpolation interpolation"
+                style="color: rgb(17, 27, 39);"
+          >
+            }
+          </span>
+          <span class="token string-interpolation"
+                style="color: rgb(17, 107, 0);"
+          >
+            !"
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            )
+          </span>
+          <span>
+          </span>
+          <span>
+            saluer
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            (
+          </span>
+          <span class="token"
+                style="color: rgb(17, 107, 0);"
+          >
+            "Lorem Ipsum"
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            )
+          </span>
+        </code>
+      </pre>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Components/RichText Heading smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <h1>
+      Titre de l'article
+    </h1>
+  </div>
+</main>
+`;
+
+exports[`Components/RichText Image smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <img alt="A placeholder image"
+         fetchpriority="high"
+         width="1080"
+         height="1080"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Image-Image-module__image--gXjYq"
+         srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+         src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+         style="color: transparent;"
+    >
+  </div>
+</main>
+`;
+
+exports[`Components/RichText OrderedList smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <ol class="src-components-List-List-module__root--Z5ozz">
+      <li>
+        Integer nec odio.
+      </li>
+      <li>
+        Praesent libero.
+      </li>
+      <li>
+        Sed cursus ante dapibus diam.
+      </li>
+      <li>
+        Sed nisi.
+      </li>
+      <li>
+        Nulla quis sem at nibh elementum imperdiet.
+      </li>
+    </ol>
+  </div>
+</main>
+`;
+
+exports[`Components/RichText Paragraph smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__small--nBuK2"
+         data-testid="link-component"
+         target="_self"
+         href="https://liome.fr"
+      >
+        massa
+      </a>
+      , varius a, semper congue, euismod non, mi.
+    </p>
+  </div>
+</main>
+`;
+
+exports[`Components/RichText Playground smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <h1>
+      Titre de l'article
+    </h1>
+    <p>
+      Consequat sunt elit deserunt anim cupidatat id proident mollit deserunt.
+    </p>
+    <h2>
+      Premier paragraphe
+    </h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__small--nBuK2"
+         data-testid="link-component"
+         target="_self"
+         href="https://liome.fr"
+      >
+        massa
+      </a>
+      , varius a, semper congue, euismod non, mi.
+    </p>
+    <h2>
+      Image
+    </h2>
+    <img alt="A placeholder image"
+         fetchpriority="high"
+         width="1080"
+         height="1080"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Image-Image-module__image--gXjYq"
+         srcset="/static/media/_1x1.ea48a62d.png?w=1080&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=3840&amp;q=75 2x"
+         src="/static/media/_1x1.ea48a62d.png?w=3840&amp;q=75"
+         style="color: transparent;"
+    >
+    <h2>
+      Deuxième paragraphe
+    </h2>
+    <p>
+      Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim.
+    </p>
+    <h2>
+      Liste ordonnée
+    </h2>
+    <ol class="src-components-List-List-module__root--Z5ozz">
+      <li>
+        Integer nec odio.
+      </li>
+      <li>
+        Praesent libero.
+      </li>
+      <li>
+        Sed cursus ante dapibus diam.
+      </li>
+      <li>
+        Sed nisi.
+      </li>
+      <li>
+        Nulla quis sem at nibh elementum imperdiet.
+      </li>
+    </ol>
+    <h2>
+      Quote
+    </h2>
+    <blockquote class="src-components-Blockquote-Blockquote-module__root--LtAGd">
+      <p class="src-components-Blockquote-Blockquote-module__text--H_BLP">
+        Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+      </p>
+    </blockquote>
+    <h2>
+      Liste non ordonnée
+    </h2>
+    <ul class="src-components-List-List-module__root--Z5ozz">
+      <li>
+        Curabitur sodales ligula in libero.
+      </li>
+      <li>
+        Sed dignissim lacinia nunc.
+      </li>
+      <li>
+        Curabitur tortor.
+      </li>
+      <li>
+        Pellentesque nibh.
+      </li>
+      <li>
+        Aenean quam.
+      </li>
+    </ul>
+    <h2>
+      Troisième paragraphe
+    </h2>
+    <p>
+      In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet.
+    </p>
+    <h2>
+      Code
+    </h2>
+    <div class="src-components-SyntaxHighlighter-SyntaxHighlighter-module__root--Cc7Sr">
+      <p class="src-components-SyntaxHighlighter-SyntaxHighlighter-module__language--dWL63">
+        python
+      </p>
+      <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
+        <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+          <span class="token"
+                style="color: rgb(160, 73, 0);"
+          >
+            def
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(124, 0, 170);"
+          >
+            saluer
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            (
+          </span>
+          <span>
+            nom
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            )
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            :
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(160, 73, 0);"
+          >
+            print
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            (
+          </span>
+          <span class="token string-interpolation"
+                style="color: rgb(17, 107, 0);"
+          >
+            f"Bonjour,
+          </span>
+          <span class="token string-interpolation interpolation"
+                style="color: rgb(17, 27, 39);"
+          >
+            {
+          </span>
+          <span class="token string-interpolation interpolation">
+            nom
+          </span>
+          <span class="token string-interpolation interpolation"
+                style="color: rgb(17, 27, 39);"
+          >
+            }
+          </span>
+          <span class="token string-interpolation"
+                style="color: rgb(17, 107, 0);"
+          >
+            !"
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            )
+          </span>
+          <span>
+          </span>
+          <span>
+            saluer
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            (
+          </span>
+          <span class="token"
+                style="color: rgb(17, 107, 0);"
+          >
+            "Lorem Ipsum"
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            )
+          </span>
+        </code>
+      </pre>
+    </div>
+    <br>
+  </div>
+</main>
+`;
+
+exports[`Components/RichText Quote smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <blockquote class="src-components-Blockquote-Blockquote-module__root--LtAGd">
+      <p class="src-components-Blockquote-Blockquote-module__text--H_BLP">
+        Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+      </p>
+    </blockquote>
+  </div>
+</main>
+`;
+
+exports[`Components/RichText UnorderedList smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <ul class="src-components-List-List-module__root--Z5ozz">
+      <li>
+        Curabitur sodales ligula in libero.
+      </li>
+      <li>
+        Sed dignissim lacinia nunc.
+      </li>
+      <li>
+        Curabitur tortor.
+      </li>
+      <li>
+        Pellentesque nibh.
+      </li>
+      <li>
+        Aenean quam.
+      </li>
+    </ul>
+  </div>
+</main>
+`;

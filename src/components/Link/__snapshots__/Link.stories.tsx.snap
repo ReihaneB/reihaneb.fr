@@ -159,6 +159,65 @@ exports[`Components/Link PrimaryHover smoke-test 1`] = `
 </main>
 `;
 
+exports[`Components/Link PrimaryRounded smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    Click on the link
+  </a>
+</main>
+`;
+
+exports[`Components/Link PrimarySmall smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__small--nBuK2"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    Click on the link
+  </a>
+</main>
+`;
+
+exports[`Components/Link PrimarySmallRounded smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__small--nBuK2 src-components-Link-Link-module__rounded--zQTlH"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    Click on the link
+  </a>
+</main>
+`;
+
+exports[`Components/Link RoundedWithIcon smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    <img alt="Icône de lien vers /"
+         loading="lazy"
+         width="12"
+         height="12"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Link-Link-module__icon--B0cve"
+         srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+         src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+         style="color: transparent;"
+    >
+    Click on the link
+  </a>
+</main>
+`;
+
 exports[`Components/Link Secondary smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
@@ -178,6 +237,88 @@ exports[`Components/Link SecondaryHover smoke-test 1`] = `
      target="_self"
      href="/"
   >
+    Click on the link
+  </a>
+</main>
+`;
+
+exports[`Components/Link SecondaryRounded smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    Click on the link
+  </a>
+</main>
+`;
+
+exports[`Components/Link SecondarySmall smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__small--nBuK2"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    Click on the link
+  </a>
+</main>
+`;
+
+exports[`Components/Link SecondarySmallRounded smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__small--nBuK2 src-components-Link-Link-module__rounded--zQTlH"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    Click on the link
+  </a>
+</main>
+`;
+
+exports[`Components/Link SmallRoundedWithIcon smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__small--nBuK2 src-components-Link-Link-module__rounded--zQTlH"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    <img alt="Icône de lien vers /"
+         loading="lazy"
+         width="12"
+         height="12"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Link-Link-module__icon--B0cve"
+         srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+         src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+         style="color: transparent;"
+    >
+    Click on the link
+  </a>
+</main>
+`;
+
+exports[`Components/Link SmallWithIcon smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__small--nBuK2"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    <img alt="Icône de lien vers /"
+         loading="lazy"
+         width="12"
+         height="12"
+         decoding="async"
+         data-nimg="1"
+         class="src-components-Link-Link-module__icon--B0cve"
+         srcset="/static/media/arrow.55ce8cbb.svg?w=16&amp;q=75 1x, /static/media/arrow.55ce8cbb.svg?w=32&amp;q=75 2x"
+         src="/static/media/arrow.55ce8cbb.svg?w=32&amp;q=75"
+         style="color: transparent;"
+    >
     Click on the link
   </a>
 </main>

@@ -4,7 +4,7 @@ exports[`Widgets/Socials Multiple smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -25,7 +25,7 @@ exports[`Widgets/Socials Multiple smoke-test 1`] = `
       </a>
     </li>
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -46,7 +46,7 @@ exports[`Widgets/Socials Multiple smoke-test 1`] = `
       </a>
     </li>
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -74,7 +74,7 @@ exports[`Widgets/Socials Playground smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -95,7 +95,7 @@ exports[`Widgets/Socials Playground smoke-test 1`] = `
       </a>
     </li>
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -116,7 +116,7 @@ exports[`Widgets/Socials Playground smoke-test 1`] = `
       </a>
     </li>
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -144,7 +144,7 @@ exports[`Widgets/Socials Single smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -172,7 +172,7 @@ exports[`Widgets/Socials WithIcons smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <ul class="src-widgets-Socials-Socials-module__root--W0H9Q">
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -193,7 +193,7 @@ exports[`Widgets/Socials WithIcons smoke-test 1`] = `
       </a>
     </li>
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"
@@ -214,7 +214,7 @@ exports[`Widgets/Socials WithIcons smoke-test 1`] = `
       </a>
     </li>
     <li>
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_blank"
          rel="noreferrer"

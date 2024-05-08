@@ -48,7 +48,7 @@ exports[`Widgets/ProjectHeader _4x3Image smoke-test 1`] = `
       </ul>
     </div>
     <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_self"
          href="/"
@@ -123,7 +123,7 @@ exports[`Widgets/ProjectHeader _16x9Image smoke-test 1`] = `
       </ul>
     </div>
     <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_self"
          href="/"
@@ -198,7 +198,7 @@ exports[`Widgets/ProjectHeader LongData smoke-test 1`] = `
       </ul>
     </div>
     <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_self"
          href="/"
@@ -273,7 +273,7 @@ exports[`Widgets/ProjectHeader LongJobTitle smoke-test 1`] = `
       </ul>
     </div>
     <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_self"
          href="/"
@@ -348,7 +348,7 @@ exports[`Widgets/ProjectHeader LongStackName smoke-test 1`] = `
       </ul>
     </div>
     <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_self"
          href="/"
@@ -423,7 +423,7 @@ exports[`Widgets/ProjectHeader LongTitle smoke-test 1`] = `
       </ul>
     </div>
     <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_self"
          href="/"
@@ -498,7 +498,7 @@ exports[`Widgets/ProjectHeader Playground smoke-test 1`] = `
       </ul>
     </div>
     <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_self"
          href="/"
@@ -573,7 +573,7 @@ exports[`Widgets/ProjectHeader SquareImage smoke-test 1`] = `
       </ul>
     </div>
     <div class="src-widgets-ProjectHeader-ProjectHeader-module__linkContainer--Xyp1T">
-      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA"
+      <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__secondary--tiYlA src-components-Link-Link-module__rounded--zQTlH"
          data-testid="link-component"
          target="_self"
          href="/"
