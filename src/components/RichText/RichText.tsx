@@ -1,3 +1,5 @@
+'use client';
+
 import type React from 'react';
 import { BlocksRenderer } from '@strapi/blocks-react-renderer';
 
@@ -28,11 +30,17 @@ function RichText({
             <Image
               src={image.url}
               alt={image.alternativeText || ''}
+              width={image.width}
+              height={image.height}
               priority
             />
           ),
           link: ({ children, url }) => (
-            <Link size="small" to={url}>
+            <Link
+              size="small"
+              to={url}
+              openInNewTab
+            >
               {children}
             </Link>
           ),
