@@ -1,0 +1,363 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/ArticleContent Playground smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-components-RichText-RichText-module__root--R2tKv">
+    <p>
+      Grid area est une fonctionnalité puissante de CSS Grid qui permet aux développeurs de créer des mises en page complexes de manière intuitive et maintenable. En utilisant
+      <code>
+        grid-area
+      </code>
+      , vous pouvez assigner des éléments à des zones spécifiques de votre grille, facilitant ainsi l'organisation et la gestion de vos layouts tout en préservant une bonne sémantique.
+    </p>
+    <h2>
+      Définition et Utilité
+    </h2>
+    <p>
+      <strong>
+        Grid Area
+      </strong>
+      vous aide à définir des zones dans une grille où vous pouvez placer vos éléments HTML. Cela se fait en assignant des noms aux lignes ou aux zones spécifiques de votre grille, rendant le CSS plus lisible et facile à maintenir.
+    </p>
+    <h2>
+      Comment utiliser Grid Area pour améliorer la sémantique
+    </h2>
+    <div class="src-components-SyntaxHighlighter-SyntaxHighlighter-module__root--Cc7Sr">
+      <p class="src-components-SyntaxHighlighter-SyntaxHighlighter-module__language--dWL63">
+        css
+      </p>
+      <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
+        <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+          <span class="token"
+                style="color: rgb(124, 0, 170);"
+          >
+            .container
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            {
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(0, 90, 142);"
+          >
+            display
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            :
+          </span>
+          <span>
+            grid
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            ;
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(0, 90, 142);"
+          >
+            grid-template-areas
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            :
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 107, 0);"
+          >
+            "header header header"
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 107, 0);"
+          >
+            "menu main sidebar"
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 107, 0);"
+          >
+            "footer footer footer"
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            ;
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            }
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(124, 0, 170);"
+          >
+            .header
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            {
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(0, 90, 142);"
+          >
+            grid-area
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            :
+          </span>
+          <span>
+            header
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            ;
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            }
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(124, 0, 170);"
+          >
+            .main
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            {
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(0, 90, 142);"
+          >
+            grid-area
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            :
+          </span>
+          <span>
+            main
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            ;
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            }
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(124, 0, 170);"
+          >
+            .sidebar
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            {
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(0, 90, 142);"
+          >
+            grid-area
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            :
+          </span>
+          <span>
+            sidebar
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            ;
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            }
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(124, 0, 170);"
+          >
+            .footer
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            {
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(0, 90, 142);"
+          >
+            grid-area
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            :
+          </span>
+          <span>
+            footer
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            ;
+          </span>
+          <span>
+          </span>
+          <span>
+          </span>
+          <span class="token"
+                style="color: rgb(17, 27, 39);"
+          >
+            }
+          </span>
+        </code>
+      </pre>
+    </div>
+    <p>
+      Dans cet exemple, grid-template-areas définit un layout de trois rangées avec un en-tête, un contenu principal, un menu, un panneau latéral et un pied de page. Chaque zone est clairement nommée, ce qui contribue à une meilleure sémantique et facilite les ajustements futurs.
+    </p>
+    <h2>
+      Avantages de maintenir une bonne sémantique
+    </h2>
+    <ol class="src-components-List-List-module__root--Z5ozz">
+      <li>
+        <strong>
+          Accessibilité
+        </strong>
+        : Une meilleure structure sémantique aide les technologies d'assistance à mieux comprendre le contenu et la structure de votre site web.
+      </li>
+      <li>
+        <strong>
+          Maintenabilité
+        </strong>
+        : Le code est plus facile à lire et à modifier, surtout lorsque vous travaillez en équipe.
+      </li>
+      <li>
+        <strong>
+          SEO
+        </strong>
+        : Les moteurs de recherche favorisent les sites bien structurés qui utilisent correctement les balises sémantiques.
+      </li>
+    </ol>
+    <h2>
+      Meilleures pratiques
+    </h2>
+    <ul class="src-components-List-List-module__root--Z5ozz">
+      <li>
+        Utilisez des noms descriptifs pour
+        <code>
+          grid-area
+        </code>
+        pour clarifier la fonction de chaque section du layout.
+      </li>
+      <li>
+        Maintenez une cohérence dans la définition de vos grilles pour faciliter la réutilisation des styles.
+      </li>
+      <li>
+        Testez l'accessibilité de votre site pour s'assurer que la structure sémantique ne nuit pas à l'expérience utilisateur.
+      </li>
+    </ul>
+    <h2>
+      Conclusion
+    </h2>
+    <p>
+      Grid area offre une méthode robuste pour structurer les pages web tout en améliorant leur sémantique. En prenant le temps de bien organiser vos grilles, vous pouvez non seulement créer des sites visuellement attrayants, mais aussi accessibles et faciles à maintenir. Adoptez cette pratique pour enrichir vos compétences en développement web et produire des sites de haute qualité.
+    </p>
+  </div>
+</main>
+`;
