@@ -20,6 +20,11 @@ interface ProjectsResponse {
           };
         };
       };
+      meta: {
+        title: string;
+        description: string;
+        robots: 'index, follow' | 'index, nofollow' | 'noindex, nofollow' ;
+      };
     };
   }
 }
@@ -43,6 +48,11 @@ export const getAboutMe = async () => {
       height: body.data.attributes.profile_picture.data.attributes.height,
       src: getStrapiMedia(body.data.attributes.profile_picture.data.attributes.url),
       alt: body.data.attributes.profile_picture.data.attributes.alternativeText,
+    },
+    meta: {
+      title: body.data.attributes.meta.title,
+      description: body.data.attributes.meta.description,
+      robots: body.data.attributes.meta.robots,
     },
   };
 };

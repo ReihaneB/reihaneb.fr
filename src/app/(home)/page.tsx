@@ -7,11 +7,11 @@ export async function generateMetadata(): Promise<Metadata> {
   const about = await getAboutMe();
 
   return {
-    title: `${about.jobTitle} • ${about.name}`,
-    description: `${about.description}`,
+    title: `${about.meta.title} • ${about.name}`,
+    description: `${about.meta.description}`,
     openGraph: {
-      title: `${about.jobTitle} • ${about.name}`,
-      description: `${about.description}`,
+      title: `${about.meta.title} • ${about.name}`,
+      description: `${about.meta.description}`,
       type: 'website',
       url: 'https://www.reihaneb.fr',
       images: [
@@ -23,6 +23,7 @@ export async function generateMetadata(): Promise<Metadata> {
         },
       ],
     },
+    robots: about.meta.robots,
   };
 }
 
