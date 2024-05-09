@@ -23,6 +23,11 @@ interface ProjectResponse {
           };
         };
       };
+      meta: {
+        title: string;
+        description: string;
+        robots: 'index, follow' | 'index, nofollow' | 'noindex, nofollow' ;
+      };
     };
   };
 }
@@ -46,6 +51,11 @@ export const getProjectHeader = async ({ id }: IGetProjectHeader) => {
       height: project.featured_image.data.attributes.height,
       src: getStrapiMedia(project.featured_image.data.attributes.url),
       alt: project.featured_image.data.attributes.alternativeText,
+    },
+    meta: {
+      title: project.meta.title,
+      description: project.meta.description,
+      robots: project.meta.robots,
     },
   };
 };

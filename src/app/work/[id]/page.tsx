@@ -18,11 +18,11 @@ export async function generateMetadata({ params }: WorkPageProps): Promise<Metad
   const projectDescription = await getProjectDescription({ id });
 
   return {
-    title: `${project.title} • ${about.name}`,
-    description: `${projectDescription.objective.description}`,
+    title: `${project.meta.title} • ${about.name}`,
+    description: `${projectDescription.meta.description}`,
     openGraph: {
-      title: `${project.title} • ${about.name}`,
-      description: `${projectDescription.objective.description}`,
+      title: `${project.meta.title} • ${about.name}`,
+      description: `${projectDescription.meta.description}`,
       type: 'website',
       url: `https://www.reihaneb.fr/work/${id}`,
       images: [
@@ -34,6 +34,7 @@ export async function generateMetadata({ params }: WorkPageProps): Promise<Metad
         },
       ],
     },
+    robots: project.meta.robots,
   };
 }
 
