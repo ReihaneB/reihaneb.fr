@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/ArticleHeader LongTitle smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <h1 class="src-widgets-ArticleHeader-ArticleHeader-module__title--SK4qr">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, vestibulum mi id, lacinia orci. Sed nec metus nec justo lacinia ultricies. Nullam non
+  </h1>
+  <img alt="Article image"
+       fetchpriority="high"
+       width="800"
+       height="400"
+       decoding="async"
+       data-nimg="1"
+       class="src-components-Image-Image-module__image--gXjYq"
+       srcset="/static/media/_16x9.d50e36d3.png?w=828&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 2x"
+       src="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75"
+       style="color: transparent;"
+  >
+</main>
+`;
+
+exports[`Widgets/ArticleHeader LongTitleNoImage smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <h1 class="src-widgets-ArticleHeader-ArticleHeader-module__title--SK4qr">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, vestibulum mi id, lacinia orci. Sed nec metus nec justo lacinia ultricies. Nullam non
+  </h1>
+</main>
+`;
+
+exports[`Widgets/ArticleHeader NoImage smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <h1 class="src-widgets-ArticleHeader-ArticleHeader-module__title--SK4qr">
+    Article title
+  </h1>
+</main>
+`;
+
+exports[`Widgets/ArticleHeader Playground smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <h1 class="src-widgets-ArticleHeader-ArticleHeader-module__title--SK4qr">
+    Article title
+  </h1>
+  <img alt="Article image"
+       fetchpriority="high"
+       width="800"
+       height="400"
+       decoding="async"
+       data-nimg="1"
+       class="src-components-Image-Image-module__image--gXjYq"
+       srcset="/static/media/_16x9.d50e36d3.png?w=828&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=1920&amp;q=75 2x"
+       src="/static/media/_16x9.d50e36d3.png?w=1920&amp;q=75"
+       style="color: transparent;"
+  >
+</main>
+`;
