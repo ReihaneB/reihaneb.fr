@@ -11,4 +11,5 @@ interface LinkProps {
   autoFocus?: boolean;
   forwardedRef?: React.RefObject<HTMLButtonElement> | null;
   openInNewTab?: boolean;
+  fullWidth?: boolean;
 }
