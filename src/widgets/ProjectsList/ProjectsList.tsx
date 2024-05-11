@@ -1,3 +1,5 @@
+import { Fragment } from 'react';
+
 import Separator from '@/components/Separator/Separator';
 
 import ProjectHeader from '../ProjectHeader/ProjectHeader';
@@ -17,14 +19,14 @@ function ProjectsList({
         </p>
       </div>
       {projects.map((project, idx) => (
-        <>
+        <Fragment key={project.id}>
           <div className={styles.separatorContainer}>
             <Separator text={(idx + 1).toString()} />
           </div>
           <ProjectHeader
             project={project}
           />
-        </>
+        </Fragment>
       ))}
     </>
   );
