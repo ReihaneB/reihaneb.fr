@@ -1,4 +1,5 @@
 import Section from '@/components/Section/Section';
+import ArticlesListStore from '@/widgets/ArticlesList/ArticlesList.store';
 import HeroHeaderStore from '@/widgets/HeroHeader/HeroHeader.store';
 import ProjectsListStore from '@/widgets/ProjectsList/ProjectsList.store';
 
@@ -11,6 +12,9 @@ async function Home() {
       </Section>
       <Section id="projects-list">
         <ProjectsListStore />
+      </Section>
+      <Section id="articles-list">
+        <ArticlesListStore />
       </Section>
     </div>
   );
