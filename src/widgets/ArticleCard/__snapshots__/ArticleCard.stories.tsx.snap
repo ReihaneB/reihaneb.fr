@@ -1,0 +1,541 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Widgets/ArticleCard _1x1Image smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="400"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard _4x3Image smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="300"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_4x3.58bee57f.png?w=640&amp;q=75 1x, /static/media/_4x3.58bee57f.png?w=828&amp;q=75 2x"
+             src="/static/media/_4x3.58bee57f.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard _16x9Image smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="225"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_16x9.d50e36d3.png?w=640&amp;q=75 1x, /static/media/_16x9.d50e36d3.png?w=828&amp;q=75 2x"
+             src="/static/media/_16x9.d50e36d3.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard LinkHaveTheRightHref play-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="400"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard LongCategoryName smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="400"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            This is a very long category name
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard LongReadTime smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="400"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            100 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard OnlyFocusLink play-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="400"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard Playground smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="400"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard WithLongDescription smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="400"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Id consectetur adipisicing Lorem aute proident.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;
+
+exports[`Widgets/ArticleCard WithLongTitle smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <div class="src-widgets-ArticleCard-ArticleCard-stories-module__container--Pe2pq">
+    <article class="src-widgets-ArticleCard-ArticleCard-module__root--avFaE"
+             style="--article-card-color: #865959;"
+    >
+      <div class="src-widgets-ArticleCard-ArticleCard-module__imageContainer--jGYSb">
+        <img alt="Article image"
+             fetchpriority="high"
+             width="400"
+             height="400"
+             decoding="async"
+             data-nimg="1"
+             class="src-components-Image-Image-module__image--gXjYq"
+             srcset="/static/media/_1x1.ea48a62d.png?w=640&amp;q=75 1x, /static/media/_1x1.ea48a62d.png?w=828&amp;q=75 2x"
+             src="/static/media/_1x1.ea48a62d.png?w=828&amp;q=75"
+             style="color: transparent;"
+        >
+      </div>
+      <div class="src-widgets-ArticleCard-ArticleCard-module__content--FrurJ">
+        <div class="src-widgets-ArticleCard-ArticleCard-module__tags--IqAYc">
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+               style="--tag-color: #ffdede;"
+          >
+            CSS
+          </div>
+          <div class="src-components-Tag-Tag-module__rootStyle--Cd2YJ"
+               data-testid="tag-component"
+               tabindex="-1"
+          >
+            5 min.
+          </div>
+        </div>
+        <h2 class="src-widgets-ArticleCard-ArticleCard-module__title--dWwUy">
+          Quis proident deserunt reprehenderit non consectetur cillum est velit eiusmod deserunt id cillum non.
+        </h2>
+        <p class="src-widgets-ArticleCard-ArticleCard-module__description--IjJJQ">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula, turpis vel luctus tincidunt, erat felis lacinia libero, nec accumsan nunc odio sit amet urna. Sed at urna auctor, tincidunt lacus vitae, ultricies nulla. Nullam euismod, justo sit amet tincidunt vehicula, nunc ex ultricies felis, nec lacinia nunc dolor vel libero. Nulla facilisi. Nullam eget nunc ac libero ultricies ultricies. Suspendisse potenti. Aliquam erat volutpat. Nullam nec ante auctor, ultricies elit ac, lacinia libero.
+        </p>
+        <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+           data-testid="link-component"
+           target="_self"
+           href="/blog/article-slugged"
+        >
+          Continuer la lecture
+        </a>
+      </div>
+    </article>
+  </div>
+</main>
+`;

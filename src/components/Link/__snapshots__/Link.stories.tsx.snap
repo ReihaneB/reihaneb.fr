@@ -72,6 +72,18 @@ exports[`Components/Link FocusOnTab play-test 1`] = `
 </main>
 `;
 
+exports[`Components/Link FullWidth smoke-test 1`] = `
+<main class="-storybook-preview-module__root--fQckk inter-normal">
+  <a class="src-components-Link-Link-module__root--ggyqZ src-components-Link-Link-module__primary--hzP7j src-components-Link-Link-module__fullWidth--Rafql"
+     data-testid="link-component"
+     target="_self"
+     href="/"
+  >
+    Click on the link
+  </a>
+</main>
+`;
+
 exports[`Components/Link LongText smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-components-Link-Link-stories-module__container--Kpt8t">
