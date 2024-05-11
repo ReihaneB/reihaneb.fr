@@ -11,11 +11,15 @@
   --grey-light: #e5e7eb;
 
   /* container */
-  --container-width: 1200px;
+  --container-padding: 16px;
+  --container-width: min(calc(100% - var(--container-padding) * 2), 1200px);;
 
   @media (width <= 1199px) {
-    --container-padding: 16px;
-    --container-width: calc(100% - var(--container-padding) * 2);
+    --container-width: min(928px, calc(100% - var(--container-padding) * 2));;
+  }
+
+  @media (width <= 768px) {
+    --container-width: min(480px, calc(100% - var(--container-padding) * 2));
   }
 }
 
@@ -28,8 +32,7 @@
   vertical-align: baseline;
 }
 
-html,
-body {
+html {
   overflow-x: hidden;
   box-sizing: border-box;
   width: 100%;
