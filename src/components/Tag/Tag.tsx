@@ -1,4 +1,5 @@
-import { memo } from 'react';
+
+import React, { memo } from 'react';
 import Image from 'next/image';
 
 import styles from './Tag.module.css';
@@ -7,11 +8,13 @@ import type { TagProps } from './Tag.d';
 function Tag({
   children,
   Icon = null,
+  color,
   ...rest
 }: TagProps) {
   return (
     <div
       className={styles.rootStyle}
+      style={{ '--tag-color': color } as React.CSSProperties}
       data-testid="tag-component"
       tabIndex={-1}
       {...rest}

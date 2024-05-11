@@ -1,7 +1,7 @@
 .rootStyle {
   display: inline-flex;
   align-items: center;
-  background-color: var(--grey-light);
+  background-color: var(--tag-color, var(--grey-light));
   padding: 12px 24px;
   text-align: center;
   border-radius: 12px;
