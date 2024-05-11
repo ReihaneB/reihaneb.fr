@@ -9,6 +9,7 @@
   transition: transform 0.2s cubic-bezier(0, 1.88, 0.82, 1.77);
   user-select: none;
   -webkit-touch-callout: none;
+  justify-content: center;
 }
 
 .root:focus-visible {
@@ -52,3 +53,6 @@
   padding: 0 8px;
 }
 
+.fullWidth {
+  width: 100%;
+}

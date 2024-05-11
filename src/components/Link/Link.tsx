@@ -20,6 +20,7 @@ function Link({
   autoFocus = false,
   forwardedRef = null,
   openInNewTab = false,
+  fullWidth = false,
   ...rest
 }: LinkProps) {
   const { ref: elementRef } = useFocusable(forwardedRef, { autoFocus });
@@ -33,6 +34,7 @@ function Link({
           [styles.secondary]: color === 'secondary',
           [styles.small]: size === 'small',
           [styles.rounded]: rounded,
+          [styles.fullWidth]: fullWidth,
         })
       }
       ref={elementRef}

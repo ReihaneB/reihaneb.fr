@@ -21,6 +21,7 @@ const defaultArgs = {
   children: 'Click on the link',
   autoFocus: false,
   forwardedRef: null,
+  fullWidth: false,
 };
 
 export const Playground: Story = {
@@ -125,6 +126,13 @@ export const SecondarySmallRounded: Story = {
     color: 'secondary',
     size: 'small',
     rounded: true,
+  },
+};
+
+export const FullWidth: Story = {
+  args: {
+    ...defaultArgs,
+    fullWidth: true,
   },
 };
 
