@@ -27,6 +27,7 @@ function SyntaxHighlighter({
           style: {
             backgroundColor: 'transparent',
             fontFamily: '"Fira Code", "Fira Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace',
+            padding: '0',
           },
         }}
         {...rest}
