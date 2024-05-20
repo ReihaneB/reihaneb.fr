@@ -7,7 +7,7 @@ exports[`Components/SyntaxHighlighter CSS smoke-test 1`] = `
       css
     </p>
     <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
-      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; padding: 0px; white-space: pre;">
         <span class="token"
               style="color: rgb(160, 73, 0);"
         >
@@ -109,7 +109,7 @@ exports[`Components/SyntaxHighlighter JavaScript smoke-test 1`] = `
       javascript
     </p>
     <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
-      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; padding: 0px; white-space: pre;">
         <span class="token"
               style="color: rgb(160, 73, 0);"
         >
@@ -265,7 +265,7 @@ exports[`Components/SyntaxHighlighter Playground smoke-test 1`] = `
       javascript
     </p>
     <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
-      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; padding: 0px; white-space: pre;">
         <span class="token console"
               style="color: rgb(0, 90, 142);"
         >
@@ -314,7 +314,7 @@ exports[`Components/SyntaxHighlighter TypeScript smoke-test 1`] = `
       typescript
     </p>
     <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
-      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; padding: 0px; white-space: pre;">
         <span class="token"
               style="color: rgb(160, 73, 0);"
         >
@@ -489,7 +489,7 @@ exports[`Components/SyntaxHighlighter WithouthLanguage smoke-test 1`] = `
 <main class="-storybook-preview-module__root--fQckk inter-normal">
   <div class="src-components-SyntaxHighlighter-SyntaxHighlighter-module__root--Cc7Sr">
     <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
-      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+      <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; padding: 0px; white-space: pre;">
         <span>
           body {
         </span>

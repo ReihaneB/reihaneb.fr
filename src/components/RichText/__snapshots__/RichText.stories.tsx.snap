@@ -8,7 +8,7 @@ exports[`Components/RichText Code smoke-test 1`] = `
         python
       </p>
       <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
-        <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+        <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; padding: 0px; white-space: pre;">
           <span class="token"
                 style="color: rgb(160, 73, 0);"
           >
@@ -285,7 +285,7 @@ exports[`Components/RichText Playground smoke-test 1`] = `
         python
       </p>
       <pre style="color: rgb(17, 27, 39); background: transparent; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin: 0px; overflow: auto;">
-        <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; white-space: pre;">
+        <code style="background-color: transparent; font-family: &quot;Fira Code&quot;, &quot;Fira Mono&quot;, Menlo, Consolas, &quot;DejaVu Sans Mono&quot;, monospace; padding: 0px; white-space: pre;">
           <span class="token"
                 style="color: rgb(160, 73, 0);"
           >
