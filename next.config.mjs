@@ -4,12 +4,12 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '**.reihaneb.fr',
+        hostname: '*.reihaneb.fr',
         port: '',
       },
       {
         protocol: 'https',
-        hostname: '*.supabase.co',
+        hostname: '*.scw.cloud',
         port: '',
       },
     ],
