@@ -10,8 +10,8 @@ WORKDIR /app
 # Copy package files
 COPY package.json package-lock.json ./
 
-# Install dependencies
-RUN npm ci --only=production
+# Install all dependencies
+RUN npm ci
 
 # ================================
 # Stage 2: Builder
@@ -24,12 +24,17 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 
-# Install all dependencies (including devDependencies for build)
-RUN npm ci
+# Build arguments for environment variables needed at build time
+ARG API_URL
+ARG MAINTENANCE_MODE
+ARG API_TOKEN
 
 # Set environment variables for build
 ENV NEXT_TELEMETRY_DISABLED=1
 ENV NODE_ENV=production
+ENV API_URL=${API_URL}
+ENV MAINTENANCE_MODE=${MAINTENANCE_MODE}
+ENV API_TOKEN=${API_TOKEN}
 
 # Build the application
 RUN npm run build
