@@ -1,0 +1,19 @@
+services:
+  web:
+    container_name: reihaneb-web
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "3001:3000"
+    networks:
+      - reihaneb-network
+    environment:
+      - API_URL=${API_URL}
+      - MAINTENANCE_MODE=${MAINTENANCE_MODE}
+      - API_TOKEN=${API_TOKEN}
+
+networks:
+  reihaneb-network:
+    external: true
